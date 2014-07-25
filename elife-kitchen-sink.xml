@@ -56,7 +56,7 @@
                         <surname>Brown</surname>
                         <given-names>Laura W</given-names>
                     </name>
-                    <uri content-type="orcid">http://orcid.org/0000-0002-7361-560X</uri>
+                    <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7361-560X</contrib-id>
                     <xref ref-type="aff" rid="aff2">2</xref>
                     <xref ref-type="fn" rid="equal-contrib">&#x2020;</xref>
                     <xref ref-type="other" rid="par-1"/>
