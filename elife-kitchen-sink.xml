@@ -2646,9 +2646,8 @@
                 <title>Major datasets</title>
                 <p>The following datasets were generated:</p>
                 <p>
-                    <related-object content-type="generated-dataset"
-                        document-id="Dataset ID and/or url" document-id-type="dataset"
-                        document-type="data" id="dataro1">
+                    <related-article related-article-type="generated-dataset"
+                        id="dataro1">
                         <name>
                             <surname>Alegado</surname>
                             <given-names>Rosanna A</given-names>
@@ -2666,12 +2665,11 @@
                             >http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615</ext-link>
                         <x>, </x>
                         <comment>Database, license, and accessibility information.</comment>
-                    </related-object>
+                    </related-article>
                 </p>
                 <p>
-                    <related-object content-type="generated-dataset"
-                        document-id="Dataset ID and/or url 2" document-id-type="dataset"
-                        document-type="data" id="dataro2">
+                    <related-article related-article-type="generated-dataset"
+                        id="dataro2">
                         <name>
                             <surname>Alegado</surname>
                             <given-names>Rosanna A</given-names>
@@ -2689,13 +2687,12 @@
                             >http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
                         <x>, </x>
                         <comment>Database, license, and accessibility information.</comment>
-                    </related-object>
+                    </related-article>
                 </p>
                 <p>The following previously published dataset was used</p>
                 <p>
-                    <related-object content-type="generated-dataset"
-                        document-id="Dataset ID and/or url" document-id-type="dataset"
-                        document-type="data" id="dataro3">
+                    <related-article related-article-type="existing-dataset"
+                        id="dataro3">
                         <name>
                             <surname>Fowler-Finn</surname>
                             <given-names>KD</given-names>
@@ -2713,7 +2710,7 @@
                         <x>, </x>
                         <comment>Creative Commons, stored on Dryad, available on publication of the
                             article.</comment>
-                    </related-object>
+                    </related-article>
                 </p>
             </sec>
         </sec>
