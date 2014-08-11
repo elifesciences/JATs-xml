@@ -40,11 +40,16 @@
                         <surname>Baldwin</surname>
                         <given-names>Ian T</given-names>
                     </name>
-                    <role>is a Senior Editor at <italic>eLife</italic>, and is at the Max Planck
-                        Institute for Chemical Ecology, Jena, Germany</role>
-                    <email>baldwin@ice.mpg.de</email>
+                    <role>Senior Editor at <italic>eLife</italic></role>
+                    <xref ref-type="aff" rid="aff1"/>
                     <xref ref-type="fn" rid="conf1"/>
                 </contrib>
+                <aff id="aff1">
+                    is at the <institution>Max Planck Institute for Chemical Ecology</institution>, 
+                    <addr-line><named-content content-type="city">Jena</named-content></addr-line>,
+                    <country>Germany</country>
+                    <email>baldwin@ice.mpg.de</email>
+                </aff>
             </contrib-group>
             <pub-date pub-type="epub">
                 <day>11</day>
