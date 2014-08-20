@@ -41,7 +41,7 @@
                     </name>
                     <xref ref-type="aff" rid="aff1">1</xref>
                     <xref ref-type="aff" rid="aff2">2</xref>
-                    <xref ref-type="con" rid="equal-contrib">&#x2020;</xref>
+                    <xref ref-type="fn" rid="equal-contrib">&#x2020;</xref>
                     <xref ref-type="other" rid="par-1"/>
                     <xref ref-type="other" rid="par-2"/>
                     <xref ref-type="fn" rid="con1"/>
@@ -57,7 +57,7 @@
                     </name>
                     <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7361-560X</contrib-id>
                     <xref ref-type="aff" rid="aff2">2</xref>
-                    <xref ref-type="con" rid="equal-contrib">&#x2020;</xref>
+                    <xref ref-type="fn" rid="equal-contrib">&#x2020;</xref>
                     <xref ref-type="other" rid="par-1"/>
                     <xref ref-type="other" rid="par-3"/>
                     <xref ref-type="fn" rid="con2"/>
@@ -70,7 +70,7 @@
                         <given-names>Shugeng</given-names>
                     </name>
                     <xref ref-type="aff" rid="aff2">2</xref>
-                    <xref ref-type="con" rid="equal-contrib2">&#x2021;</xref>
+                    <xref ref-type="fn" rid="equal-contrib2">&#x2021;</xref>
                     <xref ref-type="fn" rid="con3"/>
                     <xref ref-type="fn" rid="conf2"/>
                 </contrib>
@@ -80,7 +80,7 @@
                         <given-names>Renee Kathryn</given-names>
                     </name>
                     <xref ref-type="aff" rid="aff2">2</xref>
-                    <xref ref-type="con" rid="equal-contrib2">&#x2021;</xref>
+                    <xref ref-type="fn" rid="equal-contrib2">&#x2021;</xref>
                     <xref ref-type="fn" rid="con4"/>
                     <xref ref-type="fn" rid="conf2"/>
                     <xref ref-type="other" rid="pa3"/>
