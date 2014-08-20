@@ -142,6 +142,7 @@
                     <xref ref-type="fn" rid="conf2"/>
                     <xref ref-type="fn" rid="ga">&#xa7;</xref>
                     <xref ref-type="other" rid="gal1"/>
+                    <xref ref-type="other" rid="par-7"/>
                 </contrib>
                 <contrib contrib-type="author">
                     <collab>eLife staff group</collab>
@@ -501,6 +502,14 @@
                             <surname>Fairclough</surname>
                             <given-names>Stephen R</given-names>
                         </name>
+                    </principal-award-recipient>
+                </award-group>
+                <award-group id="par-7">
+                    <funding-source><institution-wrap>
+                        <institution content-type="university">Laura and John Arnold Foundation</institution>
+                    </institution-wrap></funding-source>
+                    <principal-award-recipient>
+                        NISC Comparative Sequencing Program
                     </principal-award-recipient>
                 </award-group>
                 <funding-statement>The funders had no role in study design; collection, analysis,
