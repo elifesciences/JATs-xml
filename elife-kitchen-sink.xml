@@ -136,6 +136,7 @@
                 <on-behalf-of>for the HIV Genome-to-Genome Study and the Swiss HIV Cohort Study</on-behalf-of>
                 <contrib contrib-type="author" corresp="yes">
                     <collab>NISC Comparative Sequencing Program</collab>
+                    <xref ref-type="corresp" rid="cor3">&#x2a;</xref>
                     <xref ref-type="fn" rid="ga">&#xa7;</xref>
                     <xref ref-type="other" rid="gal1"/>
                 </contrib>
@@ -237,6 +238,8 @@
                         correspondence:<email>jon_clardy@hms.harvard.edu</email>(JC);</corresp>
                 <corresp id="cor2">
                     <email>nking@berkeley.edu</email>(NK)</corresp>
+                <corresp id="cor3">
+                    <email>mharrison@elifesciences.org</email>(MH)</corresp>
                 <fn fn-type="con" id="equal-contrib">
                     <label>&#x2020;</label>
                     <p>These authors contributed equally to this work</p>
