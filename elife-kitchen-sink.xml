@@ -134,7 +134,7 @@
                     <xref ref-type="fn" rid="conf2"/>
                 </contrib>
                 <on-behalf-of>for the HIV Genome-to-Genome Study and the Swiss HIV Cohort Study</on-behalf-of>
-                <contrib contrib-type="author">
+                <contrib contrib-type="author" corresp="yes">
                     <collab>NISC Comparative Sequencing Program</collab>
                     <xref ref-type="fn" rid="ga">&#xa7;</xref>
                     <xref ref-type="other" rid="gal1"/>
