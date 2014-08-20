@@ -140,13 +140,11 @@
                     <xref ref-type="aff" rid="aff3">3</xref>
                     <xref ref-type="fn" rid="con9"/>
                     <xref ref-type="fn" rid="conf2"/>
-                    <xref ref-type="fn" rid="ga">&#xa7;</xref>
                     <xref ref-type="other" rid="gal1"/>
                     <xref ref-type="other" rid="par-7"/>
                 </contrib>
                 <contrib contrib-type="author">
                     <collab>eLife staff group</collab>
-                    <xref ref-type="fn" rid="ga">&#xa7;</xref>
                     <xref ref-type="other" rid="gal2"/>
                 </contrib>
                 <aff id="aff1">
@@ -251,10 +249,6 @@
                 <fn fn-type="con" id="equal-contrib2">
                     <label>&#x2021;</label>
                     <p>These authors contributed equally to this work</p>
-                </fn>
-                <fn fn-type="other" id="ga">
-                    <label>&#xa7;</label>
-                    <p>For list of group authors see Acknowledgements</p>
                 </fn>
                 <fn fn-type="present-address" id="pa1">
                     <label>&#xb6;</label>
