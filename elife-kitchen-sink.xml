@@ -138,6 +138,8 @@
                     <collab>NISC Comparative Sequencing Program</collab>
                     <xref ref-type="corresp" rid="cor3">&#x2a;</xref>
                     <xref ref-type="aff" rid="aff3">3</xref>
+                    <xref ref-type="fn" rid="con9"/>
+                    <xref ref-type="fn" rid="conf2"/>
                     <xref ref-type="fn" rid="ga">&#xa7;</xref>
                     <xref ref-type="other" rid="gal1"/>
                 </contrib>
@@ -2579,6 +2581,9 @@
                 <fn fn-type="con" id="con8">
                     <p>NK, Conception and design, Analysis and interpretation of data, Drafting or
                         revising the article</p>
+                </fn>
+                <fn fn-type="con" id="con9">
+                    <p>NISC Comparative Sequencing Program: JM did X, IM did Y and JB did Z and Y</p>
                 </fn>
             </fn-group>
             <fn-group content-type="ethics-information">
