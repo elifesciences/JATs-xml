@@ -40,16 +40,11 @@
 						<given-names>Irakli</given-names>
 					</name>
 					<aff>
-						<addr-line>
-							<named-content content-type="department">Department of Mathematics Education</named-content>
-						</addr-line>
-						, 
-						<institution>Catholic University of Daegu</institution>
-						, 
+						<institution content-type="dept">Department of Mathematics Education</institution>, 
+						<institution>Catholic University of Daegu</institution>, 
 						<addr-line>
 							<named-content content-type="city">Gyeongsan</named-content>
-						</addr-line>
-						, 
+						</addr-line>, 
 						<country>Korea (South), Republic of</country>
 						<email>loladze@asu.edu</email>
 					</aff>
@@ -64,8 +59,7 @@
 					</name>
 					<role>Reviewing editor</role>
 					<aff>
-						<institution>Max Planck Institute for Chemical Ecology</institution>
-						, 
+						<institution>Max Planck Institute for Chemical Ecology</institution>, 
 						<country>Germany</country>
 					</aff>
 				</contrib>
@@ -84,9 +78,9 @@
 				</date>
 			</history>
 			<permissions>
-				<copyright-statement>Copyright © 2014, Loladze &amp; Baldwin</copyright-statement>
+				<copyright-statement>Copyright © 2014, Loladze</copyright-statement>
 				<copyright-year>2014</copyright-year>
-				<copyright-holder>Loladze &amp; Baldwin</copyright-holder>
+				<copyright-holder>Loladze</copyright-holder>
 				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/">
 					<license-p>
 						This article is distributed under the terms of the 
