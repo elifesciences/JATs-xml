@@ -40,9 +40,9 @@
                     <role><italic>eLife</italic> senior editor</role>
                     <x> , and is in the </x>
                     <aff id="aff1">
-                        <addr-line><named-content content-type="department">Department of
+                        <institution content-type="dept">Department of
                                 Biology and the Volen National Center for Complex
-                                Systems</named-content></addr-line>, <institution>Brandeis
+                                Systems</institution>, <institution>Brandeis
                             University</institution>, <addr-line><named-content content-type="city"
                                 >Waltham</named-content></addr-line>, <country>United
                             States</country>
