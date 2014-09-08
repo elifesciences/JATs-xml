@@ -39,6 +39,7 @@
                     </name>
                     <xref ref-type="aff" rid="aff1"/>
                     <xref ref-type="fn" rid="conf1"/>
+                    <x>is in the</x>
                 </contrib>
                 <contrib contrib-type="author" corresp="yes" id="author-1199">
                     <name>
@@ -48,15 +49,16 @@
                     <role>Reviewing Editor at <italic>eLife</italic></role>
                     <xref ref-type="aff" rid="aff2"/>
                     <xref ref-type="fn" rid="conf1"/>
+                    <x>is in the</x>
                 </contrib>
-                <aff id="aff1">is in the
+                <aff id="aff1">
                             <addr-line><named-content content-type="department">Department of
                             Biological Chemistry and Molecular
                         Pharmacology</named-content></addr-line>, <institution>Harvard Medical
                         School</institution>, <addr-line><named-content content-type="city"
                             >Boston</named-content></addr-line>, <country>United States</country>
                     <email>gheorghe_chistol@hms.harvard.edu</email></aff>
-                <aff id="aff2">Is in the <institution>Howard
+                <aff id="aff2"><institution>Howard
                         Hughes Medical Institute</institution> and the <addr-line><named-content
                             content-type="department">Department of Biological Chemistry and
                             Molecular Pharmacology</named-content></addr-line>, <institution>Harvard
