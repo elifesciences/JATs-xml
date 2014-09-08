@@ -128,10 +128,8 @@
             <author-notes>
                 <corresp id="cor1"><label>&#x2a;</label>For correspondence:
                         <email>kevin.esvelt@wyss.harvard.edu</email> (KME);</corresp>
-                <corresp id="cor2"><label>&#x2a;</label>For correspondence:
-                        <email>fcatter@hsph.harvard.edu</email> (FC);</corresp>
-                <corresp id="cor3"><label>&#x2a;</label>For correspondence:
-                        <email>gmc@harvard.edu</email> (GMC)</corresp>
+                <corresp id="cor2"><email>fcatter@hsph.harvard.edu</email> (FC);</corresp>
+                <corresp id="cor3"><email>gmc@harvard.edu</email> (GMC)</corresp>
             </author-notes>
             <pub-date publication-format="electronic" date-type="pub">
                 <day>17</day>
