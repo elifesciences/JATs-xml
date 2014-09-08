@@ -43,9 +43,9 @@
                     <role>Senior Editor at <italic>eLife</italic></role>
                     <xref ref-type="aff" rid="aff1"/>
                     <xref ref-type="fn" rid="conf1"/>
-                </contrib>
+                    <x>is at the</x> </contrib>
                 <aff id="aff1">
-                    is at the <institution>Max Planck Institute for Chemical Ecology</institution>, 
+                    <institution>Max Planck Institute for Chemical Ecology</institution>, 
                     <addr-line><named-content content-type="city">Jena</named-content></addr-line>,
                     <country>Germany</country>
                     <email>baldwin@ice.mpg.de</email>
