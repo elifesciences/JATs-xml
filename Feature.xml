@@ -81,36 +81,35 @@
                     <xref ref-type="fn" rid="conf3"/>
                 </contrib>
                 <aff id="aff1"><bold>Kevin M Esvelt</bold>
-                    <addr-line><named-content content-type="department">Synthetic Biology
-                            Platform</named-content></addr-line>, <institution>Wyss Institute for
+                    <institution content-type="dept">Synthetic Biology
+                            Platform</institution>, <institution>Wyss Institute for
                         Biologically Inspired Engineering, Harvard Medical School</institution>,
                             <addr-line><named-content content-type="city"
                         >Boston</named-content></addr-line>, <country>United States</country></aff>
                 <aff id="aff2"><bold>Andrea L Smidler</bold>
-                    <addr-line><named-content content-type="department">Synthetic Biology
-                            Platform</named-content></addr-line>, <institution>Wyss Institute for
+                    <institution content-type="dept">Synthetic Biology
+                            Platform</institution>, <institution>Wyss Institute for
                         Biologically Inspired Engineering, Harvard Medical School</institution>,
                             <addr-line><named-content content-type="city"
                         >Boston</named-content></addr-line>, <country>United States</country>;
-                            <addr-line><named-content content-type="department">Department of
-                            Immunology and Infectious Diseases</named-content></addr-line>,
+                    <institution content-type="dept">Department of
+                            Immunology and Infectious Diseases</institution>,
                         <institution>Harvard School of Public Health</institution>,
                             <addr-line><named-content content-type="city"
                         >Boston</named-content></addr-line>, <country>United States</country></aff>
                 <aff id="aff3"><bold>Flaminia Catteruccia</bold>
-                    <addr-line><named-content content-type="department">Department of Immunology and
-                            Infectious Diseases</named-content></addr-line>, <institution>Harvard
+                    <institution content-type="dept">Department of Immunology and
+                            Infectious Diseases</institution>, <institution>Harvard
                         School of Public Health</institution>, <addr-line><named-content
                             content-type="city">Boston</named-content></addr-line>, <country>United
-                        States</country>; <addr-line><named-content content-type="department"
-                            >Dipartimento di Medicina Sperimentale e Scienze
-                            Biochimiche</named-content></addr-line>, <institution>Universit&#xe0;
+                                States</country>; <institution content-type="dept">Dipartimento di Medicina Sperimentale e Scienze
+                            Biochimiche</institution>, <institution>Universit&#xe0;
                         degli Studi di Perugia</institution>, <addr-line><named-content
                             content-type="city">Terni</named-content></addr-line>,
                         <country>Italy</country></aff>
                 <aff id="aff4"><bold>George M Church</bold>
-                    <addr-line><named-content content-type="department">Synthetic Biology
-                            Platform</named-content></addr-line>, <institution>Wyss Institute for
+                    <institution content-type="dept">Synthetic Biology
+                            Platform</institution>, <institution>Wyss Institute for
                         Biologically Inspired Engineering, Harvard Medical School</institution>,
                             <addr-line><named-content content-type="city"
                         >Boston</named-content></addr-line>, <country>United States</country></aff>
