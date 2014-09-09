@@ -41,7 +41,7 @@
                         <surname>Esvelt</surname>
                         <given-names>Kevin M</given-names>
                     </name>
-                    <uri content-type="orcid">http://orcid.org/0000-0001-8797-3945</uri>
+                    <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8797-3945</contrib-id>
                     <xref ref-type="aff" rid="aff1"/>
                     <xref ref-type="corresp" rid="cor1">&#x2a;</xref>
                     <xref ref-type="other" rid="par-1"/>
@@ -54,7 +54,7 @@
                         <surname>Smidler</surname>
                         <given-names>Andrea L</given-names>
                     </name>
-                    <uri content-type="orcid">http://orcid.org/0000-0002-3281-1161</uri>
+                    <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3281-1161</contrib-id>
                     <xref ref-type="aff" rid="aff2"/>
                     <xref ref-type="other" rid="par-2"/>
                     <xref ref-type="fn" rid="con2"/>
