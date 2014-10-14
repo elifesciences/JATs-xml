@@ -2727,18 +2727,21 @@
         <ref-list>
             <title>References</title>
             <ref id="bib1">
-                <mixed-citation publication-type="book">
+                <element-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Agosta</surname>
                             <given-names>WC</given-names>
                         </name>
-                    </person-group>. <year>1992</year>. <source>Chemical Communication</source>.
-                        <publisher-loc>New York</publisher-loc>: <publisher-name>Scientific American
-                        Press</publisher-name>.</mixed-citation>
+                    </person-group>
+                    <year>1992</year>
+                    <source>Chemical Communication</source>
+                    <publisher-loc>New York</publisher-loc>
+                    <publisher-name>Scientific American Press</publisher-name>
+                </element-citation>
             </ref>
             <ref id="bib2">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ahmed</surname>
@@ -2752,15 +2755,21 @@
                             <surname>Fujiwara</surname>
                             <given-names>T</given-names>
                         </name>
-                    </person-group>. <year>2007</year>. <article-title>Chimaereicella boritolerans
-                        sp nov., a boron-tolerant and alkaliphilic bacterium of the family
-                        Flavobacteriaceae isolated from soil</article-title>. <source>International
-                        journal of systematic and evolutionary microbiology</source>
-                    <volume>57</volume>:<fpage>986</fpage>&#x2013;<lpage>92</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.64728-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Chimaereicella boritolerans sp nov., a boron-tolerant and
+                        alkaliphilic bacterium of the family Flavobacteriaceae isolated from
+                        soil</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>57</volume>
+                    <fpage>986</fpage>
+                    <lpage>92</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.64728-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib3">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Alegado</surname>
@@ -2786,15 +2795,20 @@
                             <surname>Summons</surname>
                             <given-names>RE</given-names>
                         </name>
-                    </person-group>. <year>2012</year>. <article-title>Algoriphagus machipongonensis
-                        sp. nov. co-isolated with a colonial choanoflagellate</article-title>.
-                        <source>International journal of systematic and evolutionary
+                    </person-group>
+                    <year>2012</year>
+                    <article-title>Algoriphagus machipongonensis sp. nov. co-isolated with a
+                        colonial choanoflagellate</article-title>
+                    <source>International journal of systematic and evolutionary
                         microbiology</source>
-                    <volume>24</volume>:<fpage>3864601</fpage>&#x2013;<lpage>386460</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1099/ijs.0.038646-0</pub-id>.</mixed-citation>
+                    <volume>24</volume>
+                    <fpage>3864601</fpage>
+                    <lpage>386460</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.038646-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib4">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>An</surname>
@@ -2816,15 +2830,20 @@
                             <surname>Kasper</surname>
                             <given-names>DL</given-names>
                         </name>
-                    </person-group>. <year>2011</year>. <article-title>Membrane sphingolipids as
-                        essential molecular signals for bacteroides survival in the
-                        intestine</article-title>. <source>Proceedings of the National Academy of
-                        Sciences of the United States of America</source>
-                    <volume>108</volume>:<fpage>4666</fpage>&#x2013;<lpage>4671</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1073/pnas.1001501107</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2011</year>
+                    <article-title>Membrane sphingolipids as essential molecular signals for
+                        bacteroides survival in the intestine</article-title>
+                    <source>Proceedings of the National Academy of Sciences of the United States of
+                        America</source>
+                    <volume>108</volume>
+                    <fpage>4666</fpage>
+                    <lpage>4671</lpage>
+                    <pub-id pub-id-type="doi">10.1073/pnas.1001501107</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib5">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Anton</surname>
@@ -2850,37 +2869,51 @@
                             <surname>Rossello-Mora</surname>
                             <given-names>R</given-names>
                         </name>
-                    </person-group>. <year>2002</year>. <article-title>Salinibacter ruber gen. nov.,
-                        sp nov., a novel, extremely halophilic member of the bacteria from saltern
-                        crystallizer ponds</article-title>. <source>International journal of
-                        systematic and evolutionary microbiology</source>
-                    <volume>52</volume>:<fpage>485</fpage>&#x2013;<lpage>491</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>2002</year>
+                    <article-title>Salinibacter ruber gen. nov., sp nov., a novel, extremely
+                        halophilic member of the bacteria from saltern crystallizer
+                        ponds</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>52</volume>
+                    <fpage>485</fpage>
+                    <lpage>491</lpage>
+                </element-citation>
             </ref>
             <ref id="bib6">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Apicella</surname>
                             <given-names>MA</given-names>
                         </name>
-                    </person-group>. <year>2008</year>. <article-title>Isolation and
-                        characterization of lipopolysaccharides</article-title>. <source>Methods in
-                        molecular biology</source>
-                    <volume>431</volume>:<fpage>3</fpage>&#x2013;<lpage>13</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Isolation and characterization of
+                        lipopolysaccharides</article-title>
+                    <source>Methods in molecular biology</source>
+                    <volume>431</volume>
+                    <fpage>3</fpage>
+                    <lpage>13</lpage>
+                </element-citation>
             </ref>
             <ref id="bib7">
-                <mixed-citation publication-type="book">
+                <element-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Atlas</surname>
                             <given-names>RM</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <source>Handbook of microbiological
-                        media</source>. <publisher-name>CRC</publisher-name>. p.
-                    <fpage>2051</fpage>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <source>Handbook of microbiological media</source>
+                    <publisher-name>CRC</publisher-name>
+                    <fpage>2051</fpage>
+                </element-citation>
             </ref>
             <ref id="bib8">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Barbeyron</surname>
@@ -2902,17 +2935,22 @@
                             <surname>Potin</surname>
                             <given-names>P</given-names>
                         </name>
-                    </person-group>. <year>2001</year>. <article-title>Zobellia galactanovorans gen.
-                        nov., sp. nov., a marine species of Flavobacteriaceae isolated from a red
-                        alga, and classification of [Cytophaga] uliginosa (ZoBell and Upham 1944)
-                        Reichenbach 1989 as Zobellia uliginosa gen. nov., comb. nov</article-title>.
-                        <source>International journal of systematic and evolutionary
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>Zobellia galactanovorans gen. nov., sp. nov., a marine species of
+                        Flavobacteriaceae isolated from a red alga, and classification of
+                        [Cytophaga] uliginosa (ZoBell and Upham 1944) Reichenbach 1989 as Zobellia
+                        uliginosa gen. nov., comb. nov</article-title>
+                    <source>International journal of systematic and evolutionary
                         microbiology</source>
-                    <volume>51</volume>:<fpage>985</fpage>&#x2013;<lpage>997</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/00207713-51-3-985</pub-id>.</mixed-citation>
+                    <volume>51</volume>
+                    <fpage>985</fpage>
+                    <lpage>997</lpage>
+                    <pub-id pub-id-type="doi">10.1099/00207713-51-3-985</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib9">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bernardet</surname>
@@ -2938,17 +2976,21 @@
                             <surname>Vandamme</surname>
                             <given-names>P</given-names>
                         </name>
-                    </person-group>. <year>1996</year>. <article-title>Cutting a gordian knot:
-                        Emended classification and description of the genus Flavobacterium, emended
-                        description of the family Flavobacteriaceae, and proposal of Flavobacterium
-                        hydatis nom nov (basonym, Cytophaga aquatilis Strohl and Tait
-                        1978)</article-title>. <source>International journal of systematic
-                        bacteriology</source>
-                    <volume>46</volume>:<fpage>128</fpage>&#x2013;<lpage>148</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/00207713-46-1-128</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1996</year>
+                    <article-title>Cutting a gordian knot: Emended classification and description of
+                        the genus Flavobacterium, emended description of the family
+                        Flavobacteriaceae, and proposal of Flavobacterium hydatis nom nov (basonym,
+                        Cytophaga aquatilis Strohl and Tait 1978)</article-title>
+                    <source>International journal of systematic bacteriology</source>
+                    <volume>46</volume>
+                    <fpage>128</fpage>
+                    <lpage>148</lpage>
+                    <pub-id pub-id-type="doi">10.1099/00207713-46-1-128</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib10">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Blattner</surname>
@@ -3019,15 +3061,19 @@
                             <surname>Shao</surname>
                             <given-names>Y</given-names>
                         </name>
-                    </person-group>. <year>1997</year>. <article-title>The complete genome sequence
-                        of <italic>Escherichia coli</italic> K-12</article-title>.
-                        <source>Science</source>
-                    <volume>277</volume>:<fpage>1453</fpage>&#x2013;<lpage>1462</lpage>. doi:
-                        <pub-id pub-id-type="doi"
-                    >10.1126/science.277.5331.1453</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1997</year>
+                    <article-title>The complete genome sequence of <italic>Escherichia coli</italic>
+                        K-12</article-title>
+                    <source>Science</source>
+                    <volume>277</volume>
+                    <fpage>1453</fpage>
+                    <lpage>1462</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.277.5331.1453</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib11">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bligh</surname>
@@ -3037,14 +3083,19 @@
                             <surname>Dyer</surname>
                             <given-names>WJ</given-names>
                         </name>
-                    </person-group>. <year>1959</year>. <article-title>A rapid method of total lipid
-                        extraction and purification</article-title>. <source>Canadian journal of
-                        biochemistry and physiology</source>
-                    <volume>37</volume>:<fpage>911</fpage>&#x2013;<lpage>917</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1139/o59-099</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1959</year>
+                    <article-title>A rapid method of total lipid extraction and
+                        purification</article-title>
+                    <source>Canadian journal of biochemistry and physiology</source>
+                    <volume>37</volume>
+                    <fpage>911</fpage>
+                    <lpage>917</lpage>
+                    <pub-id pub-id-type="doi">10.1139/o59-099</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib12">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bowman</surname>
@@ -3058,17 +3109,22 @@
                             <surname>Gibson</surname>
                             <given-names>JAE</given-names>
                         </name>
-                    </person-group>. <year>2003</year>. <article-title>Algoriphagus ratkowskyi gen.
-                        nov., sp. nov., Brumimicrobium glaciale gen. nov., sp. nov., Cryomorpha
-                        ignava gen. nov., sp. nov. and Crocinitomix catalasitica gen. nov., sp.
-                        nov., novel flavobacteria isolated from various polar
-                        habitats</article-title>. <source>International journal of systematic and
-                        evolutionary microbiology</source>
-                    <volume>53</volume>:<fpage>1343</fpage>&#x2013;<lpage>1355</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.02553-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2003</year>
+                    <article-title>Algoriphagus ratkowskyi gen. nov., sp. nov., Brumimicrobium
+                        glaciale gen. nov., sp. nov., Cryomorpha ignava gen. nov., sp. nov. and
+                        Crocinitomix catalasitica gen. nov., sp. nov., novel flavobacteria isolated
+                        from various polar habitats</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>53</volume>
+                    <fpage>1343</fpage>
+                    <lpage>1355</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.02553-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib13">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bradley</surname>
@@ -3102,14 +3158,18 @@
                             <surname>Pachter</surname>
                             <given-names>L</given-names>
                         </name>
-                    </person-group>. <year>2009</year>. <article-title>Fast statistical
-                        alignment</article-title>. <source>Public Library of Science International
-                        Society for Computational Biology</source>
-                    <volume>5</volume>:<fpage>e1000392</fpage>. doi: <pub-id pub-id-type="doi"
-                        >10.1371/journal.pcbi.1000392</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2009</year>
+                    <article-title>Fast statistical alignment</article-title>
+                    <source>Public Library of Science International Society for Computational
+                        Biology</source>
+                    <volume>5</volume>
+                    <fpage>e1000392</fpage>
+                    <pub-id pub-id-type="doi">10.1371/journal.pcbi.1000392</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib14">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Brettar</surname>
@@ -3123,16 +3183,21 @@
                             <surname>Hofle</surname>
                             <given-names>M</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Aquiflexum balticum gen.
-                        nov., sp nov., a novel marine bacterium of the
-                        Cytophaga-Flavobacterium-Bacteroides group isolated from surface water of
-                        the central Baltic Sea</article-title>. <source>International journal of
-                        systematic and evolutionary microbiology</source>
-                    <volume>54</volume>:<fpage>2335</fpage>&#x2013;<lpage>2341</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.63255-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Aquiflexum balticum gen. nov., sp nov., a novel marine bacterium
+                        of the Cytophaga-Flavobacterium-Bacteroides group isolated from surface
+                        water of the central Baltic Sea</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>54</volume>
+                    <fpage>2335</fpage>
+                    <lpage>2341</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.63255-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib15">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Brettar</surname>
@@ -3146,16 +3211,20 @@
                             <surname>Hofle</surname>
                             <given-names>MG</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Belliella baltica gen. nov.,
-                        sp. nov., a novel marine bacterium of the
-                        Cytophaga-Flavobacterium-Bacteroides group isolated from surface water of
-                        the central Baltic Sea</article-title>. <source>International journal of
-                        systematic and evolutionary microbiology</source>
-                    <volume>54</volume>:<fpage>65</fpage>. doi: <pub-id pub-id-type="doi"
-                        >10.1099/ijs.0.02752-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Belliella baltica gen. nov., sp. nov., a novel marine bacterium
+                        of the Cytophaga-Flavobacterium-Bacteroides group isolated from surface
+                        water of the central Baltic Sea</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>54</volume>
+                    <fpage>65</fpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.02752-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib16">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Butenandt</surname>
@@ -3169,15 +3238,20 @@
                             <surname>Hecker</surname>
                             <given-names>E</given-names>
                         </name>
-                    </person-group>. <year>1961</year>. <article-title>On the sex attractant of
-                        silk-moths. I. The biological test and the isolation of the pure
-                        sex-attractant bombykol</article-title>. <source>Hoppe-Seyler&#x2019;s
-                        Zeitschrift f&#xfc;r physiologische Chemie</source>
-                    <volume>324</volume>:<fpage>71</fpage>&#x2013;<lpage>83</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1515/bchm2.1961.324.1.71</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1961</year>
+                    <article-title>On the sex attractant of silk-moths. I. The biological test and
+                        the isolation of the pure sex-attractant bombykol</article-title>
+                    <source>Hoppe-Seyler&#x2019;s Zeitschrift f&#xfc;r physiologische
+                        Chemie</source>
+                    <volume>324</volume>
+                    <fpage>71</fpage>
+                    <lpage>83</lpage>
+                    <pub-id pub-id-type="doi">10.1515/bchm2.1961.324.1.71</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib17">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Carlucci</surname>
@@ -3187,15 +3261,20 @@
                             <surname>Pramer</surname>
                             <given-names>D</given-names>
                         </name>
-                    </person-group>. <year>1957</year>. <article-title>Factors influencing the plate
-                        method for determining abundance of bacteria in sea water</article-title>.
-                        <source>Proceedings of the Society for Experimental Biology and
+                    </person-group>
+                    <year>1957</year>
+                    <article-title>Factors influencing the plate method for determining abundance of
+                        bacteria in sea water</article-title>
+                    <source>Proceedings of the Society for Experimental Biology and
                         Medicine</source>
-                    <volume>96</volume>:<fpage>392</fpage>&#x2013;<lpage>394</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.3181/00379727-96-23487</pub-id>.</mixed-citation>
+                    <volume>96</volume>
+                    <fpage>392</fpage>
+                    <lpage>394</lpage>
+                    <pub-id pub-id-type="doi">10.3181/00379727-96-23487</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib18">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Carr</surname>
@@ -3217,143 +3296,49 @@
                             <surname>Baldauf</surname>
                             <given-names>SL</given-names>
                         </name>
-                    </person-group>. <year>2008</year>. <article-title>Molecular phylogeny of
-                        choanoflagellates, the sister group to Metazoa</article-title>.
-                        <source>Proceedings of the National Academy of Sciences of the United States
-                        of America</source>
-                    <volume>105</volume>:<fpage>16641</fpage>&#x2013;<lpage>16646</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1073/pnas.0801667105</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Molecular phylogeny of choanoflagellates, the sister group to
+                        Metazoa</article-title>
+                    <source>Proceedings of the National Academy of Sciences of the United States of
+                        America</source>
+                    <volume>105</volume>
+                    <fpage>16641</fpage>
+                    <lpage>16646</lpage>
+                    <pub-id pub-id-type="doi">10.1073/pnas.0801667105</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib19">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Castresana</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2000</year>. <article-title>Selection of conserved blocks
-                        from multiple alignments for their use in phylogenetic
-                        analysis</article-title>. <source>Molecular biology and evolution</source>
-                    <volume>17</volume>:<fpage>540</fpage>&#x2013;<lpage>552</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1093/oxfordjournals.molbev.a026334</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Selection of conserved blocks from multiple alignments for their
+                        use in phylogenetic analysis</article-title>
+                    <source>Molecular biology and evolution</source>
+                    <volume>17</volume>
+                    <fpage>540</fpage>
+                    <lpage>552</lpage>
+                    <pub-id pub-id-type="doi">10.1093/oxfordjournals.molbev.a026334</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib20">
-                <mixed-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Cerdeno-Tarraga</surname>
-                            <given-names>AM</given-names>
-                        </name>
-                        <name>
-                            <surname>Patrick</surname>
-                            <given-names>S</given-names>
-                        </name>
-                        <name>
-                            <surname>Crossman</surname>
-                            <given-names>L</given-names>
-                        </name>
-                        <name>
-                            <surname>Blakely</surname>
-                            <given-names>GW</given-names>
-                        </name>
-                        <name>
-                            <surname>Abratt</surname>
-                            <given-names>V</given-names>
-                        </name>
-                        <name>
-                            <surname>Lennard</surname>
-                            <given-names>N</given-names>
-                        </name>
-                        <name>
-                            <surname>Poxton</surname>
-                            <given-names>I</given-names>
-                        </name>
-                        <name>
-                            <surname>Duerden</surname>
-                            <given-names>B</given-names>
-                        </name>
-                        <name>
-                            <surname>Harris</surname>
-                            <given-names>B</given-names>
-                        </name>
-                        <name>
-                            <surname>Quail</surname>
-                            <given-names>MA</given-names>
-                        </name>
-                        <name>
-                            <surname>Barron</surname>
-                            <given-names>A</given-names>
-                        </name>
-                        <name>
-                            <surname>Clark</surname>
-                            <given-names>L</given-names>
-                        </name>
-                        <name>
-                            <surname>Corton</surname>
-                            <given-names>C</given-names>
-                        </name>
-                        <name>
-                            <surname>Doggett</surname>
-                            <given-names>J</given-names>
-                        </name>
-                        <name>
-                            <surname>Holden</surname>
-                            <given-names>MT</given-names>
-                        </name>
-                        <name>
-                            <surname>Larke</surname>
-                            <given-names>N</given-names>
-                        </name>
-                        <name>
-                            <surname>Line</surname>
-                            <given-names>A</given-names>
-                        </name>
-                        <name>
-                            <surname>Lord</surname>
-                            <given-names>A</given-names>
-                        </name>
-                        <name>
-                            <surname>Norbertczak</surname>
-                            <given-names>H</given-names>
-                        </name>
-                        <name>
-                            <surname>Ormond</surname>
-                            <given-names>D</given-names>
-                        </name>
-                        <name>
-                            <surname>Price</surname>
-                            <given-names>C</given-names>
-                        </name>
-                        <name>
-                            <surname>Rabbinowitsch</surname>
-                            <given-names>E</given-names>
-                        </name>
-                        <name>
-                            <surname>Woodward</surname>
-                            <given-names>J</given-names>
-                        </name>
-                        <name>
-                            <surname>Barrell</surname>
-                            <given-names>B</given-names>
-                        </name>
-                        <name>
-                            <surname>Parkhill</surname>
-                            <given-names>J</given-names>
-                        </name>
-                    </person-group>. <year>2005</year>. <article-title>Extensive DNA Inversions in
-                        the B. fragilis Genome Control Variable Gene Expression</article-title>.
-                        <person-group person-group-type="editor">
-                        <name>
-                            <surname>Blakely</surname>
-                            <given-names>GW</given-names>
-                        </name>
-                    </person-group>, editor. <source>Science</source>
-                    <volume>307</volume>:<fpage>1463</fpage>&#x2013;<lpage>1465</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1126/science.1107008</pub-id>.</mixed-citation>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author"
+                                ><name><surname>Cerdeno-Tarraga</surname><given-names>AM</given-names></name><name><surname>Patrick</surname><given-names>S</given-names></name><name><surname>Crossman</surname><given-names>L</given-names></name><name><surname>Blakely</surname><given-names>GW</given-names></name><name><surname>Abratt</surname><given-names>V</given-names></name><name><surname>Lennard</surname><given-names>N</given-names></name><name><surname>Poxton</surname><given-names>I</given-names></name><name><surname>Duerden</surname><given-names>B</given-names></name><name><surname>Harris</surname><given-names>B</given-names></name><name><surname>Quail</surname><given-names>MA</given-names></name><name><surname>Barron</surname><given-names>A</given-names></name><name><surname>Clark</surname><given-names>L</given-names></name><name><surname>Corton</surname><given-names>C</given-names></name><name><surname>Doggett</surname><given-names>J</given-names></name><name><surname>Holden</surname><given-names>MT</given-names></name><name><surname>Larke</surname><given-names>N</given-names></name><name><surname>Line</surname><given-names>A</given-names></name><name><surname>Lord</surname><given-names>A</given-names></name><name><surname>Norbertczak</surname><given-names>H</given-names></name><name><surname>Ormond</surname><given-names>D</given-names></name><name><surname>Price</surname><given-names>C</given-names></name><name><surname>Rabbinowitsch</surname><given-names>E</given-names></name><name><surname>Woodward</surname><given-names>J</given-names></name><name><surname>Barrell</surname><given-names>B</given-names></name><name><surname>Parkhill</surname><given-names>J</given-names></name></person-group><year>2005</year><article-title>Extensive
+                        DNA Inversions in the B. fragilis Genome Control Variable Gene
+                        Expression</article-title><person-group person-group-type="editor"
+                                ><name><surname>Blakely</surname><given-names>GW</given-names></name></person-group>,
+                    editor.
+                        <source>Science</source><volume>307</volume><fpage>1463</fpage><lpage>1465</lpage><pub-id
+                        pub-id-type="doi">10.1126/science.1107008</pub-id></element-citation>
             </ref>
             <ref id="bib21">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Chelius</surname>
@@ -3363,15 +3348,20 @@
                             <surname>Triplett</surname>
                             <given-names>E</given-names>
                         </name>
-                    </person-group>. <year>2000</year>. <article-title>Dyadobacter fermentans gen.
-                        nov., sp nov., a novel Gram-negative bacterium isolated from
-                        surface-sterilized Zea mays stems</article-title>. <source>International
-                        journal of systematic and evolutionary microbiology</source>
-                    <volume>50</volume>:<fpage>751</fpage>&#x2013;<lpage>758</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/00207713-50-2-751</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Dyadobacter fermentans gen. nov., sp nov., a novel Gram-negative
+                        bacterium isolated from surface-sterilized Zea mays stems</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>50</volume>
+                    <fpage>751</fpage>
+                    <lpage>758</lpage>
+                    <pub-id pub-id-type="doi">10.1099/00207713-50-2-751</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib22">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Cho</surname>
@@ -3381,15 +3371,19 @@
                             <surname>Giovannoni</surname>
                             <given-names>SJ</given-names>
                         </name>
-                    </person-group>. <year>2003</year>. <article-title>Croceibacter atlanticus gen.
-                        nov., sp. nov., a novel marine bacterium in the family
-                        Flavobacteriaceae</article-title>. <source>Systematic and applied
-                        microbiology</source>
-                    <volume>26</volume>:<fpage>76</fpage>&#x2013;<lpage>83</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1078/072320203322337344</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2003</year>
+                    <article-title>Croceibacter atlanticus gen. nov., sp. nov., a novel marine
+                        bacterium in the family Flavobacteriaceae</article-title>
+                    <source>Systematic and applied microbiology</source>
+                    <volume>26</volume>
+                    <fpage>76</fpage>
+                    <lpage>83</lpage>
+                    <pub-id pub-id-type="doi">10.1078/072320203322337344</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib23">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Cho</surname>
@@ -3399,15 +3393,21 @@
                             <surname>Giovannoni</surname>
                             <given-names>SJ</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Robiginitalea biformata gen.
-                        nov., sp. nov., a novel marine bacterium in the family Flavobacteriaceae
-                        with a higher G&#x2b;C content</article-title>. <source>International
-                        journal of systematic and evolutionary microbiology</source>
-                    <volume>54</volume>:<fpage>1101</fpage>&#x2013;<lpage>1106</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.03023-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Robiginitalea biformata gen. nov., sp. nov., a novel marine
+                        bacterium in the family Flavobacteriaceae with a higher G&#x2b;C
+                        content</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>54</volume>
+                    <fpage>1101</fpage>
+                    <lpage>1106</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.03023-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib24">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Cohn</surname>
@@ -3417,15 +3417,20 @@
                             <surname>Morse</surname>
                             <given-names>SI</given-names>
                         </name>
-                    </person-group>. <year>1960</year>. <article-title>Functional and metabolic
-                        properties of polymorphonuclear leucocytes. II. The influence of a
-                        lipopolysaccharide endotoxin</article-title>. <source>The Journal of
-                        experimental medicine</source>
-                    <volume>111</volume>:<fpage>689</fpage>&#x2013;<lpage>704</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1084/jem.111.5.689</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1960</year>
+                    <article-title>Functional and metabolic properties of polymorphonuclear
+                        leucocytes. II. The influence of a lipopolysaccharide
+                        endotoxin</article-title>
+                    <source>The Journal of experimental medicine</source>
+                    <volume>111</volume>
+                    <fpage>689</fpage>
+                    <lpage>704</lpage>
+                    <pub-id pub-id-type="doi">10.1084/jem.111.5.689</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib25">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Dayel</surname>
@@ -3455,14 +3460,19 @@
                             <surname>King</surname>
                             <given-names>N</given-names>
                         </name>
-                    </person-group>. <year>2011</year>. <article-title>Cell differentiation and
-                        morphogenesis in the colony-forming choanoflagellate Salpingoeca
-                        rosetta</article-title>. <source>Developmental biology</source>
-                    <volume>357</volume>:<fpage>73</fpage>&#x2013;<lpage>82</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.ydbio.2011.06.003</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2011</year>
+                    <article-title>Cell differentiation and morphogenesis in the colony-forming
+                        choanoflagellate Salpingoeca rosetta</article-title>
+                    <source>Developmental biology</source>
+                    <volume>357</volume>
+                    <fpage>73</fpage>
+                    <lpage>82</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.ydbio.2011.06.003</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib26">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>de Jonge</surname>
@@ -3480,13 +3490,18 @@
                             <surname>Tomasz</surname>
                             <given-names>A</given-names>
                         </name>
-                    </person-group>. <year>1992</year>. <article-title>Peptidoglycan composition in
-                        heterogeneous Tn551 mutants of a methicillin-resistant Staphylococcus aureus
-                        strain</article-title>. <source>The Journal of biological chemistry</source>
-                    <volume>267</volume>:<fpage>11255</fpage>&#x2013;<lpage>11259</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1992</year>
+                    <article-title>Peptidoglycan composition in heterogeneous Tn551 mutants of a
+                        methicillin-resistant Staphylococcus aureus strain</article-title>
+                    <source>The Journal of biological chemistry</source>
+                    <volume>267</volume>
+                    <fpage>11255</fpage>
+                    <lpage>11259</lpage>
+                </element-citation>
             </ref>
             <ref id="bib27">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>DeSantis</surname>
@@ -3528,14 +3543,19 @@
                             <surname>Andersen</surname>
                             <given-names>GL</given-names>
                         </name>
-                    </person-group>. <year>2006</year>. <article-title>Greengenes, a chimera-checked
-                        16S rRNA gene database and workbench compatible with ARB</article-title>.
-                        <source>Applied and environmental microbiology</source>
-                    <volume>72</volume>:<fpage>5069</fpage>&#x2013;<lpage>5072</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1128/AEM.03006-05</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Greengenes, a chimera-checked 16S rRNA gene database and
+                        workbench compatible with ARB</article-title>
+                    <source>Applied and environmental microbiology</source>
+                    <volume>72</volume>
+                    <fpage>5069</fpage>
+                    <lpage>5072</lpage>
+                    <pub-id pub-id-type="doi">10.1128/AEM.03006-05</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib28">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Desbrosses</surname>
@@ -3545,14 +3565,19 @@
                             <surname>Stougaard</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2011</year>. <article-title>Root nodulation: a paradigm
-                        for how plant-microbe symbiosis influences host developmental
-                        pathways</article-title>. <source>Cell host and microbe</source>
-                    <volume>10</volume>:<fpage>348</fpage>&#x2013;<lpage>358</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.chom.2011.09.005</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2011</year>
+                    <article-title>Root nodulation: a paradigm for how plant-microbe symbiosis
+                        influences host developmental pathways</article-title>
+                    <source>Cell host and microbe</source>
+                    <volume>10</volume>
+                    <fpage>348</fpage>
+                    <lpage>358</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.chom.2011.09.005</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib29">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Drijber</surname>
@@ -3562,15 +3587,20 @@
                             <surname>McGill</surname>
                             <given-names>W</given-names>
                         </name>
-                    </person-group>. <year>1994</year>. <article-title>Sulfonolipid content of
-                        Cytophaga and Flexibacter species isolated from soil and cultured under
-                        different Nutrient andtemperature regimes</article-title>. <source>Canadian
-                        Journal of Microbiology</source>
-                    <volume>40</volume>:<fpage>132</fpage>&#x2013;<lpage>139</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1139/m94-021</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1994</year>
+                    <article-title>Sulfonolipid content of Cytophaga and Flexibacter species
+                        isolated from soil and cultured under different Nutrient andtemperature
+                        regimes</article-title>
+                    <source>Canadian Journal of Microbiology</source>
+                    <volume>40</volume>
+                    <fpage>132</fpage>
+                    <lpage>139</lpage>
+                    <pub-id pub-id-type="doi">10.1139/m94-021</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib30">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Edman</surname>
@@ -3584,13 +3614,18 @@
                             <surname>Hall</surname>
                             <given-names>ER</given-names>
                         </name>
-                    </person-group>. <year>1968</year>. <article-title>Listeria monocytogenes L
-                        forms. I. Induction maintenance, and biological
-                        characteristics</article-title>. <source>Journal of bacteriology</source>
-                    <volume>96</volume>:<fpage>352</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1968</year>
+                    <article-title>Listeria monocytogenes L forms. I. Induction maintenance, and
+                        biological characteristics</article-title>
+                    <source>Journal of bacteriology</source>
+                    <volume>96</volume>
+                    <fpage>352</fpage>
+                    <lpage>7</lpage>
+                </element-citation>
             </ref>
             <ref id="bib31">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Fairclough</surname>
@@ -3604,24 +3639,35 @@
                             <surname>King</surname>
                             <given-names>N</given-names>
                         </name>
-                    </person-group>. <year>2010</year>. <article-title>Multicellular development in
-                        a choanoflagellate</article-title>. <source>Current biology : CB</source>
-                    <volume>20</volume>:<fpage>R875</fpage>&#x2013;<lpage>R876</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.cub.2010.09.014</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2010</year>
+                    <article-title>Multicellular development in a choanoflagellate</article-title>
+                    <source>Current biology : CB</source>
+                    <volume>20</volume>
+                    <fpage>R875</fpage>
+                    <lpage>R876</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.cub.2010.09.014</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib32">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Falenstein</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>1989</year>. <article-title>Phylip- phylogeny inference
-                        packages (Version 3.2)</article-title>. <source>Cladistics</source>
-                    <volume>5</volume>:<fpage>164</fpage>&#x2013;<lpage>166</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1989</year>
+                    <article-title>Phylip- phylogeny inference packages (Version
+                        3.2)</article-title>
+                    <source>Cladistics</source>
+                    <volume>5</volume>
+                    <fpage>164</fpage>
+                    <lpage>166</lpage>
+                </element-citation>
             </ref>
             <ref id="bib33">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Falke</surname>
@@ -3643,43 +3689,55 @@
                             <surname>Danielson</surname>
                             <given-names>MA</given-names>
                         </name>
-                    </person-group>. <year>1997</year>. <article-title>The two-component signaling
-                        pathway of bacterial chemotaxis: a molecular view of signal transduction by
-                        receptors, kinases, and adaptation enzymes</article-title>. <source>Annual
-                        review of cell and developmental biology</source>
-                    <volume>13</volume>:<fpage>457</fpage>&#x2013;<lpage>512</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1146/annurev.cellbio.13.1.457</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1997</year>
+                    <article-title>The two-component signaling pathway of bacterial chemotaxis: a
+                        molecular view of signal transduction by receptors, kinases, and adaptation
+                        enzymes</article-title>
+                    <source>Annual review of cell and developmental biology</source>
+                    <volume>13</volume>
+                    <fpage>457</fpage>
+                    <lpage>512</lpage>
+                    <pub-id pub-id-type="doi">10.1146/annurev.cellbio.13.1.457</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib34">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Falkow</surname>
                             <given-names>S</given-names>
                         </name>
-                    </person-group>. <year>2006</year>. <article-title>Is persistent bacterial
-                        infection good for your health?</article-title>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Is persistent bacterial infection good for your
+                        health?</article-title>
                     <source>Cell</source>
-                    <volume>124</volume>:<fpage>699</fpage>&#x2013;<lpage>702</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.cell.2006.02.004</pub-id>.</mixed-citation>
+                    <volume>124</volume>
+                    <fpage>699</fpage>
+                    <lpage>702</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.cell.2006.02.004</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib35">
-                <mixed-citation publication-type="book">
+                <element-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Garrity</surname>
                             <given-names>GM</given-names>
                         </name>
-                    </person-group>. <year>2010</year>. <source>Bergey&#x2019;s manual of systematic
-                        bacteriology: Bacteroidetes, spirochetes, tenericutes (mollicutes),
-                        acidobacteria, fibrobacteres, fusobacteria, dictyoglomi, gemmatimonadetes,
-                        lentisphaerae, verrucomicrobia, chlamydiae, and
-                        planctomycetes</source>.<publisher-name>Springer Verlag</publisher-name>. p.
-                        <fpage>949</fpage>.</mixed-citation>
+                    </person-group>
+                    <year>2010</year>
+                    <source>Bergey&#x2019;s manual of systematic bacteriology: Bacteroidetes,
+                        spirochetes, tenericutes (mollicutes), acidobacteria, fibrobacteres,
+                        fusobacteria, dictyoglomi, gemmatimonadetes, lentisphaerae, verrucomicrobia,
+                        chlamydiae, and planctomycetes</source>
+                    <publisher-name>Springer Verlag</publisher-name>
+                    <fpage>949</fpage>
+                </element-citation>
             </ref>
             <ref id="bib36">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Godchaux</surname>
@@ -3689,13 +3747,18 @@
                             <surname>Leadbetter</surname>
                             <given-names>ER</given-names>
                         </name>
-                    </person-group>. <year>1980</year>. <article-title>Capnocytophaga spp. contain
-                        sulfonolipids that are novel in procaryotes</article-title>. <source>Journal
-                        of bacteriology</source>
-                    <volume>144</volume>:<fpage>592</fpage>&#x2013;<lpage>602</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1980</year>
+                    <article-title>Capnocytophaga spp. contain sulfonolipids that are novel in
+                        procaryotes</article-title>
+                    <source>Journal of bacteriology</source>
+                    <volume>144</volume>
+                    <fpage>592</fpage>
+                    <lpage>602</lpage>
+                </element-citation>
             </ref>
             <ref id="bib37">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Godchaux</surname>
@@ -3705,13 +3768,18 @@
                             <surname>Leadbetter</surname>
                             <given-names>ER</given-names>
                         </name>
-                    </person-group>. <year>1983</year>. <article-title>Unusual sulfonolipids are
-                        characteristic of the Cytophaga-Flexibacter group</article-title>.
-                        <source>Journal of bacteriology</source>
-                    <volume>153</volume>:<fpage>1238</fpage>&#x2013;<lpage>1246</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1983</year>
+                    <article-title>Unusual sulfonolipids are characteristic of the
+                        Cytophaga-Flexibacter group</article-title>
+                    <source>Journal of bacteriology</source>
+                    <volume>153</volume>
+                    <fpage>1238</fpage>
+                    <lpage>1246</lpage>
+                </element-citation>
             </ref>
             <ref id="bib38">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Godchaux</surname>
@@ -3721,13 +3789,18 @@
                             <surname>Leadbetter</surname>
                             <given-names>ER</given-names>
                         </name>
-                    </person-group>. <year>1984</year>. <article-title>Sulfonolipids of gliding
-                        bacteria. Structure of the N-acylaminosulfonates</article-title>.
-                        <source>The Journal of biological chemistry</source>
-                    <volume>259</volume>:<fpage>2982</fpage>&#x2013;<lpage>2990</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1984</year>
+                    <article-title>Sulfonolipids of gliding bacteria. Structure of the
+                        N-acylaminosulfonates</article-title>
+                    <source>The Journal of biological chemistry</source>
+                    <volume>259</volume>
+                    <fpage>2982</fpage>
+                    <lpage>2990</lpage>
+                </element-citation>
             </ref>
             <ref id="bib39">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Godchaux</surname>
@@ -3737,13 +3810,15 @@
                             <surname>Leadbetter</surname>
                             <given-names>E</given-names>
                         </name>
-                    </person-group>. <year>1988</year>. <article-title>Sulfonolipids are localized
-                        in the outer membrane of the gliding bacterium Cytophaga
-                        johnsonae</article-title>. <source>Archives of
-                    microbiology</source>.</mixed-citation>
+                    </person-group>
+                    <year>1988</year>
+                    <article-title>Sulfonolipids are localized in the outer membrane of the gliding
+                        bacterium Cytophaga johnsonae</article-title>
+                    <source>Archives of microbiology</source>
+                </element-citation>
             </ref>
             <ref id="bib40">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Hall</surname>
@@ -3857,13 +3932,19 @@
                             <surname>Zugates</surname>
                             <given-names>CT</given-names>
                         </name>
-                    </person-group>. <year>2012</year>. <article-title>A GAL4-driver line resource
-                        for Drosophila neurobiology</article-title>. <source>Cell reports</source>
-                    <volume>2</volume>:<fpage>991</fpage>&#x2013;<lpage>1001</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.celrep.2012.09.011</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2012</year>
+                    <article-title>A GAL4-driver line resource for Drosophila
+                        neurobiology</article-title>
+                    <source>Cell reports</source>
+                    <volume>2</volume>
+                    <fpage>991</fpage>
+                    <lpage>1001</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.celrep.2012.09.011</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib41">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Hannun</surname>
@@ -3877,14 +3958,19 @@
                             <surname>Argraves</surname>
                             <given-names>KM</given-names>
                         </name>
-                    </person-group>. <year>2001</year>. <article-title>Enzymes of sphingolipid
-                        metabolism: from modular to integrative signaling</article-title>.
-                        <source>Biochemistry</source>
-                    <volume>40</volume>:<fpage>4893</fpage>&#x2013;<lpage>4903</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1021/bi002836k</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>Enzymes of sphingolipid metabolism: from modular to integrative
+                        signaling</article-title>
+                    <source>Biochemistry</source>
+                    <volume>40</volume>
+                    <fpage>4893</fpage>
+                    <lpage>4903</lpage>
+                    <pub-id pub-id-type="doi">10.1021/bi002836k</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib42">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Herr</surname>
@@ -3914,27 +4000,37 @@
                             <surname>Saba</surname>
                             <given-names>JD</given-names>
                         </name>
-                    </person-group>. <year>2003</year>. <article-title>Sply regulation of
-                        sphingolipid signaling molecules is essential for Drosophila
-                        development</article-title>. <source>Development</source>
-                    <volume>130</volume>:<fpage>2443</fpage>&#x2013;<lpage>2453</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1242/dev.00456</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2003</year>
+                    <article-title>Sply regulation of sphingolipid signaling molecules is essential
+                        for Drosophila development</article-title>
+                    <source>Development</source>
+                    <volume>130</volume>
+                    <fpage>2443</fpage>
+                    <lpage>2453</lpage>
+                    <pub-id pub-id-type="doi">10.1242/dev.00456</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib43">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Hibberd</surname>
                             <given-names>DJ</given-names>
                         </name>
-                    </person-group>. <year>1975</year>. <article-title>Observations on the
-                        ultrastructure of the choanoflagellate Codosiga botrytis (Ehr.) Saville-Kent
-                        with special reference to the flagellar apparatus</article-title>.
-                        <source>Journal of cell science</source>
-                    <volume>17</volume>:<fpage>191</fpage>&#x2013;<lpage>219</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1975</year>
+                    <article-title>Observations on the ultrastructure of the choanoflagellate
+                        Codosiga botrytis (Ehr.) Saville-Kent with special reference to the
+                        flagellar apparatus</article-title>
+                    <source>Journal of cell science</source>
+                    <volume>17</volume>
+                    <fpage>191</fpage>
+                    <lpage>219</lpage>
+                </element-citation>
             </ref>
             <ref id="bib44">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Hoffmann</surname>
@@ -3952,14 +4048,18 @@
                             <surname>Ezekowitz</surname>
                             <given-names>RA</given-names>
                         </name>
-                    </person-group>. <year>1999</year>. <article-title>Phylogenetic perspectives in
-                        innate immunity</article-title>. <source>Science</source>
-                    <volume>284</volume>:<fpage>1313</fpage>&#x2013;<lpage>1318</lpage>. doi:
-                        <pub-id pub-id-type="doi"
-                    >10.1126/science.284.5418.1313</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1999</year>
+                    <article-title>Phylogenetic perspectives in innate immunity</article-title>
+                    <source>Science</source>
+                    <volume>284</volume>
+                    <fpage>1313</fpage>
+                    <lpage>1318</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.284.5418.1313</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib45">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Hughes</surname>
@@ -3969,26 +4069,35 @@
                             <surname>Sperandio</surname>
                             <given-names>V</given-names>
                         </name>
-                    </person-group>. <year>2008</year>. <article-title>Inter-kingdom signalling:
-                        communication between bacteria and their hosts</article-title>.
-                        <source>Nature reviews. Microbiology</source>
-                    <volume>6</volume>:<fpage>111</fpage>&#x2013;<lpage>120</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1038/nrmicro1836</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>Inter-kingdom signalling: communication between bacteria and
+                        their hosts</article-title>
+                    <source>Nature reviews. Microbiology</source>
+                    <volume>6</volume>
+                    <fpage>111</fpage>
+                    <lpage>120</lpage>
+                    <pub-id pub-id-type="doi">10.1038/nrmicro1836</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib46">
-                <mixed-citation publication-type="book">
+                <element-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
                             <surname>James-Clark</surname>
                             <given-names>H</given-names>
                         </name>
-                    </person-group>. <year>1868</year>. <source>On the spongiae ciliatae as
-                        infusoria flagellata; or observations on the structure, animality, and
-                        relationship of Leucosolenia botryoides</source>
-                    <volume>1</volume>:<fpage>133</fpage>&#x2013;<lpage>142</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1868</year>
+                    <source>On the spongiae ciliatae as infusoria flagellata; or observations on the
+                        structure, animality, and relationship of Leucosolenia botryoides</source>
+                    <volume>1</volume>
+                    <fpage>133</fpage>
+                    <lpage>142</lpage>
+                </element-citation>
             </ref>
             <ref id="bib47">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Kamiyama</surname>
@@ -4014,14 +4123,19 @@
                             <surname>Yokose</surname>
                             <given-names>K</given-names>
                         </name>
-                    </person-group>. <year>1995</year>. <article-title>Sulfobacins A and B, novel
-                        von Willebrand factor receptor antagonists. II. Structural
-                        elucidation</article-title>. <source>The Journal of antibiotics</source>
-                    <volume>48</volume>:<fpage>929</fpage>&#x2013;<lpage>936</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.7164/antibiotics.48.929</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1995</year>
+                    <article-title>Sulfobacins A and B, novel von Willebrand factor receptor
+                        antagonists. II. Structural elucidation</article-title>
+                    <source>The Journal of antibiotics</source>
+                    <volume>48</volume>
+                    <fpage>929</fpage>
+                    <lpage>936</lpage>
+                    <pub-id pub-id-type="doi">10.7164/antibiotics.48.929</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib48">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Kamiyama</surname>
@@ -4051,15 +4165,20 @@
                             <surname>Yokose</surname>
                             <given-names>K</given-names>
                         </name>
-                    </person-group>. <year>1995</year>. <article-title>Sulfobacins A and B, novel
-                        von Willebrand factor receptor antagonists. I. Production, isolation,
-                        characterization and biological activities</article-title>. <source>The
-                        Journal of antibiotics</source>
-                    <volume>48</volume>:<fpage>924</fpage>&#x2013;<lpage>928</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.7164/antibiotics.48.924</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1995</year>
+                    <article-title>Sulfobacins A and B, novel von Willebrand factor receptor
+                        antagonists. I. Production, isolation, characterization and biological
+                        activities</article-title>
+                    <source>The Journal of antibiotics</source>
+                    <volume>48</volume>
+                    <fpage>924</fpage>
+                    <lpage>928</lpage>
+                    <pub-id pub-id-type="doi">10.7164/antibiotics.48.924</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib49">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Karpov</surname>
@@ -4069,13 +4188,18 @@
                             <surname>Coupe</surname>
                             <given-names>SJ</given-names>
                         </name>
-                    </person-group>. <year>1998</year>. <article-title>A revision of
-                        choanoflagellate genera Kentrosiga, Schiller, 1953 and Desmarella, Kent,
-                        1880</article-title>. <source>Acta protozoologica</source>
-                    <volume>37</volume>:<fpage>23</fpage>&#x2013;<lpage>27</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1998</year>
+                    <article-title>A revision of choanoflagellate genera Kentrosiga, Schiller, 1953
+                        and Desmarella, Kent, 1880</article-title>
+                    <source>Acta protozoologica</source>
+                    <volume>37</volume>
+                    <fpage>23</fpage>
+                    <lpage>27</lpage>
+                </element-citation>
             </ref>
             <ref id="bib50">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Kimbrell</surname>
@@ -4085,13 +4209,18 @@
                             <surname>Beutler</surname>
                             <given-names>B</given-names>
                         </name>
-                    </person-group>. <year>2001</year>. <article-title>The evolution and genetics of
-                        innate immunity</article-title>. <source>Nature reviews. Genetics</source>
-                    <volume>2</volume>:<fpage>256</fpage>&#x2013;<lpage>267</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1038/35066006</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>The evolution and genetics of innate immunity</article-title>
+                    <source>Nature reviews. Genetics</source>
+                    <volume>2</volume>
+                    <fpage>256</fpage>
+                    <lpage>267</lpage>
+                    <pub-id pub-id-type="doi">10.1038/35066006</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib51">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>King</surname>
@@ -4101,15 +4230,20 @@
                             <surname>Carroll</surname>
                             <given-names>SB</given-names>
                         </name>
-                    </person-group>. <year>2001</year>. <article-title>A receptor tyrosine kinase
-                        from choanoflagellates: molecular insights into early animal
-                        evolution</article-title>. <source>Proceedings of the National Academy of
-                        Sciences of the United States of America</source>
-                    <volume>98</volume>:<fpage>15032</fpage>&#x2013;<lpage>15037</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1073/pnas.261477698</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>A receptor tyrosine kinase from choanoflagellates: molecular
+                        insights into early animal evolution</article-title>
+                    <source>Proceedings of the National Academy of Sciences of the United States of
+                        America</source>
+                    <volume>98</volume>
+                    <fpage>15032</fpage>
+                    <lpage>15037</lpage>
+                    <pub-id pub-id-type="doi">10.1073/pnas.261477698</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib52">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>King</surname>
@@ -4123,14 +4257,19 @@
                             <surname>Carroll</surname>
                             <given-names>SB</given-names>
                         </name>
-                    </person-group>. <year>2003</year>. <article-title>Evolution of key cell
-                        signaling and adhesion protein families predates animal
-                        origins</article-title>. <source>Science</source>
-                    <volume>301</volume>:<fpage>361</fpage>&#x2013;<lpage>363</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1126/science.1083853</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2003</year>
+                    <article-title>Evolution of key cell signaling and adhesion protein families
+                        predates animal origins</article-title>
+                    <source>Science</source>
+                    <volume>301</volume>
+                    <fpage>361</fpage>
+                    <lpage>363</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.1083853</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib53">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>King</surname>
@@ -4275,14 +4414,19 @@
                             <surname>Rokhsar</surname>
                             <given-names>D</given-names>
                         </name>
-                    </person-group>. <year>2008</year>. <article-title>The genome of the
-                        choanoflagellate Monosiga brevicollis and the origin of
-                        metazoans</article-title>. <source>Nature</source>
-                    <volume>451</volume>:<fpage>783</fpage>&#x2013;<lpage>788</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1038/nature06617</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>The genome of the choanoflagellate Monosiga brevicollis and the
+                        origin of metazoans</article-title>
+                    <source>Nature</source>
+                    <volume>451</volume>
+                    <fpage>783</fpage>
+                    <lpage>788</lpage>
+                    <pub-id pub-id-type="doi">10.1038/nature06617</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib54">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>King</surname>
@@ -4304,25 +4448,34 @@
                             <surname>Leadbeater</surname>
                             <given-names>BSC</given-names>
                         </name>
-                    </person-group>. <year>2009</year>. <article-title>Starting and maintaining
-                        Monosiga brevicollis cultures</article-title>. <source>Cold Spring Harbor
-                        protocols</source>
-                    <volume>2009</volume>:<comment>pdb.prot5148</comment>.</mixed-citation>
+                    </person-group>
+                    <year>2009</year>
+                    <article-title>Starting and maintaining Monosiga brevicollis
+                        cultures</article-title>
+                    <source>Cold Spring Harbor protocols</source>
+                    <volume>2009</volume>
+                    <comment>pdb.prot5148</comment>
+                </element-citation>
             </ref>
             <ref id="bib55">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>King</surname>
                             <given-names>N</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>The unicellular ancestry of
-                        animal development</article-title>. <source>Developmental cell</source>
-                    <volume>7</volume>:<fpage>313</fpage>&#x2013;<lpage>325</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.devcel.2004.08.010</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>The unicellular ancestry of animal development</article-title>
+                    <source>Developmental cell</source>
+                    <volume>7</volume>
+                    <fpage>313</fpage>
+                    <lpage>325</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.devcel.2004.08.010</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib56">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Kobayashi</surname>
@@ -4344,15 +4497,19 @@
                             <surname>Izuta</surname>
                             <given-names>S</given-names>
                         </name>
-                    </person-group>. <year>1995</year>. <article-title>Flavocristamides A and B, new
-                        DNA polymerase a inhibitors from a marine bacterium sp</article-title>.
-                        <source>Tetrahedron</source>
-                    <volume>51</volume>:<fpage>10487</fpage>&#x2013;<lpage>10490</lpage>. doi:
-                        <pub-id pub-id-type="doi"
-                    >10.1016/0040-4020(95)00631-H</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1995</year>
+                    <article-title>Flavocristamides A and B, new DNA polymerase a inhibitors from a
+                        marine bacterium sp</article-title>
+                    <source>Tetrahedron</source>
+                    <volume>51</volume>
+                    <fpage>10487</fpage>
+                    <lpage>10490</lpage>
+                    <pub-id pub-id-type="doi">10.1016/0040-4020(95)00631-H</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib57">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Kopp</surname>
@@ -4362,14 +4519,19 @@
                             <surname>Medzhitov</surname>
                             <given-names>R</given-names>
                         </name>
-                    </person-group>. <year>1999</year>. <article-title>The Toll-receptor family and
-                        control of innate immunity</article-title>. <source>Current opinion in
-                        immunology</source>
-                    <volume>11</volume>:<fpage>13</fpage>&#x2013;<lpage>18</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/S0952-7915(99)80003-X</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1999</year>
+                    <article-title>The Toll-receptor family and control of innate
+                        immunity</article-title>
+                    <source>Current opinion in immunology</source>
+                    <volume>11</volume>
+                    <fpage>13</fpage>
+                    <lpage>18</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S0952-7915(99)80003-X</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib58">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Koropatnick</surname>
@@ -4395,32 +4557,30 @@
                             <surname>Mcfall-Ngai</surname>
                             <given-names>MJ</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Microbial factor-mediated
-                        development in a host-bacterial mutualism</article-title>.
-                        <source>Science</source>
-                    <volume>306</volume>:<fpage>1186</fpage>&#x2013;<lpage>1188</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1126/science.1102218</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Microbial factor-mediated development in a host-bacterial
+                        mutualism</article-title>
+                    <source>Science</source>
+                    <volume>306</volume>
+                    <fpage>1186</fpage>
+                    <lpage>1188</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.1102218</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib59">
-                <mixed-citation publication-type="other">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Kreft</surname>
-                            <given-names>JM</given-names>
-                        </name>
-                    </person-group>.<article-title>Effects of forming multicellular colonies or
-                        attaching to surfaces on feeding rates of the choanoflagellate Salpingoeca
-                        rosetta</article-title>. <person-group person-group-type="editor">
-                        <name>
-                            <surname>Koehl</surname>
-                            <given-names>M</given-names>
-                        </name>
-                    </person-group>, editor. <source>Thesis (M.A.in Integrative Biology)</source>.
-                        <publisher-loc>Berkeley</publisher-loc>: <publisher-name>University of
-                        California</publisher-name>.</mixed-citation>
+                <element-citation publication-type="other"><person-group person-group-type="author"
+                                ><name><surname>Kreft</surname><given-names>JM</given-names></name></person-group><article-title>Effects
+                        of forming multicellular colonies or attaching to surfaces on feeding rates
+                        of the choanoflagellate Salpingoeca rosetta</article-title><person-group
+                        person-group-type="editor"
+                                ><name><surname>Koehl</surname><given-names>M</given-names></name></person-group>,
+                    editor. <source>Thesis (M.A.in Integrative
+                        Biology)</source><publisher-loc>Berkeley</publisher-loc><publisher-name>University
+                        of California</publisher-name></element-citation>
             </ref>
             <ref id="bib60">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Kunst</surname>
@@ -4522,28 +4682,38 @@
                             <surname>Danchin</surname>
                             <given-names>A</given-names>
                         </name>
-                    </person-group>. <year>1997</year>. <article-title>The complete genome sequence
-                        of the Gram-positive bacterium Bacillus subtilis</article-title>.
-                        <source>Nature</source>
-                    <volume>390</volume>:<fpage>249</fpage>&#x2013;<lpage>256</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1038/36786</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1997</year>
+                    <article-title>The complete genome sequence of the Gram-positive bacterium
+                        Bacillus subtilis</article-title>
+                    <source>Nature</source>
+                    <volume>390</volume>
+                    <fpage>249</fpage>
+                    <lpage>256</lpage>
+                    <pub-id pub-id-type="doi">10.1038/36786</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib61">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Leadbeater</surname>
                             <given-names>BSC</given-names>
                         </name>
-                    </person-group>. <year>1983</year>. <article-title>Life-history and
-                        ultratructure of a new marine species of Proterospongia
-                        (Choanoflagellida)</article-title>. <source>Journal of the Marine Biological
-                        Association of the United Kingdom</source>
-                    <volume>63</volume>:<fpage>135</fpage>&#x2013;<lpage>160</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1017/S0025315400049857</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1983</year>
+                    <article-title>Life-history and ultratructure of a new marine species of
+                        Proterospongia (Choanoflagellida)</article-title>
+                    <source>Journal of the Marine Biological Association of the United
+                        Kingdom</source>
+                    <volume>63</volume>
+                    <fpage>135</fpage>
+                    <lpage>160</lpage>
+                    <pub-id pub-id-type="doi">10.1017/S0025315400049857</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib62">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Lee</surname>
@@ -4553,27 +4723,35 @@
                             <surname>Mazmanian</surname>
                             <given-names>SK</given-names>
                         </name>
-                    </person-group>. <year>2010</year>. <article-title>Has the microbiota played a
-                        critical role in the evolution of the adaptive immune
-                        system?</article-title>
+                    </person-group>
+                    <year>2010</year>
+                    <article-title>Has the microbiota played a critical role in the evolution of the
+                        adaptive immune system?</article-title>
                     <source>Science</source>
-                    <volume>330</volume>:<fpage>1768</fpage>&#x2013;<lpage>1773</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1126/science.1195568</pub-id>.</mixed-citation>
+                    <volume>330</volume>
+                    <fpage>1768</fpage>
+                    <lpage>1773</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.1195568</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib63">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Lewin</surname>
                             <given-names>R</given-names>
                         </name>
-                    </person-group>. <year>1969</year>. <article-title>A classification of
-                        Flexibacteria</article-title>. <source>Journal of general
-                        microbiology</source>
-                    <volume>58</volume>:<fpage>189</fpage>&#x2013;<lpage>206</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1969</year>
+                    <article-title>A classification of Flexibacteria</article-title>
+                    <source>Journal of general microbiology</source>
+                    <volume>58</volume>
+                    <fpage>189</fpage>
+                    <lpage>206</lpage>
+                </element-citation>
             </ref>
             <ref id="bib64">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Matsunaga</surname>
@@ -4599,15 +4777,20 @@
                             <surname>Takeyama</surname>
                             <given-names>H</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>Complete genome sequence of
-                        the facultative anaerobic magnetotactic bacterium Magnetospirillum sp.
-                        strain AMB-1</article-title>. <source>DNA research: an international journal
-                        for rapid publication of reports on genes and genomes</source>
-                    <volume>12</volume>:<fpage>157</fpage>&#x2013;<lpage>166</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1093/dnares/dsi002</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Complete genome sequence of the facultative anaerobic
+                        magnetotactic bacterium Magnetospirillum sp. strain AMB-1</article-title>
+                    <source>DNA research: an international journal for rapid publication of reports
+                        on genes and genomes</source>
+                    <volume>12</volume>
+                    <fpage>157</fpage>
+                    <lpage>166</lpage>
+                    <pub-id pub-id-type="doi">10.1093/dnares/dsi002</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib65">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Matsuo</surname>
@@ -4629,16 +4812,20 @@
                             <surname>Harayama</surname>
                             <given-names>S</given-names>
                         </name>
-                    </person-group>. <year>2003</year>. <article-title>Isolation and phylogenetic
-                        characterization of bacteria capable of inducing differentiation in the
-                        green alga Monostroma oxyspermum</article-title>. <source>Environmental
-                        microbiology</source>
-                    <volume>5</volume>:<fpage>25</fpage>&#x2013;<lpage>35</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1046/j.1462-2920.2003.00382.x</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2003</year>
+                    <article-title>Isolation and phylogenetic characterization of bacteria capable
+                        of inducing differentiation in the green alga Monostroma
+                        oxyspermum</article-title>
+                    <source>Environmental microbiology</source>
+                    <volume>5</volume>
+                    <fpage>25</fpage>
+                    <lpage>35</lpage>
+                    <pub-id pub-id-type="doi">10.1046/j.1462-2920.2003.00382.x</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib66">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Matsuo</surname>
@@ -4656,14 +4843,18 @@
                             <surname>Shizuri</surname>
                             <given-names>Y</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>Isolation of an algal
-                        morphogenesis inducer from a marine bacterium</article-title>.
-                        <source>Science</source>
-                    <volume>307</volume>:<fpage>1598</fpage>. doi: <pub-id pub-id-type="doi"
-                        >10.1126/science.1105486</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Isolation of an algal morphogenesis inducer from a marine
+                        bacterium</article-title>
+                    <source>Science</source>
+                    <volume>307</volume>
+                    <fpage>1598</fpage>
+                    <pub-id pub-id-type="doi">10.1126/science.1105486</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib67">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Mazmanian</surname>
@@ -4681,14 +4872,19 @@
                             <surname>Kasper</surname>
                             <given-names>DL</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>An immunomodulatory molecule
-                        of symbiotic bacteria directs maturation of the host immune
-                        system</article-title>. <source>Cell</source>
-                    <volume>122</volume>:<fpage>107</fpage>&#x2013;<lpage>118</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.cell.2005.05.007</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>An immunomodulatory molecule of symbiotic bacteria directs
+                        maturation of the host immune system</article-title>
+                    <source>Cell</source>
+                    <volume>122</volume>
+                    <fpage>107</fpage>
+                    <lpage>118</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.cell.2005.05.007</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib68">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Mazmanian</surname>
@@ -4702,29 +4898,37 @@
                             <surname>Kasper</surname>
                             <given-names>DL</given-names>
                         </name>
-                    </person-group>. <year>2008</year>. <article-title>A microbial symbiosis factor
-                        prevents intestinal inflammatory disease</article-title>.
-                        <source>Nature</source>
-                    <volume>453</volume>:<fpage>620</fpage>&#x2013;<lpage>625</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1038/nature07008</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>A microbial symbiosis factor prevents intestinal inflammatory
+                        disease</article-title>
+                    <source>Nature</source>
+                    <volume>453</volume>
+                    <fpage>620</fpage>
+                    <lpage>625</lpage>
+                    <pub-id pub-id-type="doi">10.1038/nature07008</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib69">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>McFall-Ngai</surname>
                             <given-names>M</given-names>
                         </name>
-                    </person-group>. <year>1999</year>. <article-title>Consequences of evolving with
-                        bacterial symbionts: Insights from the squid-vibrio
-                        associations</article-title>. <source>Annual review of ecology and
-                        systematics</source>
-                    <volume>30</volume>:<fpage>235</fpage>&#x2013;<lpage>256</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1146/annurev.ecolsys.30.1.235</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1999</year>
+                    <article-title>Consequences of evolving with bacterial symbionts: Insights from
+                        the squid-vibrio associations</article-title>
+                    <source>Annual review of ecology and systematics</source>
+                    <volume>30</volume>
+                    <fpage>235</fpage>
+                    <lpage>256</lpage>
+                    <pub-id pub-id-type="doi">10.1146/annurev.ecolsys.30.1.235</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib70">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Medzhitov</surname>
@@ -4734,44 +4938,28 @@
                             <surname>Janeway</surname>
                             <given-names>C</given-names>
                         </name>
-                    </person-group>. <year>2000</year>. <article-title>Innate immune recognition:
-                        mechanisms and pathways</article-title>. <source>Immunological
-                        reviews</source>
-                    <volume>173</volume>:<fpage>89</fpage>&#x2013;<lpage>97</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1034/j.1600-065X.2000.917309.x</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Innate immune recognition: mechanisms and
+                        pathways</article-title>
+                    <source>Immunological reviews</source>
+                    <volume>173</volume>
+                    <fpage>89</fpage>
+                    <lpage>97</lpage>
+                    <pub-id pub-id-type="doi">10.1034/j.1600-065X.2000.917309.x</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib71">
-                <mixed-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Merrill</surname>
-                            <given-names>AH</given-names>
-                        </name>
-                        <name>
-                            <surname>Sullards</surname>
-                            <given-names>MC</given-names>
-                        </name>
-                        <name>
-                            <surname>Wang</surname>
-                            <given-names>E</given-names>
-                        </name>
-                        <name>
-                            <surname>Voss</surname>
-                            <given-names>KA</given-names>
-                        </name>
-                        <name>
-                            <surname>Riley</surname>
-                            <given-names>RT</given-names>
-                        </name>
-                    </person-group>. <year>2001</year>. <article-title>Sphingolipid metabolism:
-                        roles in signal transduction and disruption by fumonisins</article-title>.
-                        <source>Environmental health perspectives</source>
-                    <volume>109</volume>(<supplement>Suppl
-                        2</supplement>):<fpage>283</fpage>&#x2013;<lpage>289</lpage>.</mixed-citation>
+                <element-citation publication-type="journal"><person-group
+                        person-group-type="author"
+                                ><name><surname>Merrill</surname><given-names>AH</given-names></name><name><surname>Sullards</surname><given-names>MC</given-names></name><name><surname>Wang</surname><given-names>E</given-names></name><name><surname>Voss</surname><given-names>KA</given-names></name><name><surname>Riley</surname><given-names>RT</given-names></name></person-group><year>2001</year><article-title>Sphingolipid
+                        metabolism: roles in signal transduction and disruption by
+                        fumonisins</article-title><source>Environmental health
+                        perspectives</source><volume>109</volume>(<supplement>Suppl
+                        2</supplement>):<fpage>283</fpage><lpage>289</lpage></element-citation>
             </ref>
             <ref id="bib72">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Miller</surname>
@@ -4797,14 +4985,19 @@
                             <surname>Halden</surname>
                             <given-names>RU</given-names>
                         </name>
-                    </person-group>. <year>2010</year>. <article-title>Genome Sequence of the
-                        Dioxin-Mineralizing Bacterium Sphingomonas wittichii RW1</article-title>.
-                        <source>Journal of bacteriology</source>
-                    <volume>192</volume>:<fpage>6101</fpage>&#x2013;<lpage>6102</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1128/JB.01030-10</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2010</year>
+                    <article-title>Genome Sequence of the Dioxin-Mineralizing Bacterium Sphingomonas
+                        wittichii RW1</article-title>
+                    <source>Journal of bacteriology</source>
+                    <volume>192</volume>
+                    <fpage>6101</fpage>
+                    <lpage>6102</lpage>
+                    <pub-id pub-id-type="doi">10.1128/JB.01030-10</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib73">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>M&#xfc;ller</surname>
@@ -4822,15 +5015,19 @@
                             <surname>Ellis</surname>
                             <given-names>AE</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>Characterisation of surface
-                        blebbing and membrane vesicles produced by Flavobacterium
-                        psychrophilum</article-title>. <source>Diseases of aquatic
-                        organisms</source>
-                    <volume>64</volume>:<fpage>201</fpage>&#x2013;<lpage>209</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.3354/dao064201</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Characterisation of surface blebbing and membrane vesicles
+                        produced by Flavobacterium psychrophilum</article-title>
+                    <source>Diseases of aquatic organisms</source>
+                    <volume>64</volume>
+                    <fpage>201</fpage>
+                    <lpage>209</lpage>
+                    <pub-id pub-id-type="doi">10.3354/dao064201</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib74">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Nedashkovskaya</surname>
@@ -4872,19 +5069,24 @@
                             <surname>Swings</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Description of Algoriphagus
-                        aquimarinus sp. nov., Algoriphagus chordae sp. nov. and Algoriphagus
-                        winogradskyi sp. nov., from sea water and algae, transfer of Hongiella
-                        halophila Yi and Chun 2004 to the genus Algoriphagus as Algoriphagus
-                        halophilus comb. nov. and emended descriptions of the genera Algoriphagus
-                        Bowman, et al. 2003 and Hongiella Yi and Chun 2004</article-title>.
-                        <source>International journal of systematic and evolutionary
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Description of Algoriphagus aquimarinus sp. nov., Algoriphagus
+                        chordae sp. nov. and Algoriphagus winogradskyi sp. nov., from sea water and
+                        algae, transfer of Hongiella halophila Yi and Chun 2004 to the genus
+                        Algoriphagus as Algoriphagus halophilus comb. nov. and emended descriptions
+                        of the genera Algoriphagus Bowman, et al. 2003 and Hongiella Yi and Chun
+                        2004</article-title>
+                    <source>International journal of systematic and evolutionary
                         microbiology</source>
-                    <volume>54</volume>:<fpage>1757</fpage>&#x2013;<lpage>1764</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.02915-0</pub-id>.</mixed-citation>
+                    <volume>54</volume>
+                    <fpage>1757</fpage>
+                    <lpage>1764</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.02915-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib75">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Nedashkovskaya</surname>
@@ -4934,15 +5136,20 @@
                             <surname>Swings</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2006</year>. <article-title>Echinicola pacifica gen.
-                        nov., sp nov., a novel flexibacterium isolated from the sea urchin
-                        Strongylocentrotus intermedius</article-title>. <source>International
-                        journal of systematic and evolutionary microbiology</source>
-                    <volume>56</volume>:<fpage>953</fpage>&#x2013;<lpage>958</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.64156-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Echinicola pacifica gen. nov., sp nov., a novel flexibacterium
+                        isolated from the sea urchin Strongylocentrotus intermedius</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>56</volume>
+                    <fpage>953</fpage>
+                    <lpage>958</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.64156-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib76">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Nierman</surname>
@@ -5092,14 +5299,20 @@
                             <surname>Fraser</surname>
                             <given-names>CM</given-names>
                         </name>
-                    </person-group>. <year>2001</year>. <article-title>Complete genome sequence of
-                        Caulobacter crescentus</article-title>. <source>Proceedings of the National
-                        Academy of Sciences of the United States of America</source>
-                    <volume>98</volume>:<fpage>4136</fpage>&#x2013;<lpage>4141</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1073/pnas.061029298</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>Complete genome sequence of Caulobacter
+                        crescentus</article-title>
+                    <source>Proceedings of the National Academy of Sciences of the United States of
+                        America</source>
+                    <volume>98</volume>
+                    <fpage>4136</fpage>
+                    <lpage>4141</lpage>
+                    <pub-id pub-id-type="doi">10.1073/pnas.061029298</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib77">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Oh</surname>
@@ -5129,14 +5342,19 @@
                             <surname>Cho</surname>
                             <given-names>JC</given-names>
                         </name>
-                    </person-group>. <year>2011</year>. <article-title>Complete Genome Sequence of
-                        Strain HTCC2170, a Novel Member of the Genus Maribacter in the Family
-                        Flavobacteriaceae</article-title>. <source>Journal of bacteriology</source>
-                    <volume>193</volume>:<fpage>303</fpage>&#x2013;<lpage>304</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1128/JB.01207-10</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2011</year>
+                    <article-title>Complete Genome Sequence of Strain HTCC2170, a Novel Member of
+                        the Genus Maribacter in the Family Flavobacteriaceae</article-title>
+                    <source>Journal of bacteriology</source>
+                    <volume>193</volume>
+                    <fpage>303</fpage>
+                    <lpage>304</lpage>
+                    <pub-id pub-id-type="doi">10.1128/JB.01207-10</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib78">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Olsen</surname>
@@ -5146,13 +5364,18 @@
                             <surname>Jantzen</surname>
                             <given-names>E</given-names>
                         </name>
-                    </person-group>. <year>2001</year>. <article-title>Sphingolipids in bacteria and
-                        fungi</article-title>. <source>Anaerobe</source>
-                    <volume>7</volume>:<fpage>103</fpage>&#x2013;<lpage>112</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1006/anae.2001.0376</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>Sphingolipids in bacteria and fungi</article-title>
+                    <source>Anaerobe</source>
+                    <volume>7</volume>
+                    <fpage>103</fpage>
+                    <lpage>112</lpage>
+                    <pub-id pub-id-type="doi">10.1006/anae.2001.0376</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib79">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Prieschl</surname>
@@ -5162,14 +5385,19 @@
                             <surname>Baumruker</surname>
                             <given-names>T</given-names>
                         </name>
-                    </person-group>. <year>2000</year>. <article-title>Sphingolipids: second
-                        messengers, mediators and raft constituents in signaling</article-title>.
-                        <source>Immunology today</source>
-                    <volume>21</volume>:<fpage>555</fpage>&#x2013;<lpage>560</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/S0167-5699(00)01725-4</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Sphingolipids: second messengers, mediators and raft constituents
+                        in signaling</article-title>
+                    <source>Immunology today</source>
+                    <volume>21</volume>
+                    <fpage>555</fpage>
+                    <lpage>560</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S0167-5699(00)01725-4</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib80">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Provasoli</surname>
@@ -5179,15 +5407,19 @@
                             <surname>Pintner</surname>
                             <given-names>I</given-names>
                         </name>
-                    </person-group>. <year>1980</year>. <article-title>Bacteria induced polymorphism
-                        in an axenic laboratory strain of Ulva lactuca
-                        (Chlorophyceae)</article-title>. <source>Journal of Phycology</source>
-                    <volume>16</volume>:<fpage>196</fpage>&#x2013;<lpage>201</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1111/j.1529-8817.1980.tb03019.x</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1980</year>
+                    <article-title>Bacteria induced polymorphism in an axenic laboratory strain of
+                        Ulva lactuca (Chlorophyceae)</article-title>
+                    <source>Journal of Phycology</source>
+                    <volume>16</volume>
+                    <fpage>196</fpage>
+                    <lpage>201</lpage>
+                    <pub-id pub-id-type="doi">10.1111/j.1529-8817.1980.tb03019.x</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib81">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Pyne</surname>
@@ -5197,14 +5429,19 @@
                             <surname>Pyne</surname>
                             <given-names>NJ</given-names>
                         </name>
-                    </person-group>. <year>2000</year>. <article-title>Sphingosine 1-phosphate
-                        signalling in mammalian cells</article-title>. <source>The Biochemical
-                        journal</source>
-                    <volume>349</volume>:<fpage>385</fpage>&#x2013;<lpage>402</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1042/0264-6021:3490385</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Sphingosine 1-phosphate signalling in mammalian
+                        cells</article-title>
+                    <source>The Biochemical journal</source>
+                    <volume>349</volume>
+                    <fpage>385</fpage>
+                    <lpage>402</lpage>
+                    <pub-id pub-id-type="doi">10.1042/0264-6021:3490385</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib82">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Raj</surname>
@@ -5214,28 +5451,37 @@
                             <surname>Maloy</surname>
                             <given-names>S</given-names>
                         </name>
-                    </person-group>. <year>1990</year>. <article-title>Proposal of
-                        Cyclobacterium-Marinus Gen-Nov, Comb-Nov for a Marine Bacterium Previously
-                        Assigned to the Genus Flectobacillus</article-title>. <source>International
-                        journal of systematic bacteriology</source>
-                    <volume>40</volume>:<fpage>337</fpage>&#x2013;<lpage>347</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/00207713-40-4-337</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1990</year>
+                    <article-title>Proposal of Cyclobacterium-Marinus Gen-Nov, Comb-Nov for a Marine
+                        Bacterium Previously Assigned to the Genus Flectobacillus</article-title>
+                    <source>International journal of systematic bacteriology</source>
+                    <volume>40</volume>
+                    <fpage>337</fpage>
+                    <lpage>347</lpage>
+                    <pub-id pub-id-type="doi">10.1099/00207713-40-4-337</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib83">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Roelofs</surname>
                             <given-names>WL</given-names>
                         </name>
-                    </person-group>. <year>1995</year>. <article-title>Chemistry of sex
-                        attraction</article-title>. <source>Proceedings of the National Academy of
-                        Sciences of the United States of America</source>
-                    <volume>92</volume>:<fpage>44</fpage>&#x2013;<lpage>49</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1073/pnas.92.1.44</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1995</year>
+                    <article-title>Chemistry of sex attraction</article-title>
+                    <source>Proceedings of the National Academy of Sciences of the United States of
+                        America</source>
+                    <volume>92</volume>
+                    <fpage>44</fpage>
+                    <lpage>49</lpage>
+                    <pub-id pub-id-type="doi">10.1073/pnas.92.1.44</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib84">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ruby</surname>
@@ -5301,15 +5547,20 @@
                             <surname>Greenberg</surname>
                             <given-names>EP</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>Complete genome sequence of
-                        Vibrio fischeri: a symbiotic bacterium with pathogenic
-                        congeners</article-title>. <source>Proceedings of the National Academy of
-                        Sciences of the United States of America</source>
-                    <volume>102</volume>:<fpage>3004</fpage>&#x2013;<lpage>3009</lpage>. doi:
-                        <pub-id pub-id-type="doi">10.1073/pnas.0409900102</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Complete genome sequence of Vibrio fischeri: a symbiotic
+                        bacterium with pathogenic congeners</article-title>
+                    <source>Proceedings of the National Academy of Sciences of the United States of
+                        America</source>
+                    <volume>102</volume>
+                    <fpage>3004</fpage>
+                    <lpage>3009</lpage>
+                    <pub-id pub-id-type="doi">10.1073/pnas.0409900102</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib85">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ruiz-Trillo</surname>
@@ -5331,25 +5582,33 @@
                             <surname>Lang</surname>
                             <given-names>BF</given-names>
                         </name>
-                    </person-group>. <year>2008</year>. <article-title>A phylogenomic investigation
-                        into the origin of metazoa</article-title>. <source>Molecular biology and
-                        evolution</source>
-                    <volume>25</volume>:<fpage>664</fpage>&#x2013;<lpage>672</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1093/molbev/msn006</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2008</year>
+                    <article-title>A phylogenomic investigation into the origin of
+                        metazoa</article-title>
+                    <source>Molecular biology and evolution</source>
+                    <volume>25</volume>
+                    <fpage>664</fpage>
+                    <lpage>672</lpage>
+                    <pub-id pub-id-type="doi">10.1093/molbev/msn006</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib86">
-                <mixed-citation publication-type="book">
+                <element-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Saville Kent</surname>
                             <given-names>W</given-names>
                         </name>
-                    </person-group>. <year>1880</year>. <source>A manual of the infusoria</source>.
-                        <publisher-loc>London</publisher-loc>: <publisher-name>David
-                        Bogue</publisher-name>.</mixed-citation>
+                    </person-group>
+                    <year>1880</year>
+                    <source>A manual of the infusoria</source>
+                    <publisher-loc>London</publisher-loc>
+                    <publisher-name>David Bogue</publisher-name>
+                </element-citation>
             </ref>
             <ref id="bib87">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Schaefer</surname>
@@ -5367,13 +5626,18 @@
                             <surname>Greenberg</surname>
                             <given-names>EP</given-names>
                         </name>
-                    </person-group>. <year>1996</year>. <article-title>Quorum sensing in Vibrio
-                        fischeri: probing autoinducer-LuxR interactions with autoinducer
-                        analogs</article-title>. <source>Journal of bacteriology</source>
-                    <volume>178</volume>:<fpage>2897</fpage>&#x2013;<lpage>2901</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1996</year>
+                    <article-title>Quorum sensing in Vibrio fischeri: probing autoinducer-LuxR
+                        interactions with autoinducer analogs</article-title>
+                    <source>Journal of bacteriology</source>
+                    <volume>178</volume>
+                    <fpage>2897</fpage>
+                    <lpage>2901</lpage>
+                </element-citation>
             </ref>
             <ref id="bib88">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Spiegel</surname>
@@ -5383,13 +5647,18 @@
                             <surname>Milstien</surname>
                             <given-names>S</given-names>
                         </name>
-                    </person-group>. <year>2000</year>. <article-title>Sphingosine-1-phosphate:
-                        signaling inside and out</article-title>. <source>FEBS Lett</source>
-                    <volume>476</volume>:<fpage>55</fpage>&#x2013;<lpage>57</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/S0014-5793(00)01670-7</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2000</year>
+                    <article-title>Sphingosine-1-phosphate: signaling inside and out</article-title>
+                    <source>FEBS Lett</source>
+                    <volume>476</volume>
+                    <fpage>55</fpage>
+                    <lpage>57</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S0014-5793(00)01670-7</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib89">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Takeuchi</surname>
@@ -5423,14 +5692,20 @@
                             <surname>Akira</surname>
                             <given-names>S</given-names>
                         </name>
-                    </person-group>. <year>1999</year>. <article-title>Differential roles of TLR2
-                        and TLR4 in recognition of gram-negative and gram-positive bacterial cell
-                        wall components</article-title>. <source>Immunity</source>
-                    <volume>11</volume>:<fpage>443</fpage>&#x2013;<lpage>451</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/S1074-7613(00)80119-3</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1999</year>
+                    <article-title>Differential roles of TLR2 and TLR4 in recognition of
+                        gram-negative and gram-positive bacterial cell wall
+                        components</article-title>
+                    <source>Immunity</source>
+                    <volume>11</volume>
+                    <fpage>443</fpage>
+                    <lpage>451</lpage>
+                    <pub-id pub-id-type="doi">10.1016/S1074-7613(00)80119-3</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib90">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Talavera</surname>
@@ -5440,14 +5715,19 @@
                             <surname>Castresana</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2007</year>. <article-title>Improvement of phylogenies
-                        after removing divergent and ambiguously aligned blocks from protein
-                        sequence alignments</article-title>. <source>Systematic biology</source>
-                    <volume>56</volume>:<fpage>564</fpage>&#x2013;<lpage>577</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1080/10635150701472164</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Improvement of phylogenies after removing divergent and
+                        ambiguously aligned blocks from protein sequence alignments</article-title>
+                    <source>Systematic biology</source>
+                    <volume>56</volume>
+                    <fpage>564</fpage>
+                    <lpage>577</lpage>
+                    <pub-id pub-id-type="doi">10.1080/10635150701472164</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib91">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Tiago</surname>
@@ -5469,15 +5749,20 @@
                             <surname>Ver&#xed;ssimo</surname>
                             <given-names>A</given-names>
                         </name>
-                    </person-group>. <year>2006</year>. <article-title>Chimaereicella alkaliphila
-                        gen. nov., sp. nov., a Gram-negative alkaliphilic bacterium isolated from a
-                        nonsaline alkaline groundwater</article-title>. <source>Systematic and
-                        applied microbiology</source>
-                    <volume>29</volume>:<fpage>100</fpage>&#x2013;<lpage>108</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1016/j.syapm.2005.07.005</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Chimaereicella alkaliphila gen. nov., sp. nov., a Gram-negative
+                        alkaliphilic bacterium isolated from a nonsaline alkaline
+                        groundwater</article-title>
+                    <source>Systematic and applied microbiology</source>
+                    <volume>29</volume>
+                    <fpage>100</fpage>
+                    <lpage>108</lpage>
+                    <pub-id pub-id-type="doi">10.1016/j.syapm.2005.07.005</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib92">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Van Trappen</surname>
@@ -5495,14 +5780,19 @@
                             <surname>Swings</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Algoriphagus antarcticus sp.
-                        nov., a novel psychrophile from microbial mats in Antarctic
-                        lakes</article-title>. <source>Systematic and applied microbiology</source>
-                    <volume>54</volume>:<fpage>1969</fpage>&#x2013;<lpage>1973</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.02973-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Algoriphagus antarcticus sp. nov., a novel psychrophile from
+                        microbial mats in Antarctic lakes</article-title>
+                    <source>Systematic and applied microbiology</source>
+                    <volume>54</volume>
+                    <fpage>1969</fpage>
+                    <lpage>1973</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.02973-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib93">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Webster</surname>
@@ -5532,14 +5822,19 @@
                             <surname>Negri</surname>
                             <given-names>AP</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Metamorphosis of a
-                        scleractinian coral in response to microbial biofilms</article-title>.
-                        <source>Applied and environmental microbiology</source>
-                    <volume>70</volume>:<fpage>1213</fpage>&#x2013;<lpage>1221</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1128/AEM.70.2.1213-1221.2004</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Metamorphosis of a scleractinian coral in response to microbial
+                        biofilms</article-title>
+                    <source>Applied and environmental microbiology</source>
+                    <volume>70</volume>
+                    <fpage>1213</fpage>
+                    <lpage>1221</lpage>
+                    <pub-id pub-id-type="doi">10.1128/AEM.70.2.1213-1221.2004</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib94">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Weisburg</surname>
@@ -5557,34 +5852,49 @@
                             <surname>Lane</surname>
                             <given-names>DJ</given-names>
                         </name>
-                    </person-group>. <year>1991</year>. <article-title>16S ribosomal DNA
-                        amplification for phylogenetic study</article-title>. <source>Journal of
-                        Bacteriology</source>
-                    <volume>173</volume>:<fpage>697</fpage>&#x2013;<lpage>703</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>1991</year>
+                    <article-title>16S ribosomal DNA amplification for phylogenetic
+                        study</article-title>
+                    <source>Journal of Bacteriology</source>
+                    <volume>173</volume>
+                    <fpage>697</fpage>
+                    <lpage>703</lpage>
+                </element-citation>
             </ref>
             <ref id="bib95">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Wexler</surname>
                             <given-names>HM</given-names>
                         </name>
-                    </person-group>. <year>2007</year>. <article-title>Bacteroides: the good, the
-                        bad, and the nitty-gritty</article-title>. <source>Clinical microbiology
-                        reviews</source>
-                    <volume>20</volume>:<fpage>593</fpage>&#x2013;<lpage>621</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1128/CMR.00008-07</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Bacteroides: the good, the bad, and the
+                        nitty-gritty</article-title>
+                    <source>Clinical microbiology reviews</source>
+                    <volume>20</volume>
+                    <fpage>593</fpage>
+                    <lpage>621</lpage>
+                    <pub-id pub-id-type="doi">10.1128/CMR.00008-07</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib96">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <collab>WHO</collab>
-                    </person-group>. <year>2011</year>. <article-title>FlyBase 101-the basics of
-                        navigating FlyBase</article-title>. <source>Nucleic acids research</source>
-                    <volume>39</volume>:<fpage>21</fpage>&#x2013;<lpage>23</lpage>.</mixed-citation>
+                    </person-group>
+                    <year>2011</year>
+                    <article-title>FlyBase 101-the basics of navigating FlyBase</article-title>
+                    <source>Nucleic acids research</source>
+                    <volume>39</volume>
+                    <fpage>21</fpage>
+                    <lpage>23</lpage>
+                </element-citation>
             </ref>
             <ref id="bib97">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Yi</surname>
@@ -5594,16 +5904,21 @@
                             <surname>Chun</surname>
                             <given-names>J</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Hongiella mannitolivorans
-                        gen. nov., sp. nov., Hongiella halophila sp. nov. and Hongiella
-                        ornithinivorans sp. nov., isolated from tidal flat sediment</article-title>.
-                        <source>International journal of systematic and evolutionary
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Hongiella mannitolivorans gen. nov., sp. nov., Hongiella
+                        halophila sp. nov. and Hongiella ornithinivorans sp. nov., isolated from
+                        tidal flat sediment</article-title>
+                    <source>International journal of systematic and evolutionary
                         microbiology</source>
-                    <volume>54</volume>:<fpage>157</fpage>&#x2013;<lpage>162</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.02861-0</pub-id>.</mixed-citation>
+                    <volume>54</volume>
+                    <fpage>157</fpage>
+                    <lpage>162</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.02861-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib98">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Yoon</surname>
@@ -5617,15 +5932,20 @@
                             <surname>Oh</surname>
                             <given-names>TK</given-names>
                         </name>
-                    </person-group>. <year>2004</year>. <article-title>Hongiella marincola sp. nov.,
-                        isolated from sea water of the East Sea in Korea</article-title>.
-                        <source>International journal of systematic and evolutionary
+                    </person-group>
+                    <year>2004</year>
+                    <article-title>Hongiella marincola sp. nov., isolated from sea water of the East
+                        Sea in Korea</article-title>
+                    <source>International journal of systematic and evolutionary
                         microbiology</source>
-                    <volume>54</volume>:<fpage>1845</fpage>&#x2013;<lpage>1848</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.63170-0</pub-id>.</mixed-citation>
+                    <volume>54</volume>
+                    <fpage>1845</fpage>
+                    <lpage>1848</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.63170-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib99">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Yoon</surname>
@@ -5647,15 +5967,20 @@
                             <surname>Oh</surname>
                             <given-names>TK</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>Algoriphagus yeomjeoni sp.
-                        nov., isolated from a marine solar saltern in the Yellow Sea,
-                        Korea</article-title>. <source>International journal of systematic and
-                        evolutionary microbiology</source>
-                    <volume>55</volume>:<fpage>865</fpage>&#x2013;<lpage>870</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.63479-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Algoriphagus yeomjeoni sp. nov., isolated from a marine solar
+                        saltern in the Yellow Sea, Korea</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>55</volume>
+                    <fpage>865</fpage>
+                    <lpage>870</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.63479-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib100">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Yoon</surname>
@@ -5669,15 +5994,20 @@
                             <surname>Oh</surname>
                             <given-names>TK</given-names>
                         </name>
-                    </person-group>. <year>2005</year>. <article-title>Algoriphagus locisalis sp.
-                        nov., isolated from a marine solar saltern</article-title>.
-                        <source>International journal of systematic and evolutionary
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Algoriphagus locisalis sp. nov., isolated from a marine solar
+                        saltern</article-title>
+                    <source>International journal of systematic and evolutionary
                         microbiology</source>
-                    <volume>55</volume>:<fpage>1635</fpage>&#x2013;<lpage>1639</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.63605-0</pub-id>.</mixed-citation>
+                    <volume>55</volume>
+                    <fpage>1635</fpage>
+                    <lpage>1639</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.63605-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib101">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Yoon</surname>
@@ -5695,14 +6025,20 @@
                             <surname>Oh</surname>
                             <given-names>TK</given-names>
                         </name>
-                    </person-group>. <year>2006</year>. <article-title>Algoriphagus terrigena sp.
-                        nov., isolated from soil</article-title>. <source>International journal of
-                        systematic and evolutionary microbiology</source>
-                    <volume>56</volume>:<fpage>777</fpage>&#x2013;<lpage>780</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1099/ijs.0.64092-0</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2006</year>
+                    <article-title>Algoriphagus terrigena sp. nov., isolated from
+                        soil</article-title>
+                    <source>International journal of systematic and evolutionary
+                        microbiology</source>
+                    <volume>56</volume>
+                    <fpage>777</fpage>
+                    <lpage>780</lpage>
+                    <pub-id pub-id-type="doi">10.1099/ijs.0.64092-0</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib102">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Zhou</surname>
@@ -5720,15 +6056,19 @@
                             <surname>Doyle</surname>
                             <given-names>RJ</given-names>
                         </name>
-                    </person-group>. <year>1998</year>. <article-title>On the origin of membrane
-                        vesicles in gram-negative bacteria</article-title>. <source>FEMS
-                        microbiology letters</source>
-                    <volume>163</volume>:<fpage>223</fpage>&#x2013;<lpage>228</lpage>. doi: <pub-id
-                        pub-id-type="doi"
-                    >10.1111/j.1574-6968.1998.tb13049.x</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>1998</year>
+                    <article-title>On the origin of membrane vesicles in gram-negative
+                        bacteria</article-title>
+                    <source>FEMS microbiology letters</source>
+                    <volume>163</volume>
+                    <fpage>223</fpage>
+                    <lpage>228</lpage>
+                    <pub-id pub-id-type="doi">10.1111/j.1574-6968.1998.tb13049.x</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib103">
-                <mixed-citation publication-type="journal">
+                <element-citation publication-type="journal">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Ziegler</surname>
@@ -5738,14 +6078,19 @@
                             <surname>Forward</surname>
                             <given-names>RB</given-names>
                         </name>
-                    </person-group>. <year>2007</year>. <article-title>Larval release behaviors in
-                        the Caribbean spiny lobster, Panulirus argus: role of peptide
-                        pheromones</article-title>. <source>Journal of chemical ecology</source>
-                    <volume>33</volume>:<fpage>1795</fpage>&#x2013;<lpage>1805</lpage>. doi: <pub-id
-                        pub-id-type="doi">10.1007/s10886-007-9335-9</pub-id>.</mixed-citation>
+                    </person-group>
+                    <year>2007</year>
+                    <article-title>Larval release behaviors in the Caribbean spiny lobster,
+                        Panulirus argus: role of peptide pheromones</article-title>
+                    <source>Journal of chemical ecology</source>
+                    <volume>33</volume>
+                    <fpage>1795</fpage>
+                    <lpage>1805</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s10886-007-9335-9</pub-id>
+                </element-citation>
             </ref>
         </ref-list>
-    </back>
+            </back>
     <sub-article article-type="article-commentary" id="SA1">
         <front-stub>
             <article-id pub-id-type="doi">10.7554/eLife.00013.034</article-id>

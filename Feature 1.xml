@@ -186,19 +186,45 @@
         <ref-list>
             <title>References</title>
             <ref id="bib1">
-                <mixed-citation publication-type="journal"><person-group person-group-type="author"
-                                ><name><surname>Hooper</surname><given-names>SL</given-names></name><name><surname>Marder</surname><given-names>E</given-names></name></person-group>.
-                        <year>1987</year>. <article-title>Modulation of the lobster pyloric rhythm
-                        by the peptide proctolin</article-title>. <source>Journal of
-                        Neuroscience</source>
-                    <volume>7</volume>:<fpage>2097</fpage>&#x2013;<lpage>2112</lpage>.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Hooper</surname>
+                            <given-names>SL</given-names>
+                        </name>
+                        <name>
+                            <surname>Marder</surname>
+                            <given-names>E</given-names>
+                        </name>
+                    </person-group>
+                    <year>1987</year>
+                    <article-title>Modulation of the lobster pyloric rhythm by the peptide
+                        proctolin</article-title>
+                    <source>Journal of Neuroscience</source>
+                    <volume>7</volume>
+                    <fpage>2097</fpage>
+                    <lpage>2112</lpage>
+                </element-citation>
             </ref>
             <ref id="bib2">
-                <mixed-citation publication-type="journal"><person-group person-group-type="author"
-                                ><name><surname>Marder</surname><given-names>E</given-names></name><name><surname>Calabrese</surname><given-names>RL</given-names></name></person-group>.
-                        <year>1996</year>. <article-title>Principles of rhythmic motor pattern
-                        generation</article-title>. <source>Physiological Reviews</source>
-                    <volume>76</volume>:<fpage>687</fpage>&#x2013;<lpage>717</lpage>.</mixed-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Marder</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Calabrese</surname>
+                            <given-names>RL</given-names>
+                        </name>
+                    </person-group>
+                    <year>1996</year>
+                    <article-title>Principles of rhythmic motor pattern generation</article-title>
+                    <source>Physiological Reviews</source>
+                    <volume>76</volume>
+                    <fpage>687</fpage>
+                    <lpage>717</lpage>
+                </element-citation>
             </ref>
         </ref-list>
     </back>
