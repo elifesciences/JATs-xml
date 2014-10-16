@@ -2656,7 +2656,7 @@
                 <title>Major datasets</title>
                 <p>The following datasets were generated:</p>
                 <p>
-                    <related-article related-article-type="generated-dataset"
+                    <related-object related-object-type="generated-dataset"
                         id="dataro1">
                         <name>
                             <surname>Alegado</surname>
@@ -2675,10 +2675,10 @@
                             >http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615</ext-link>
                         <x>, </x>
                         <comment>Database, license, and accessibility information.</comment>
-                    </related-article>
+                    </related-object>
                 </p>
                 <p>
-                    <related-article related-article-type="generated-dataset"
+                    <related-object related-object-type="generated-dataset"
                         id="dataro2">
                         <name>
                             <surname>Alegado</surname>
@@ -2697,11 +2697,11 @@
                             >http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
                         <x>, </x>
                         <comment>Database, license, and accessibility information.</comment>
-                    </related-article>
+                    </related-object>
                 </p>
                 <p>The following previously published dataset was used</p>
                 <p>
-                    <related-article related-article-type="existing-dataset"
+                    <related-object related-object-type="existing-dataset"
                         id="dataro3">
                         <name>
                             <surname>Fowler-Finn</surname>
@@ -2720,7 +2720,7 @@
                         <x>, </x>
                         <comment>Creative Commons, stored on Dryad, available on publication of the
                             article.</comment>
-                    </related-article>
+                    </related-object>
                 </p>
             </sec>
         </sec>
