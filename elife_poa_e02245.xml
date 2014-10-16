@@ -97,6 +97,12 @@
 				<title>Research organism</title>
 				<kwd>None</kwd>
 			</kwd-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>elife-xml-version</meta-name>
+					<meta-value>2</meta-value>
+				</custom-meta>
+			</custom-meta-group>
 		</article-meta>
 	</front>
 	<back>
