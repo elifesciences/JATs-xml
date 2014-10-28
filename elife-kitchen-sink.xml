@@ -2656,8 +2656,8 @@
                 <title>Major datasets</title>
                 <p>The following datasets were generated:</p>
                 <p>
-                    <related-object related-object-type="generated-dataset"
-                        id="dataro1">
+                    <related-object content-type="generated-dataset"
+                         id="dataro1">
                         <name>
                             <surname>Alegado</surname>
                             <given-names>Rosanna A</given-names>
@@ -2678,7 +2678,7 @@
                     </related-object>
                 </p>
                 <p>
-                    <related-object related-object-type="generated-dataset"
+                    <related-object content-type="generated-dataset"
                         id="dataro2">
                         <name>
                             <surname>Alegado</surname>
@@ -2701,8 +2701,8 @@
                 </p>
                 <p>The following previously published dataset was used</p>
                 <p>
-                    <related-object related-object-type="existing-dataset"
-                        id="dataro3">
+                    <related-object content-type="existing-dataset"
+                        id="dataro3"> 
                         <name>
                             <surname>Fowler-Finn</surname>
                             <given-names>KD</given-names>
@@ -3331,10 +3331,8 @@
                         person-group-type="author"
                                 ><name><surname>Cerdeno-Tarraga</surname><given-names>AM</given-names></name><name><surname>Patrick</surname><given-names>S</given-names></name><name><surname>Crossman</surname><given-names>L</given-names></name><name><surname>Blakely</surname><given-names>GW</given-names></name><name><surname>Abratt</surname><given-names>V</given-names></name><name><surname>Lennard</surname><given-names>N</given-names></name><name><surname>Poxton</surname><given-names>I</given-names></name><name><surname>Duerden</surname><given-names>B</given-names></name><name><surname>Harris</surname><given-names>B</given-names></name><name><surname>Quail</surname><given-names>MA</given-names></name><name><surname>Barron</surname><given-names>A</given-names></name><name><surname>Clark</surname><given-names>L</given-names></name><name><surname>Corton</surname><given-names>C</given-names></name><name><surname>Doggett</surname><given-names>J</given-names></name><name><surname>Holden</surname><given-names>MT</given-names></name><name><surname>Larke</surname><given-names>N</given-names></name><name><surname>Line</surname><given-names>A</given-names></name><name><surname>Lord</surname><given-names>A</given-names></name><name><surname>Norbertczak</surname><given-names>H</given-names></name><name><surname>Ormond</surname><given-names>D</given-names></name><name><surname>Price</surname><given-names>C</given-names></name><name><surname>Rabbinowitsch</surname><given-names>E</given-names></name><name><surname>Woodward</surname><given-names>J</given-names></name><name><surname>Barrell</surname><given-names>B</given-names></name><name><surname>Parkhill</surname><given-names>J</given-names></name></person-group><year>2005</year><article-title>Extensive
                         DNA Inversions in the B. fragilis Genome Control Variable Gene
-                        Expression</article-title><person-group person-group-type="editor"
-                                ><name><surname>Blakely</surname><given-names>GW</given-names></name></person-group>,
-                    editor.
-                        <source>Science</source><volume>307</volume><fpage>1463</fpage><lpage>1465</lpage><pub-id
+                        Expression</article-title><person-group person-group-type="editor"><name><surname>Blakely</surname><given-names>GW</given-names></name></person-group>,
+                    editor.<source>Science</source><volume>307</volume><fpage>1463</fpage><lpage>1465</lpage><pub-id
                         pub-id-type="doi">10.1126/science.1107008</pub-id></element-citation>
             </ref>
             <ref id="bib21">
