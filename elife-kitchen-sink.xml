@@ -3331,8 +3331,8 @@
                         person-group-type="author"
                                 ><name><surname>Cerdeno-Tarraga</surname><given-names>AM</given-names></name><name><surname>Patrick</surname><given-names>S</given-names></name><name><surname>Crossman</surname><given-names>L</given-names></name><name><surname>Blakely</surname><given-names>GW</given-names></name><name><surname>Abratt</surname><given-names>V</given-names></name><name><surname>Lennard</surname><given-names>N</given-names></name><name><surname>Poxton</surname><given-names>I</given-names></name><name><surname>Duerden</surname><given-names>B</given-names></name><name><surname>Harris</surname><given-names>B</given-names></name><name><surname>Quail</surname><given-names>MA</given-names></name><name><surname>Barron</surname><given-names>A</given-names></name><name><surname>Clark</surname><given-names>L</given-names></name><name><surname>Corton</surname><given-names>C</given-names></name><name><surname>Doggett</surname><given-names>J</given-names></name><name><surname>Holden</surname><given-names>MT</given-names></name><name><surname>Larke</surname><given-names>N</given-names></name><name><surname>Line</surname><given-names>A</given-names></name><name><surname>Lord</surname><given-names>A</given-names></name><name><surname>Norbertczak</surname><given-names>H</given-names></name><name><surname>Ormond</surname><given-names>D</given-names></name><name><surname>Price</surname><given-names>C</given-names></name><name><surname>Rabbinowitsch</surname><given-names>E</given-names></name><name><surname>Woodward</surname><given-names>J</given-names></name><name><surname>Barrell</surname><given-names>B</given-names></name><name><surname>Parkhill</surname><given-names>J</given-names></name></person-group><year>2005</year><article-title>Extensive
                         DNA Inversions in the B. fragilis Genome Control Variable Gene
-                        Expression</article-title><person-group person-group-type="editor"><name><surname>Blakely</surname><given-names>GW</given-names></name></person-group>,
-                    editor.<source>Science</source><volume>307</volume><fpage>1463</fpage><lpage>1465</lpage><pub-id
+                        Expression</article-title><person-group person-group-type="editor"><name><surname>Blakely</surname><given-names>GW</given-names></name></person-group>
+                   <source>Science</source><volume>307</volume><fpage>1463</fpage><lpage>1465</lpage><pub-id
                         pub-id-type="doi">10.1126/science.1107008</pub-id></element-citation>
             </ref>
             <ref id="bib21">
@@ -4572,8 +4572,8 @@
                         of forming multicellular colonies or attaching to surfaces on feeding rates
                         of the choanoflagellate Salpingoeca rosetta</article-title><person-group
                         person-group-type="editor"
-                                ><name><surname>Koehl</surname><given-names>M</given-names></name></person-group>,
-                    editor. <source>Thesis (M.A.in Integrative
+                                ><name><surname>Koehl</surname><given-names>M</given-names></name></person-group>
+                   <source>Thesis (M.A.in Integrative
                         Biology)</source><publisher-loc>Berkeley</publisher-loc><publisher-name>University
                         of California</publisher-name></element-citation>
             </ref>
@@ -4953,8 +4953,8 @@
                                 ><name><surname>Merrill</surname><given-names>AH</given-names></name><name><surname>Sullards</surname><given-names>MC</given-names></name><name><surname>Wang</surname><given-names>E</given-names></name><name><surname>Voss</surname><given-names>KA</given-names></name><name><surname>Riley</surname><given-names>RT</given-names></name></person-group><year>2001</year><article-title>Sphingolipid
                         metabolism: roles in signal transduction and disruption by
                         fumonisins</article-title><source>Environmental health
-                        perspectives</source><volume>109</volume>(<supplement>Suppl
-                        2</supplement>):<fpage>283</fpage><lpage>289</lpage></element-citation>
+                        perspectives</source><volume>109</volume><supplement>Suppl
+                        2</supplement><fpage>283</fpage><lpage>289</lpage></element-citation>
             </ref>
             <ref id="bib72">
                 <element-citation publication-type="journal">
