@@ -40,10 +40,10 @@
                         <surname>Baldwin</surname>
                         <given-names>Ian T</given-names>
                     </name>
-                    <role>Senior Editor</role>
+                    <role> Senior editor</role>
                     <xref ref-type="aff" rid="aff1"/>
                     <xref ref-type="fn" rid="conf1"/>
-                    <x>is at the</x> </contrib>
+                    <x> is at the </x> </contrib>
                 <aff id="aff1">
                     <institution>Max Planck Institute for Chemical Ecology</institution>, 
                     <addr-line><named-content content-type="city">Jena</named-content></addr-line>,
