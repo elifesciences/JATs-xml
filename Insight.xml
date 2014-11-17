@@ -40,17 +40,17 @@
                     </name>
                     <xref ref-type="aff" rid="aff1"/>
                     <xref ref-type="fn" rid="conf1"/>
-                    <x>is in the</x>
+                    <x> is in the </x>
                 </contrib>
                 <contrib contrib-type="author" corresp="yes" id="author-1199">
                     <name>
                         <surname>Walter</surname>
                         <given-names>Johannes</given-names>
                     </name>
-                    <role>Reviewing Editor</role>
+                    <role>Reviewing editor</role>
                     <xref ref-type="aff" rid="aff2"/>
                     <xref ref-type="fn" rid="conf1"/>
-                    <x>is in the</x>
+                    <x> is in the </x>
                 </contrib>
                 <aff id="aff1">
                     <institution content-type="dept">Department of
