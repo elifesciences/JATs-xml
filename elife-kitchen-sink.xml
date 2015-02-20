@@ -535,7 +535,7 @@
         </article-meta>
     </front>
     <body>
-        <sec sec-type="intro">
+        <sec sec-type="intro" id="s1">
             <title>Introduction</title>
             <p>Eukaryotes evolved in a world filled with bacteria and throughout their shared
                 history these two branches of life have developed a complex set of ways to compete
@@ -2554,7 +2554,7 @@
                 the manuscript. NK is a Fellow in the Integrated Microbial Biodiversity Program of
                 the Canadian Institute for Advanced Research.</p>
         </ack>
-        <sec id="sec2342" sec-type="additional-information">
+        <sec id="sec22" sec-type="additional-information">
             <title>Additional information</title>
             <fn-group content-type="competing-interest">
                 <title>Competing interests</title>
