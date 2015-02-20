@@ -195,6 +195,10 @@
                         <surname>Mullikin</surname>
                         <given-names>Jim</given-names>
                     </name>
+                    <aff>
+                        <institution>Science Exchange, Palo Alto</institution>,
+                        <addr-line><named-content content-type="city">California</named-content></addr-line>
+                    </aff>
                 </contrib>
                 <contrib contrib-type="author non-byline">
                     <contrib-id contrib-id-type="group-author-key">group-author-id1</contrib-id>
@@ -218,11 +222,7 @@
                         <surname>Dodd</surname>
                         <given-names>Melissa</given-names>
                     </name>
-                    <aff>
-                        <institution>Science Exchange, Palo Alto</institution>,
-                        <addr-line><named-content content-type="city">California</named-content></addr-line>
-                    </aff>
-                </contrib>
+                   </contrib>
                 <contrib contrib-type="author non-byline">
                     <contrib-id contrib-id-type="group-author-key">group-author-id2</contrib-id>
                     <name>
@@ -2182,15 +2182,20 @@
         </sec>
         <sec sec-type="results" id="s2">
             <title>Results</title>
+        </sec>
             <sec id="s2-1">
                 <title>Choanoflagellate husbandry and microscopy</title>
                 <p>eLife research articles always contain a results section, generally with level 2 headings to break them up.</p>
+            </sec>
                 <sec sec-type="discussion" id="s3">
                     <title>Discussion</title>
-                    <p>The discussion usually does not have subsections</p>
-        <sec id="sec4" sec-type="materials|methods">
+                    <p>The discussion usually does not have subsections.</p>
+                </sec>
+        <sec id="s4" sec-type="materials|methods">
             <title>Materials and methods</title>
-            <sec id="sec4-1">
+            <p>eLife research articles always contain a materials and methods section, generally with level 2 headings to break them up.</p>
+        </sec>
+            <sec id="s4-1">
                 <title>Choanoflagellate husbandry and microscopy</title>
                 <p>The environmental isolate of <italic>Salpingoeca rosetta</italic> is deposited at
                     the American Tissue Culture Collection (ATCC) under the designation ATCC50818
@@ -2238,7 +2243,7 @@
                 <title>Materials and reagents</title>
                 <p>Example of a level 3 heading requirement</p>
             </sec>
-            <sec id="sec4-2">
+            <sec id="s4-2">
                 <title>Bioassay for rosette colony development</title>
                 <p>Under laboratory conditions, <italic>S. rosetta</italic> differentiates into a
                     variety of cell types including attached thecate cells, solitary swimmers,
@@ -2283,7 +2288,7 @@
                     </inline-formula>
                 </p>
             </sec>
-            <sec id="sec4-3">
+            <sec id="s4-3">
                 <title>Isolation and identification of <italic>A. machipongonensis</italic>
                 </title>
                 <p>A partial representation of the bacterial flora from ATCC50818 was isolated by
@@ -2312,7 +2317,7 @@
                         rid="bib13">Bradley et al., 2009</xref>)<italic>.</italic>
                 </p>
             </sec>
-            <sec id="sec4-4">
+            <sec id="s4-4">
                 <title>Generating a phylogenetic framework for testing the diversity of bacteria
                     that induce rosette colony development</title>
                 <p>To investigate whether the ability to trigger rosette colony development was
@@ -2346,7 +2351,7 @@
                     Support for the resulting tree topology was estimated using bootstrap analysis
                     (1,000 replicates).</p>
             </sec>
-            <sec id="sec4-5">
+            <sec id="s4-5">
                 <title>Biochemical analysis of <underline>R</underline>osette
                         <underline>I</underline>nducing <underline>F</underline>actor
                     (RIF-1)</title>
@@ -2426,7 +2431,7 @@
                     <sub>;</sub>Sigma) overnight at 37 &#xb0;C. The enzyme was inactivated by
                     incubation at 80 &#xb0;C for 20 minutes.</p>
             </sec>
-            <sec id="sec4-6">
+            <sec id="s4-6">
                 <title>Isolation and purification of RIF-1 from <italic>A. machipongonensis</italic>
                 </title>
                 <p>
@@ -2497,7 +2502,7 @@
                     <italic>m/z</italic> calculated for C<sub>17</sub>H<sub>36</sub>NO<sub>5</sub>S
                     (M-H): 366.23142. Found: 366.2310 (M-H)<sup>-</sup>.</p>
             </sec>
-            <sec id="sec4-7">
+            <sec id="s4-7">
                 <title>Quantification of RIF-1 levels in conditioned medium</title>
                 <p>Conditioned medium was prepared from <italic>A. machipongonensis</italic> grown
                     in seawater complete medium (750 mL) at 30 &#xb0;C for 2 days. The conditioned
@@ -2516,7 +2521,7 @@
                         L<sup>-1</sup>. The purified RIF-1 was used as the standard (<xref
                         ref-type="fig" rid="sfig5">Figure 4&#x2014;figure supplement 1</xref>).</p>
             </sec>
-            <sec id="sec4-8">
+            <sec id="s4-8">
                 <title>Activity profile of RIF-1</title>
                 <p>
                     <inline-formula>
@@ -2557,7 +2562,6 @@
                     was determined to be the nonlinear regression curve of best fit determined using
                     GraphPad Prism 5 statistical software.</p>
             </sec>
-        </sec>
     </body>
     <back>
         <ack id="ack">
@@ -2566,7 +2570,7 @@
                 the manuscript. NK is a Fellow in the Integrated Microbial Biodiversity Program of
                 the Canadian Institute for Advanced Research.</p>
         </ack>
-        <sec id="sec22" sec-type="additional-information">
+        <sec sec-type="additional-information" id="s5">
             <title>Additional information</title>
             <fn-group content-type="competing-interest">
                 <title>Competing interests</title>
@@ -2630,7 +2634,7 @@
                 </fn>
             </fn-group>
         </sec>
-        <sec id="sec23" sec-type="supplementary-material">
+        <sec sec-type="supplementary-material" id="s6">
             <title>Additional files</title>
             <supplementary-material id="SD2-data">
                 <object-id pub-id-type="doi">10.7554/eLife.00013.031</object-id>
@@ -2675,7 +2679,7 @@
                 </caption>
                 <media mime-subtype="pdf" mimetype="application" xlink:href="elife00013s004.pdf"/>
             </supplementary-material>
-            <sec sec-type="datasets">
+            <sec sec-type="datasets" id="s7">
                 <title>Major datasets</title>
                 <p>The following datasets were generated:</p>
                 <p>
