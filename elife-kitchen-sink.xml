@@ -2180,9 +2180,17 @@
                 for further understanding a new and potentially important class of small molecule
                 information transfer.</p>
         </sec>
-        <sec id="sec2" sec-type="materials|methods">
+        <sec sec-type="results" id="s2">
+            <title>Results</title>
+            <sec id="s2-1">
+                <title>Choanoflagellate husbandry and microscopy</title>
+                <p>eLife research articles always contain a results section, generally with level 2 headings to break them up.</p>
+                <sec sec-type="discussion" id="s3">
+                    <title>Discussion</title>
+                    <p>The discussion usually does not have subsections</p>
+        <sec id="sec4" sec-type="materials|methods">
             <title>Materials and methods</title>
-            <sec id="sec2-1">
+            <sec id="sec4-1">
                 <title>Choanoflagellate husbandry and microscopy</title>
                 <p>The environmental isolate of <italic>Salpingoeca rosetta</italic> is deposited at
                     the American Tissue Culture Collection (ATCC) under the designation ATCC50818
@@ -2226,11 +2234,11 @@
                     2009</xref>). Live cells were imaged with a Leica DMI6000B microscope equipped
                     with a DFC350 FX camera.</p>
             </sec>
-            <sec id="s2-1-2">
+            <sec id="s4-1-2">
                 <title>Materials and reagents</title>
                 <p>Example of a level 3 heading requirement</p>
             </sec>
-            <sec id="sec2-2">
+            <sec id="sec4-2">
                 <title>Bioassay for rosette colony development</title>
                 <p>Under laboratory conditions, <italic>S. rosetta</italic> differentiates into a
                     variety of cell types including attached thecate cells, solitary swimmers,
@@ -2275,7 +2283,7 @@
                     </inline-formula>
                 </p>
             </sec>
-            <sec id="sec2-3">
+            <sec id="sec4-3">
                 <title>Isolation and identification of <italic>A. machipongonensis</italic>
                 </title>
                 <p>A partial representation of the bacterial flora from ATCC50818 was isolated by
@@ -2304,7 +2312,7 @@
                         rid="bib13">Bradley et al., 2009</xref>)<italic>.</italic>
                 </p>
             </sec>
-            <sec id="sec2-4">
+            <sec id="sec4-4">
                 <title>Generating a phylogenetic framework for testing the diversity of bacteria
                     that induce rosette colony development</title>
                 <p>To investigate whether the ability to trigger rosette colony development was
@@ -2338,7 +2346,7 @@
                     Support for the resulting tree topology was estimated using bootstrap analysis
                     (1,000 replicates).</p>
             </sec>
-            <sec id="sec2-5">
+            <sec id="sec4-5">
                 <title>Biochemical analysis of <underline>R</underline>osette
                         <underline>I</underline>nducing <underline>F</underline>actor
                     (RIF-1)</title>
@@ -2418,7 +2426,7 @@
                     <sub>;</sub>Sigma) overnight at 37 &#xb0;C. The enzyme was inactivated by
                     incubation at 80 &#xb0;C for 20 minutes.</p>
             </sec>
-            <sec id="sec2-6">
+            <sec id="sec4-6">
                 <title>Isolation and purification of RIF-1 from <italic>A. machipongonensis</italic>
                 </title>
                 <p>
@@ -2489,7 +2497,7 @@
                     <italic>m/z</italic> calculated for C<sub>17</sub>H<sub>36</sub>NO<sub>5</sub>S
                     (M-H): 366.23142. Found: 366.2310 (M-H)<sup>-</sup>.</p>
             </sec>
-            <sec id="sec2-7">
+            <sec id="sec4-7">
                 <title>Quantification of RIF-1 levels in conditioned medium</title>
                 <p>Conditioned medium was prepared from <italic>A. machipongonensis</italic> grown
                     in seawater complete medium (750 mL) at 30 &#xb0;C for 2 days. The conditioned
@@ -2508,7 +2516,7 @@
                         L<sup>-1</sup>. The purified RIF-1 was used as the standard (<xref
                         ref-type="fig" rid="sfig5">Figure 4&#x2014;figure supplement 1</xref>).</p>
             </sec>
-            <sec id="sec2-8">
+            <sec id="sec4-8">
                 <title>Activity profile of RIF-1</title>
                 <p>
                     <inline-formula>
