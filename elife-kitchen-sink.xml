@@ -891,7 +891,7 @@
                                     <italic>Aquiflexum balticum</italic>BA160</td>
                                 <td>AJ744861</td>
                                 <td>
-                                    <xref ref-type="bibr" rid="bib14">Brettar et al. (2004)</xref>
+                                    <xref ref-type="bibr" rid="bib14">Brettar et al. (2004a)</xref>
                                 </td>
                                 <td>-</td>
                             </tr>
@@ -919,7 +919,7 @@
                                     <italic>Belliella baltica</italic>BA134</td>
                                 <td>AJ564643</td>
                                 <td>
-                                    <xref ref-type="bibr" rid="bib15">Brettar et al. (2004)</xref>
+                                    <xref ref-type="bibr" rid="bib15">Brettar et al. (2004b)</xref>
                                 </td>
                                 <td>-</td>
                             </tr>
@@ -3167,7 +3167,7 @@
                             <given-names>M</given-names>
                         </name>
                     </person-group>
-                    <year>2004</year>
+                    <year iso-8601-date="2004">2004a</year>
                     <article-title>Aquiflexum balticum gen. nov., sp nov., a novel marine bacterium
                         of the Cytophaga-Flavobacterium-Bacteroides group isolated from surface
                         water of the central Baltic Sea</article-title>
@@ -3195,7 +3195,7 @@
                             <given-names>MG</given-names>
                         </name>
                     </person-group>
-                    <year>2004</year>
+                    <year iso-8601-date="2004">2004b</year>
                     <article-title>Belliella baltica gen. nov., sp. nov., a novel marine bacterium
                         of the Cytophaga-Flavobacterium-Bacteroides group isolated from surface
                         water of the central Baltic Sea</article-title>
