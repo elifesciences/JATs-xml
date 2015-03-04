@@ -1171,11 +1171,7 @@
                             ventral portions of V2 and V3 as well as between right and left
                             hemispheres were strongest at the 0&#x2013;radial distances
                             (iso-eccentricities), and linearly decreased at larger distances for all
-                            conditions (<xref ref-type="fig" rid="fig6s1">Figure 6&#x2014;figure
-                                supplement 1</xref>). In general, the slopes of correlations were
-                            marginally shallower, but did not significantly differ from the full
-                            data reported in <xref ref-type="fig" rid="fig5">Figure 5</xref>
-                            (<italic>p</italic>s &#x003e; 0.05, FDR corrected). If overlapping
+                            conditions. If overlapping
                             meridian representations facilitated the correlation patterns, removal
                             of this data should have eliminated the correlation effects. These data
                             further support the interpretation that the observed correlations with
@@ -2319,7 +2315,7 @@
                     number of cells and the total number of cells in each rosette colony were
                     counted with a Bright-Line hemacytometer (Hausser Scientific, Horsham, PA).</p>
                 <p>
-                    <inline-formula>
+                    <disp-formula>
                         <mml:math id="inf5">
                             <mml:mrow>
                                 <mml:munder>
@@ -2339,7 +2335,7 @@
                                 </mml:mrow>
                             </mml:mrow>
                         </mml:math>
-                    </inline-formula>
+                    </disp-formula>
                 </p>
             </sec>
             <sec id="s4-3">
