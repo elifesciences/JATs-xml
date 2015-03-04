@@ -2434,11 +2434,23 @@
                         ref-type="fig" rid="sfig5">Figure 4&#x2014;figure supplement 1</xref>).</p>
                 <p>As input, our algorithm requires a genealogical tree, e.g. a tree reconstructed
                     from a sample of genomic sequences. For a given tree <italic>T</italic>, we
-                    derived the joint probability distribution <inline-formula><mml:math id="inf2"
-                        ><mml:mrow><mml:mi>P</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi
-                            mathvariant="bold"
-                            >x</mml:mi><mml:mo>|</mml:mo><mml:mi>T</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
-                    for the fitnesses <inline-formula><mml:math id="inf3"><mml:mrow><mml:mi
+                    derived the joint probability distribution 
+                    <inline-formula>
+                        <mml:math id="inf1">
+                            <mml:mrow>
+                                <mml:mi>P</mml:mi>
+                                <mml:mrow>
+                                    <mml:mo>(</mml:mo>
+                                    <mml:mrow><mml:mi mathvariant="bold">x</mml:mi>
+                                        <mml:mo>|</mml:mo>
+                                        <mml:mi>T</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mo>)</mml:mo>
+                                </mml:mrow>
+                            </mml:mrow>
+                        </mml:math>
+                    </inline-formula>
+                    for the fitnesses <inline-formula><mml:math id="inf2"><mml:mrow><mml:mi
                         mathvariant="bold"
                         >x</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mo>…</mml:mo></mml:mrow></mml:math></inline-formula>
                     of all internal nodes (corresponding to reconstructed ancestral sequences) and
@@ -2446,12 +2458,12 @@
                     <italic>x</italic><sub><italic>i</italic></sub> of each node
                     <italic>i</italic> is measured relative to the population mean fitness at
                     the time when the corresponding individual was sampled.
-                    <inline-formula><mml:math id="inf4"
+                    <inline-formula><mml:math id="inf3"
                         ><mml:mrow><mml:mi>P</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi
                             mathvariant="bold"
                             >x</mml:mi><mml:mo>|</mml:mo><mml:mi>T</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
                     is given by a product of <italic>propagators</italic>
-                    <inline-formula><mml:math id="inf5"
+                    <inline-formula><mml:math id="inf4"
                         ><mml:mrow><mml:mi>g</mml:mi><mml:mo>(</mml:mo><mml:mo>·</mml:mo><mml:mo>|</mml:mo><mml:mo>·</mml:mo><mml:mo>)</mml:mo></mml:mrow></mml:math></inline-formula>
                     for each branch
                     <disp-formula id="equ2">
@@ -2462,18 +2474,18 @@
                             >x</mml:mi><mml:mo>|</mml:mo><mml:mi>T</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>Z</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>T</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:munderover><mml:mstyle
                                 displaystyle="true"
                                 ><mml:mo>∏</mml:mo></mml:mstyle><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mtext>int</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:munderover><mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>|</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mtext> </mml:mtext><mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>|</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:math></disp-formula>where
-                    <inline-formula><mml:math id="inf6"
+                    <inline-formula><mml:math id="inf5"
                         ><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>x</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
                     is the fitness distribution in the population (see ‘Materials and methods’ for
                     details) and the index <italic>i</italic> runs from 0 (the root) through all
-                    <inline-formula><mml:math id="inf7"
+                    <inline-formula><mml:math id="inf6"
                         ><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mtext>int</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>
-                    internal nodes. The indices <inline-formula><mml:math id="inf8"
+                    internal nodes. The indices <inline-formula><mml:math id="inf7"
                         ><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math></inline-formula>
-                    and <inline-formula><mml:math id="inf9"
+                    and <inline-formula><mml:math id="inf8"
                         ><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math></inline-formula>
                     denote the two children of node <italic>i</italic>, while
-                    <inline-formula><mml:math id="inf10"
+                    <inline-formula><mml:math id="inf9"
                         ><mml:mrow><mml:mi>Z</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>T</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
                     ensures normalization of the distribution. 
                     <xref ref-type="disp-formula" rid="equ2">Eq. (1)</xref> has a structure similar to the expression for the
@@ -2481,16 +2493,16 @@
                     phylogenetic analysis (<xref ref-type="bibr" rid="bib10">Felsenstein,
                         2003</xref>). The main difference is that instead of defining the
                     probability of mutation from one character state to another, the branch
-                    propagator <inline-formula><mml:math id="inf11"
+                    propagator <inline-formula><mml:math id="inf10"
                         ><mml:mrow><mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>|</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
                     describes the likelihood of the lineage to connect an ancestor with fitness
-                    <inline-formula><mml:math id="inf12"
+                    <inline-formula><mml:math id="inf11"
                         ><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
-                    at time <inline-formula><mml:math id="inf13"
+                    at time <inline-formula><mml:math id="inf12"
                         ><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
-                    to a child with fitness <inline-formula><mml:math id="inf14"
+                    to a child with fitness <inline-formula><mml:math id="inf13"
                         ><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
-                    at a later time <inline-formula><mml:math id="inf15"
+                    at a later time <inline-formula><mml:math id="inf14"
                         ><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
                     (child in sense of a subclade in the tree, rather than direct offspring). Note
                     that a branch connecting nodes <italic>i</italic> and <italic>j</italic> implies
