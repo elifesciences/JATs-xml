@@ -2681,7 +2681,7 @@
                             xlink:href="http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615"
                             >http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615</ext-link>
                         <x>, </x>
-                        <comment>Database, license, and accessibility information.</comment>
+                        <comment>Available at Dryad Digital Repository under a CC0 Public Domain Dedication.</comment>
                     </related-object>
                 </p>
                 <p>
@@ -2725,8 +2725,7 @@
                             xlink:href="http://dx.doi.org/10.5061/dryad.mh2qf615"
                             >http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
                         <x>, </x>
-                        <comment>Creative Commons, stored on Dryad, available on publication of the
-                            article.</comment>
+                        <comment>Available at Dryad Digital Repository under a CC0 Public Domain Dedication.</comment>
                     </related-object>
                 </p>
             </sec>
