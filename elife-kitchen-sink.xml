@@ -582,7 +582,7 @@
                     1</xref>) restored rosette colony development, revealing that <italic>S.
                     rosetta</italic> cells in the RCA culture remained competent to form colonies
                 and would do so when stimulated by the original community of environmental bacteria
-                    (<xref ref-type="other" rid="video1">Video 1</xref>).<fig-group>
+                    (<xref ref-type="other" rid="video1">Video 1</xref>).</p><fig-group>
                     <fig id="fig1" position="float">
                         <object-id pub-id-type="doi">10.7554/eLife.00013.003</object-id>
                         <label>Figure 1.</label>
@@ -654,6 +654,19 @@
                                 <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.005"
                                     >http://dx.doi.org/10.7554/eLife.00013.005</ext-link>
                             </p>
+                            <p><supplementary-material id="SD2-data"><object-id pub-id-type="doi">10.7554/eLife.05075.003</object-id>
+                                <label>Table 1—source data 1.</label>
+                                <caption>
+                                    <title>Is the species name mentioned in the
+                                        title, impact statement, abstract and digest of eLife papers
+                                        (July–Sept 2014)?</title>
+                                    <p><bold>DOI:</bold>
+                                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.05075.003">http://dx.doi.org/10.7554/eLife.05075.003</ext-link>
+                                    </p>
+                                </caption>
+                                <media mime-subtype="docx" mimetype="application" xlink:href="elife05075s002.docx"/>
+                            </supplementary-material>
+                            </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs001"/>
@@ -715,7 +728,7 @@
                             <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.009"
                                 >http://dx.doi.org/10.7554/eLife.00013.009</ext-link>
                         </p>
-                    </caption>
+                       </caption>
                     <table frame="hsides" rules="groups">
                         <thead>
                             <tr>
@@ -1105,9 +1118,8 @@
                             <label>&#x2a;</label>
                             <p>No rosette colonies observed, &#x2b; rosette colonies observed</p>
                         </fn>
-                    </table-wrap-foot>
-                </table-wrap>
-            </p>
+                        </table-wrap-foot>
+                    </table-wrap>
             <p>To determine which co-isolated bacterial species stimulate rosette colony development
                 in <italic>S. rosetta</italic>, see <xref ref-type="boxed-text" rid="box1">Box
                     1</xref> the RCA cell line was supplemented with 64
@@ -2604,7 +2616,7 @@
         </sec>
         <sec sec-type="supplementary-material" id="s6">
             <title>Additional files</title>
-            <supplementary-material id="SD2-data">
+            <supplementary-material id="SD3-data">
                 <object-id pub-id-type="doi">10.7554/eLife.00013.031</object-id>
                 <label>Supplementary file 1.</label>
                 <caption>
@@ -2618,7 +2630,7 @@
                 </caption>
                 <media mime-subtype="xlsx" mimetype="application" xlink:href="elife00013s002.xlsx"/>
             </supplementary-material>
-            <supplementary-material id="SD3-data">
+            <supplementary-material id="SD4-data">
                 <object-id pub-id-type="doi">10.7554/eLife.00013.032</object-id>
                 <label>Reporting Standard.</label>
                 <caption>
@@ -2633,7 +2645,7 @@
                 </caption>
                 <media mime-subtype="pdf" mimetype="application" xlink:href="elife00013s003.pdf"/>
             </supplementary-material>
-            <supplementary-material id="SD4-data">
+            <supplementary-material id="SD5-data">
                 <object-id pub-id-type="doi">10.7554/eLife.00013.033</object-id>
                 <label>Source code 1.</label>
                 <caption>
