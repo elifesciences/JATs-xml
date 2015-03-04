@@ -6268,7 +6268,7 @@
                     subtracted 5 spikes/s to implement plasticity if a CS had occurred for that
                     Purkinje cell on the prior trial. Next, we computed the CS responses on the
                     current trial for each model Purkinje cell (<xref ref-type="disp-formula"
-                        rid="equ6">Equations 2</xref>–<xref ref-type="disp-formula" rid="equ4"
+                        rid="equ6">Equations 2</xref>–<xref ref-type="disp-formula" rid="equ2"
                             >4</xref>). CS-caused plasticity decayed by 2.5 spikes/s on each of the next
                     two trials. The simple-spike firing rate for a given Purkinje cell was
                     represented as a scalar. Thus, the results of analysis of the model outputs also
