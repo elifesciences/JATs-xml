@@ -2114,7 +2114,7 @@
                     <title>Discussion</title>
                     <p>The discussion usually does not have subsections.</p>
                 </sec>
-        <sec id="s4" sec-type="materials|methods">
+        <sec sec-type="materials|methods"  id="s4">
             <title>Materials and methods</title>
             <p>eLife research articles always contain a materials and methods section, generally with level 2 headings to break them up.</p>
         </sec>
@@ -6094,6 +6094,335 @@
                 </element-citation>
             </ref>
         </ref-list>
+        <app-group>
+            <app>
+                <title>Appendix 1</title>
+        <boxed-text>
+            <sec sec-type="appendix" id="s8">
+                <title>Animal preparation</title>
+                <p>We conducted experiments on four awake, behaving adult male rhesus monkeys. Two
+                    monkeys were used for recordings from Purkinje cells in the floccular complex
+                    during pursuit learning (at UCSF), and the other two were used only for
+                    behavioral studies of pursuit learning (at Duke). During each experiment
+                    session, head movement was prevented with an implanted head holder, eye position
+                    was monitored with a scleral search coil, and a stainless steel recording
+                    cylinder allowed access to the floccular complex for single neuron recordings.
+                    The head holder, eye coil, and recording cylinder had been implanted in surgical
+                    procedures that used sterile technique with the monkey under isofluorane
+                    anesthesia (<xref ref-type="bibr" rid="bib36">Ramachandran and Lisberger,
+                        2005</xref>). Monkeys received analgesics for several days after each
+                    surgery. The Institutional Animal Care and Use Committees at UCSF and Duke had
+                    approved all the procedures in advance. The procedures were in accordance with
+                    the National Institutes of Health Guide for the Care and Use of Laboratory
+                    Animals.</p>
+            </sec>
+            <sec id="s8-1">
+                <title>Behavioral task</title>
+                <p>Fixation and pursuit targets comprised bright 0.3° or 0.5° spots, respectively,
+                    on a dark background. Visual stimuli were presented on a CRT monitor that was
+                    placed 30 cm from the monkey’s eye and that subtended a visual field of 59° ×
+                    47°. All experiments were performed in a dimly lit room. Each single neuron
+                    recording experiment consisted of two separate blocks. The baseline block
+                    comprised approximately 80 trials. The target moved at a constant speed of 20
+                    deg/s for 850 ms in one of eight directions. Target motion followed a standard
+                    step-ramp trajectory ((<xref ref-type="fig" rid="fig9">Appendix 1 Figure 1</xref>) <xref ref-type="bibr" rid="bib37">Rashbass, 1961</xref>),
+                    with a 3° eccentric step to minimize the occurrence of saccades during the
+                    initiation of pursuit. A learning block comprised about 400 trials. Each trial
+                    delivered a sequence of target motions described in the ‘Results’.</p>
+                <p>Monkeys were required to keep their eyes within a reward window that was
+                    <underline>+</underline>1° during fixation, <underline>+</underline>2°
+                    during smooth target motion, and <underline>+</underline>4 or 5° for 400 ms
+                    after an instructive change in target direction. The monkey received a droplet
+                    of juice at the end of the trial if he had satisfied the fixation requirements
+                    throughout the trial. To avoid punishing the monkey for his inescapable response
+                    latencies in learning trials, fixation requirements were suspended for the 250
+                    ms between the onset of target motion and the time of the instructive change in
+                    target motion. The magnitude of learned eye movements was small and did not
+                    affect the chances of reward in either a positive or a negative way.</p><fig id="fig9"
+                        position="float"><object-id pub-id-type="doi"
+                            >10.7554/eLife.01574.011</object-id><label>Appendix 1 Figure 1
+                                8.</label><caption><title>Schematic diagrams showing mechanisms of
+                                    cerebellar learning suggested by our data.</title><p>Each panel shows
+                                        the spiking activity of the elements in the proposed cerebellar circuit
+                                        during the course of a learning experiment. Trial ‘3’ contains two
+                                        schematics illustrating the effect of spontaneous trial-to-trial
+                                        variation in the simple-spike firing rate, superimposed on the effects
+                                        of trial-over-trial depression and longer-term learning. Abbreviations
+                                        are: PC, Purkinje cell; GrC, granule cell; DCN, deep cerebellar nucleus;
+                                        IO, inferior olive; CS, complex-spike.</p><p><bold>DOI:</bold>
+                                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.011"
+                                                >http://dx.doi.org/10.7554/eLife.01574.011</ext-link></p></caption><graphic
+                                                    xlink:href="elife01574f009"/></fig>
+            </sec>
+            <sec id="s8-2">
+                <title>Data acquisition and analysis</title>
+                <p>To estimate horizontal and vertical eye position, we scaled the eye position
+                    signals from a magnetic search coil system. The signals were passed through an
+                    analog circuit that rejected signals at frequencies above 25 Hz (−20 dB per
+                    decade) and differentiated signals at lower frequencies to create voltages
+                    proportional to horizontal and vertical eye velocity. Analog signals related to
+                    eye position and velocity were sampled at 1 kHz on each channel and stored for
+                    off-line analysis with single-unit recordings.</p>
+                <p>To record the activity of single Purkinje cells in the floccular complex,
+                    glass-insulated platinum–iridium microelectrodes manufactured in our laboratory
+                    were introduced daily through the previously-implanted cylinder. Purkinje cells
+                    showed a high level of spontaneous simple-spike firing and occasional
+                    complex-spike (CS) responses. Purkinje cells in the floccular complex showed
+                    strong modulation of simple-spike firing rate when the monkey tracked sinusoidal
+                    target motion along the horizontal or vertical axis. Extracellular action
+                    potentials were amplified conventionally, filtered with a bandpass of 300 Hz to
+                    3 kHz, digitized at 25 KHz, and stored in the computer. We used a software
+                    window discriminator to view the spike train for each trial in the dataset and
+                    identify simple-spikes and CS responses. The firing rate for simple-spikes was
+                    computed using a reciprocal interval algorithm (<xref ref-type="bibr"
+                        rid="bib23">Lisberger and Pavelko, 1986</xref>). The CS responses were
+                    accumulated for each learning trial in bins with widths of 100 ms, and then were
+                    converted to the probability of a CS in each bin.</p>
+                <p>We analyzed the responses of 108 Purkinje cells whose CS responses remained
+                    isolated through the full learning protocol. The CS responses occur in floccular
+                    Purkinje cells in response to instructive target motions that are in the
+                    ‘off’-direction for simple-spike firing during pursuit (<xref ref-type="bibr"
+                        rid="bib40">Stone and Lisberger, 1990</xref>; <xref ref-type="bibr"
+                            rid="bib28">Medina and Lisberger, 2008</xref>). Our analysis is based on the
+                    large majority of the Purkinje cells (group 1, 90/108) that showed CS
+                    probabilities more than three times their spontaneous level of 0.09 ± 0.02 (mean
+                    ± SD). We excluded from analysis a much smaller subpopulation (group 2, 18/108),
+                    whose CS probabilities after an instruction were less than 0.2 and never
+                    exceeded three times their spontaneous level.</p>
+                <p>Specific data analyses are explained at the relevant locations in the ‘Results’,
+                    and statistical tests are described either in the ‘Results’ or in the relevant
+                    figure legends.</p>
+            </sec>
+            <sec id="s8-3">
+                <title>Computer simulations</title>
+                <p>We created a cerebellar circuit model with 1000 Purkinje cells and 100 neurons in
+                    the inferior olive. In keeping with the known anatomy of the cerebellum, each
+                    neuron in the inferior olive provided a climbing fiber for 10 Purkinje cells
+                    (<xref ref-type="bibr" rid="bib41">Sugihara et al., 2004</xref> visualized
+                    at least 5). The performance of the model was nearly the same if we set the
+                    climbing fiber divergence ratio to be 5 or even 1. We computed the firing rate
+                    for each Purkinje cell as:<disp-formula id="equ5"><label>(1)</label><mml:math
+                        id="m5"
+                        ><mml:mrow><mml:mi>S</mml:mi><mml:msub><mml:mi>S</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>−</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>n</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:msub><mml:mi>α</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>n</mml:mi><mml:mi>n</mml:mi></mml:mrow></mml:msub><mml:msub><mml:mi>β</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:math></disp-formula>where
+                    <italic>SS</italic><sub><italic>i,j</italic></sub> is the firing rate of the
+                    <italic>i</italic><sup><italic>th</italic></sup> Purkinje cell on the
+                    <italic>j</italic><sup><italic>th</italic></sup> trial,
+                    <italic>R</italic><sub><italic>nn</italic></sub> is the trial-by-trial
+                    correlation of simple-spike firing rate between pairs of Purkinje cells;
+                    <italic>α</italic><sub><italic>i,j</italic></sub> is drawn for each Purkinje
+                    cell and trial from a normal distribution with a mean of 100 and a standard
+                    deviation of 18; and <italic>β</italic><sub><italic>j</italic></sub> is drawn
+                    for each trial from the same random distribution but used for all Purkinje cells
+                    on that trial. We fixed the mean and standard deviation of the distribution of
+                    simple-spike firing to match the means in our data. We set
+                    <italic>R</italic><sub><italic>nn</italic></sub> to be 0.3, which
+                    yielded neuron–neuron correlations that averaged 0.16.</p>
+                <p>For each model inferior olive neuron, we enforced the probability of a CS to be
+                    zero when the instruction was in the on-direction for simple-spike firing, and
+                    we biased the probability of a CS on the basis of the average simple-spike
+                    firing rate of a subset of the model Purkinje cells when the instruction was in
+                    the off-direction for simple-spike firing. First, we computed the (disynaptic)
+                    simple-spike effect on each model inferior olive neuron as:<disp-formula
+                        id="equ6"><label>(2)</label><mml:math id="m6"
+                            ><mml:mrow><mml:mi>I</mml:mi><mml:msub><mml:mi>N</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mstyle
+                                displaystyle="true"
+                                ><mml:munderover><mml:mo>∑</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mi>k</mml:mi><mml:mi>N</mml:mi></mml:mrow><mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mi>k</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn><mml:mo>)</mml:mo></mml:mrow><mml:mi>N</mml:mi><mml:mo>−</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:munderover><mml:mrow><mml:mi>S</mml:mi><mml:msub><mml:mi>S</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mstyle></mml:mrow><mml:mi>N</mml:mi></mml:mfrac></mml:mrow></mml:math></disp-formula>where
+                    <italic>IN</italic><sub><italic>k,j</italic></sub> signifies the averaged
+                    input to the <italic>k</italic><sup><italic>th</italic></sup> inferior olive
+                    neuron on the <italic>j</italic><sup><italic>th</italic></sup> trial, and
+                    <italic>N</italic> is the number of Purkinje cells’ simple-spike firing
+                    rates that are averaged together to modulate the response of each model inferior
+                    olive neuron. Then, we used a sigmoid curve to relate the probability that each
+                    inferior olive neuron would respond to an off-direction
+                    instruction:<disp-formula id="equ7"><label>(3)</label><mml:math id="m7"
+                        ><mml:mrow><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>I</mml:mi><mml:mi>O</mml:mi><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mn>0.1</mml:mn><mml:mo>+</mml:mo><mml:mfrac><mml:mrow><mml:mn>0.5</mml:mn></mml:mrow><mml:mrow><mml:mo>(</mml:mo><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:msup><mml:mi>e</mml:mi><mml:mrow><mml:mo>−</mml:mo><mml:mn>0.3</mml:mn><mml:mrow><mml:mo>(</mml:mo><mml:mi>I</mml:mi><mml:msub><mml:mi>N</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>−</mml:mo><mml:mn>100</mml:mn><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:msup><mml:mo>)</mml:mo></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>where
+                    <italic>P</italic><sub><italic>k,j</italic></sub><italic>(IO)</italic>
+                    signifies the probability that the
+                    <italic>k</italic><sup><italic>th</italic></sup> model inferior olive neuron
+                    will emit a response on the <italic>j</italic><sup><italic>th</italic></sup>
+                    trial. We then determined whether a CS would occur on the
+                    <italic>j</italic><sup><italic>th</italic></sup> trial in the
+                    <italic>i</italic><sup><italic>th</italic></sup> model Purkinje cell
+                    according to the Boolean variable:<disp-formula id="equ8"
+                        ><label>(4)</label><mml:math id="m8"
+                            ><mml:mrow><mml:mi>C</mml:mi><mml:msub><mml:mi>S</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mrow><mml:mo>(</mml:mo><mml:msub><mml:mi>R</mml:mi><mml:mrow><mml:mi>C</mml:mi><mml:mi>S</mml:mi></mml:mrow></mml:msub><mml:mo>⋅</mml:mo><mml:msub><mml:mi>δ</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mo>)</mml:mo></mml:mrow><mml:mo>&lt;</mml:mo><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>j</mml:mi></mml:mrow></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>I</mml:mi><mml:mi>O</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></disp-formula>where
+                    <italic>R</italic><sub><italic>CS</italic></sub> is a random number normally
+                    distributed around 1 (standard deviation: 0.4) that determines the degree of
+                    synchrony across responses of model inferior olive neurons; and
+                    <italic>δ</italic><sub><italic>k,j</italic></sub> is a random variable with
+                    a value between 0 and 1 that is used to convert the probability of a response in
+                    the <italic>k</italic><sup><italic>th</italic></sup> inferior olive neuron on
+                    the <italic>j</italic><sup><italic>th</italic></sup> trial into an all or none
+                    response. To implement the 10-to-1 relationship between inferior olive neurons
+                    and Purkinje cells, <italic>CS</italic> and <italic>P(IO)</italic> use indexes
+                    of <italic>i</italic> vs <italic>k</italic>, according to the relationship:
+                    <italic>k=ceil((i-1)/10)</italic>. We changed the synchrony across CS
+                    responses in different model neurons by changing the range used to draw values
+                    of <italic>R</italic><sub><italic>CS</italic></sub>, and we eliminated synchrony
+                    across inferior olive outputs by setting the value of
+                    <italic>R</italic><sub><italic>CS</italic></sub> equal to one.</p>
+                <p>We ran the model as a series of trials, just as we had done with our data, with a
+                    random stream of on- and off-direction instructions. For each trial, we
+                    calculated the weakly correlated firing rates of the population of model
+                    Purkinje cells (<xref ref-type="disp-formula" rid="equ5">Equation 1</xref>), and
+                    subtracted 5 spikes/s to implement plasticity if a CS had occurred for that
+                    Purkinje cell on the prior trial. Next, we computed the CS responses on the
+                    current trial for each model Purkinje cell (<xref ref-type="disp-formula"
+                        rid="equ6">Equations 2</xref>–<xref ref-type="disp-formula" rid="equ4"
+                            >4</xref>). CS-caused plasticity decayed by 2.5 spikes/s on each of the next
+                    two trials. The simple-spike firing rate for a given Purkinje cell was
+                    represented as a scalar. Thus, the results of analysis of the model outputs also
+                    were scalars that were meant to represent the mean simple-spike firing rate
+                    across the analysis interval in our data. To create figures that were easy to
+                    compare with the actual data, we used those scalars as gain factors for
+                    time-varying traces from the data. There did not seem to be any reason to
+                    simulate either neural or behavioral responses on a millisecond time case within
+                    each trial, so time is represented in our model only in terms of the progression
+                    from trial-to-trial in a learning block.</p>
+            </sec>
+           </boxed-text>
+            </app>
+            <app>
+                <title>Appendix 2</title>
+                <boxed-text>
+                    <sec sec-type="appendix" id="s9">
+                        <title>Animal preparation</title>
+                        <p>We conducted experiments on four awake, behaving adult male rhesus monkeys. Two
+                            monkeys were used for recordings from Purkinje cells in the floccular complex
+                            during pursuit learning (at UCSF), and the other two were used only for
+                            behavioral studies of pursuit learning (at Duke). During each experiment
+                            session, head movement was prevented with an implanted head holder, eye position
+                            was monitored with a scleral search coil, and a stainless steel recording
+                            cylinder allowed access to the floccular complex for single neuron recordings.
+                            The head holder, eye coil, and recording cylinder had been implanted in surgical
+                            procedures that used sterile technique with the monkey under isofluorane
+                            anesthesia (<xref ref-type="bibr" rid="bib36">Ramachandran and Lisberger,
+                                2005</xref>). Monkeys received analgesics for several days after each
+                            surgery. The Institutional Animal Care and Use Committees at UCSF and Duke had
+                            approved all the procedures in advance. The procedures were in accordance with
+                            the National Institutes of Health Guide for the Care and Use of Laboratory
+                            Animals.</p>
+                    </sec>
+                    <sec id="s9-1">
+                        <title>Behavioral task</title>
+                        <p>Fixation and pursuit targets comprised bright 0.3° or 0.5° spots, respectively,
+                            on a dark background. Visual stimuli were presented on a CRT monitor that was
+                            placed 30 cm from the monkey’s eye and that subtended a visual field of 59° ×
+                            47°. All experiments were performed in a dimly lit room. Each single neuron
+                            recording experiment consisted of two separate blocks. The baseline block
+                            comprised approximately 80 trials. The target moved at a constant speed of 20
+                            deg/s for 850 ms in one of eight directions. Target motion followed a standard
+                            step-ramp trajectory ((<xref ref-type="fig" rid="fig10">Appendix 2 Figure 1</xref>) <xref ref-type="bibr" rid="bib37">Rashbass, 1961</xref>),
+                            with a 3° eccentric step to minimize the occurrence of saccades during the
+                            initiation of pursuit. A learning block comprised about 400 trials. Each trial
+                            delivered a sequence of target motions described in the ‘Results’.</p>
+                        <p>Monkeys were required to keep their eyes within a reward window that was
+                            <underline>+</underline>1° during fixation, <underline>+</underline>2°
+                            during smooth target motion, and <underline>+</underline>4 or 5° for 400 ms
+                            after an instructive change in target direction. The monkey received a droplet
+                            of juice at the end of the trial if he had satisfied the fixation requirements
+                            throughout the trial. To avoid punishing the monkey for his inescapable response
+                            latencies in learning trials, fixation requirements were suspended for the 250
+                            ms between the onset of target motion and the time of the instructive change in
+                            target motion. The magnitude of learned eye movements was small and did not
+                            affect the chances of reward in either a positive or a negative way.</p><fig id="fig10"
+                                position="float"><object-id pub-id-type="doi"
+                                    >10.7554/eLife.01574.012</object-id><label>Appendix 2 Figure 1
+                                        8.</label><caption><title>Schematic diagrams showing mechanisms of
+                                            cerebellar learning suggested by our data.</title><p>Each panel shows
+                                                the spiking activity of the elements in the proposed cerebellar circuit
+                                                during the course of a learning experiment. Trial ‘3’ contains two
+                                                schematics illustrating the effect of spontaneous trial-to-trial
+                                                variation in the simple-spike firing rate, superimposed on the effects
+                                                of trial-over-trial depression and longer-term learning. Abbreviations
+                                                are: PC, Purkinje cell; GrC, granule cell; DCN, deep cerebellar nucleus;
+                                                IO, inferior olive; CS, complex-spike.</p><p><bold>DOI:</bold>
+                                                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.012"
+                                                        >http://dx.doi.org/10.7554/eLife.01574.012</ext-link></p></caption><graphic
+                                                            xlink:href="elife01574f010"/></fig>
+                    </sec>
+                    <sec id="s9-2">
+                        <title>Data acquisition and analysis</title>
+                        <p>To estimate horizontal and vertical eye position, we scaled the eye position
+                            signals from a magnetic search coil system. The signals were passed through an
+                            analog circuit that rejected signals at frequencies above 25 Hz (−20 dB per
+                            decade) and differentiated signals at lower frequencies to create voltages
+                            proportional to horizontal and vertical eye velocity. Analog signals related to
+                            eye position and velocity were sampled at 1 kHz on each channel and stored for
+                            off-line analysis with single-unit recordings.<xref ref-type="fig" rid="fig11"/></p>
+                        <p>To record the activity of single Purkinje cells in the floccular complex,
+                            glass-insulated platinum–iridium microelectrodes manufactured in our laboratory
+                            were introduced daily through the previously-implanted cylinder. Purkinje cells
+                            showed a high level of spontaneous simple-spike firing and occasional
+                            complex-spike (CS) responses. Purkinje cells in the floccular complex showed
+                            strong modulation of simple-spike firing rate when the monkey tracked sinusoidal
+                            target motion along the horizontal or vertical axis. Extracellular action
+                            potentials were amplified conventionally, filtered with a bandpass of 300 Hz to
+                            3 kHz, digitized at 25 KHz, and stored in the computer. We used a software
+                            window discriminator to view the spike train for each trial in the dataset and
+                            identify simple-spikes and CS responses. The firing rate for simple-spikes was
+                            computed using a reciprocal interval algorithm (<xref ref-type="bibr"
+                                rid="bib23">Lisberger and Pavelko, 1986</xref>). The CS responses were
+                            accumulated for each learning trial in bins with widths of 100 ms, and then were
+                            converted to the probability of a CS in each bin.</p>
+                        <fig id="fig11"
+                            position="float"><object-id pub-id-type="doi"
+                                >10.7554/eLife.01574.013</object-id><label>Appendix 2 Figure 2
+                                    8.</label><caption><title>Schematic diagrams showing mechanisms of
+                                        cerebellar learning suggested by our data.</title><p>Each panel shows
+                                            the spiking activity of the elements in the proposed cerebellar circuit
+                                            during the course of a learning experiment. Trial ‘3’ contains two
+                                            schematics illustrating the effect of spontaneous trial-to-trial
+                                            variation in the simple-spike firing rate, superimposed on the effects
+                                            of trial-over-trial depression and longer-term learning. Abbreviations
+                                            are: PC, Purkinje cell; GrC, granule cell; DCN, deep cerebellar nucleus;
+                                            IO, inferior olive; CS, complex-spike.</p><p><bold>DOI:</bold>
+                                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.013"
+                                                    >http://dx.doi.org/10.7554/eLife.01574.013</ext-link></p></caption><graphic
+                                                        xlink:href="elife01574f011"/></fig>
+                        <p>We analyzed the responses of 108 Purkinje cells whose CS responses remained
+                            isolated through the full learning protocol. The CS responses occur in floccular
+                            Purkinje cells in response to instructive target motions that are in the
+                            ‘off’-direction for simple-spike firing during pursuit (<xref ref-type="bibr"
+                                rid="bib40">Stone and Lisberger, 1990</xref>; <xref ref-type="bibr"
+                                    rid="bib28">Medina and Lisberger, 2008</xref>). Our analysis is based on the
+                            large majority of the Purkinje cells (group 1, 90/108) that showed CS
+                            probabilities more than three times their spontaneous level of 0.09 ± 0.02 (mean
+                            ± SD). We excluded from analysis a much smaller subpopulation (group 2, 18/108),
+                            whose CS probabilities after an instruction were less than 0.2 and never
+                            exceeded three times their spontaneous level.</p>
+                        <p>Specific data analyses are explained at the relevant locations in the ‘Results’,
+                            and statistical tests are described either in the ‘Results’ or in the relevant
+                            figure legends.</p>
+                    </sec>
+                    <sec id="s9-3">
+                        <title>Computer simulations</title>
+                        <p>We created a cerebellar circuit model with 1000 Purkinje cells and 100 neurons in
+                            the inferior olive. In keeping with the known anatomy of the cerebellum, each
+                            neuron in the inferior olive provided a climbing fiber for 10 Purkinje cells
+                            (<xref ref-type="bibr" rid="bib41">Sugihara et al., 2004</xref> visualized
+                            at least 5). The performance of the model was nearly the same if we set the
+                            climbing fiber divergence ratio to be 5 or even 1.</p>
+                           <p>We ran the model as a series of trials, just as we had done with our data, with a
+                            random stream of on- and off-direction instructions. For each trial, we
+                            calculated the weakly correlated firing rates of the population of model
+                            Purkinje cells, and
+                            subtracted 5 spikes/s to implement plasticity if a CS had occurred for that
+                            Purkinje cell on the prior trial. Next, we computed the CS responses on the
+                            current trial for each model Purkinje cell. CS-caused plasticity decayed by 2.5 spikes/s on each of the next
+                            two trials. The simple-spike firing rate for a given Purkinje cell was
+                            represented as a scalar. Thus, the results of analysis of the model outputs also
+                            were scalars that were meant to represent the mean simple-spike firing rate
+                            across the analysis interval in our data. To create figures that were easy to
+                            compare with the actual data, we used those scalars as gain factors for
+                            time-varying traces from the data. There did not seem to be any reason to
+                            simulate either neural or behavioral responses on a millisecond time case within
+                            each trial, so time is represented in our model only in terms of the progression
+                            from trial-to-trial in a learning block.</p>
+                    </sec>
+                </boxed-text>
+            </app>
+        </app-group>
             </back>
     <sub-article article-type="article-commentary" id="SA1">
         <front-stub>
