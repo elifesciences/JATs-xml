@@ -1801,145 +1801,6 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>NH</td>
-                                <td>
-                                    <inline-formula>
-                                        <mml:math id="inf1">
-                                            <mml:mrow>
-                                                <mml:mn>8.21</mml:mn>
-                                                <mml:mtext>&#x2009;</mml:mtext>
-                                                <mml:mrow>
-                                                  <mml:mo>(</mml:mo>
-                                                  <mml:mrow>
-                                                  <mml:mtext>d</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mi>J</mml:mi>
-                                                  <mml:mo>&#x3d;</mml:mo>
-                                                  <mml:mn>9.1</mml:mn>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mtext>Hz</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>1</mml:mn>
-                                                  <mml:mtext>H</mml:mtext>
-                                                  </mml:mrow>
-                                                  <mml:mo>)</mml:mo>
-                                                </mml:mrow>
-                                            </mml:mrow>
-                                        </mml:math>
-                                    </inline-formula>
-                                </td>
-                                <td/>
-                            </tr>
-                            <tr>
-                                <td rowspan="2">1</td>
-                                <td>
-                                    <inline-formula>
-                                        <mml:math id="inf2">
-                                            <mml:mrow>
-                                                <mml:mn>3.01</mml:mn>
-                                                <mml:mtext>&#x2009;</mml:mtext>
-                                                <mml:mrow>
-                                                  <mml:mo>(</mml:mo>
-                                                  <mml:mrow>
-                                                  <mml:mtext>dd</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mi>J</mml:mi>
-                                                  <mml:mo>&#x3d;</mml:mo>
-                                                  <mml:mn>14.2</mml:mn>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>5.1</mml:mn>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mtext>Hz</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>1</mml:mn>
-                                                  <mml:mtext>H</mml:mtext>
-                                                  </mml:mrow>
-                                                  <mml:mo>)</mml:mo>
-                                                </mml:mrow>
-                                            </mml:mrow>
-                                        </mml:math>
-                                    </inline-formula>
-                                </td>
-                                <td align="char" char="." rowspan="2">51.87</td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <inline-formula>
-                                        <mml:math id="inf3">
-                                            <mml:mrow>
-                                                <mml:mn>2.56</mml:mn>
-                                                <mml:mtext>&#x2009;</mml:mtext>
-                                                <mml:mrow>
-                                                  <mml:mo>(</mml:mo>
-                                                  <mml:mrow>
-                                                  <mml:mtext>dd</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mi>J</mml:mi>
-                                                  <mml:mo>&#x3d;</mml:mo>
-                                                  <mml:mn>14.3</mml:mn>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>3.6</mml:mn>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mtext>Hz</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>1</mml:mn>
-                                                  <mml:mtext>H</mml:mtext>
-                                                  </mml:mrow>
-                                                  <mml:mo>)</mml:mo>
-                                                </mml:mrow>
-                                            </mml:mrow>
-                                        </mml:math>
-                                    </inline-formula>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>2</td>
-                                <td>
-                                    <inline-formula>
-                                        <mml:math id="inf4">
-                                            <mml:mrow>
-                                                <mml:mn>3.88</mml:mn>
-                                                <mml:mtext>&#x2009;</mml:mtext>
-                                                <mml:mrow>
-                                                  <mml:mo>(</mml:mo>
-                                                  <mml:mrow>
-                                                  <mml:mtext>ddd</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mi>J</mml:mi>
-                                                  <mml:mo>&#x3d;</mml:mo>
-                                                  <mml:mn>13.0</mml:mn>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>8.6</mml:mn>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>4.5</mml:mn>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mtext>Hz</mml:mtext>
-                                                  <mml:mo>,</mml:mo>
-                                                  <mml:mtext>&#x2009;</mml:mtext>
-                                                  <mml:mn>1</mml:mn>
-                                                  <mml:mtext>H</mml:mtext>
-                                                  </mml:mrow>
-                                                  <mml:mo>)</mml:mo>
-                                                </mml:mrow>
-                                            </mml:mrow>
-                                        </mml:math>
-                                    </inline-formula>
-                                </td>
-                                <td align="char" char=".">50.89</td>
-                            </tr>
-                            <tr>
                                 <td>3</td>
                                 <td>3.78 - 3.71 (m, 1H)</td>
                                 <td align="char" char=".">71.51</td>
@@ -2315,8 +2176,9 @@
                     number of cells and the total number of cells in each rosette colony were
                     counted with a Bright-Line hemacytometer (Hausser Scientific, Horsham, PA).</p>
                 <p>
-                    <disp-formula>
-                        <mml:math id="inf5">
+                    <disp-formula id="equ1">
+                        <label>(1)</label>
+                        <mml:math id="m1">
                             <mml:mrow>
                                 <mml:munder>
                                     <mml:mo/>
@@ -2570,33 +2432,77 @@
                     was detected in the conditioned medium at a concentration of 80 ng
                         L<sup>-1</sup>. The purified RIF-1 was used as the standard (<xref
                         ref-type="fig" rid="sfig5">Figure 4&#x2014;figure supplement 1</xref>).</p>
+                <p>As input, our algorithm requires a genealogical tree, e.g. a tree reconstructed
+                    from a sample of genomic sequences. For a given tree <italic>T</italic>, we
+                    derived the joint probability distribution <inline-formula><mml:math id="inf2"
+                        ><mml:mrow><mml:mi>P</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi
+                            mathvariant="bold"
+                            >x</mml:mi><mml:mo>|</mml:mo><mml:mi>T</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
+                    for the fitnesses <inline-formula><mml:math id="inf3"><mml:mrow><mml:mi
+                        mathvariant="bold"
+                        >x</mml:mi><mml:mo>=</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mn>1</mml:mn></mml:msub><mml:mo>,</mml:mo><mml:mo>…</mml:mo></mml:mrow></mml:math></inline-formula>
+                    of all internal nodes (corresponding to reconstructed ancestral sequences) and
+                    external nodes (corresponding to the sampled genomes). Fitness
+                    <italic>x</italic><sub><italic>i</italic></sub> of each node
+                    <italic>i</italic> is measured relative to the population mean fitness at
+                    the time when the corresponding individual was sampled.
+                    <inline-formula><mml:math id="inf4"
+                        ><mml:mrow><mml:mi>P</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi
+                            mathvariant="bold"
+                            >x</mml:mi><mml:mo>|</mml:mo><mml:mi>T</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
+                    is given by a product of <italic>propagators</italic>
+                    <inline-formula><mml:math id="inf5"
+                        ><mml:mrow><mml:mi>g</mml:mi><mml:mo>(</mml:mo><mml:mo>·</mml:mo><mml:mo>|</mml:mo><mml:mo>·</mml:mo><mml:mo>)</mml:mo></mml:mrow></mml:math></inline-formula>
+                    for each branch
+                    <disp-formula id="equ2">
+                        <label>(1)</label>
+                        <mml:math id="m2">
+                            <mml:mrow><mml:mi>P</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:mi
+                            mathvariant="bold"
+                            >x</mml:mi><mml:mo>|</mml:mo><mml:mi>T</mml:mi></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mn>0</mml:mn></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow><mml:mrow><mml:mi>Z</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>T</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:mfrac><mml:munderover><mml:mstyle
+                                displaystyle="true"
+                                ><mml:mo>∏</mml:mo></mml:mstyle><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mtext>int</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:munderover><mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>|</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mtext> </mml:mtext><mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:msub><mml:mo>|</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:math></disp-formula>where
+                    <inline-formula><mml:math id="inf6"
+                        ><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mn>0</mml:mn></mml:msub><mml:mrow><mml:mo>(</mml:mo><mml:mi>x</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
+                    is the fitness distribution in the population (see ‘Materials and methods’ for
+                    details) and the index <italic>i</italic> runs from 0 (the root) through all
+                    <inline-formula><mml:math id="inf7"
+                        ><mml:mrow><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mtext>int</mml:mtext></mml:mrow></mml:msub></mml:mrow></mml:math></inline-formula>
+                    internal nodes. The indices <inline-formula><mml:math id="inf8"
+                        ><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>1</mml:mn></mml:msub></mml:mrow></mml:math></inline-formula>
+                    and <inline-formula><mml:math id="inf9"
+                        ><mml:mrow><mml:msub><mml:mi>i</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow></mml:math></inline-formula>
+                    denote the two children of node <italic>i</italic>, while
+                    <inline-formula><mml:math id="inf10"
+                        ><mml:mrow><mml:mi>Z</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mi>T</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
+                    ensures normalization of the distribution. 
+                    <xref ref-type="disp-formula" rid="equ2">Eq. (1)</xref> has a structure similar to the expression for the
+                    likelihood of sampled sequences, given a tree <italic>T</italic>, defined in
+                    phylogenetic analysis (<xref ref-type="bibr" rid="bib10">Felsenstein,
+                        2003</xref>). The main difference is that instead of defining the
+                    probability of mutation from one character state to another, the branch
+                    propagator <inline-formula><mml:math id="inf11"
+                        ><mml:mrow><mml:mi>g</mml:mi><mml:mrow><mml:mo>(</mml:mo><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>j</mml:mi></mml:msub><mml:mo>|</mml:mo><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>,</mml:mo><mml:mtext> </mml:mtext><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow><mml:mo>)</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula>
+                    describes the likelihood of the lineage to connect an ancestor with fitness
+                    <inline-formula><mml:math id="inf12"
+                        ><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
+                    at time <inline-formula><mml:math id="inf13"
+                        ><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>i</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
+                    to a child with fitness <inline-formula><mml:math id="inf14"
+                        ><mml:mrow><mml:msub><mml:mi>x</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
+                    at a later time <inline-formula><mml:math id="inf15"
+                        ><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi>j</mml:mi></mml:msub></mml:mrow></mml:math></inline-formula>
+                    (child in sense of a subclade in the tree, rather than direct offspring). Note
+                    that a branch connecting nodes <italic>i</italic> and <italic>j</italic> implies
+                    that all sampled descendants of <italic>i</italic> are also descendants of
+                    <italic>j</italic>, i.e., the ‘branch does not branch’. This non-branching
+                    condition is part of the branch propagator which therefore depends on the
+                    fraction <italic>ω</italic> of the total population that is represented in the
+                    sample (see ‘Materials and methods’ for details).</p>
             </sec>
             <sec id="s4-8">
                 <title>Activity profile of RIF-1</title>
-                <p>
-                    <inline-formula>
-                        <mml:math id="inf6">
-                            <mml:mrow>
-                                <mml:munder>
-                                    <mml:mo/>
-                                    <mml:mi>m</mml:mi>
-                                </mml:munder>
-                                <mml:mrow>
-                                    <mml:msub>
-                                        <mml:mover accent="true">
-                                            <mml:mi>p</mml:mi>
-                                            <mml:mo/>
-                                        </mml:mover>
-                                        <mml:mi>m</mml:mi>
-                                    </mml:msub>
-                                    <mml:mo>&#x3d;</mml:mo>
-                                    <mml:mn>0</mml:mn>
-                                </mml:mrow>
-                            </mml:mrow>
-                        </mml:math>
-                    </inline-formula>
-                </p>
-                <p>The potency of pure RIF-1 was determined using the quantitative bioassay for
+                    <p>The potency of pure RIF-1 was determined using the quantitative bioassay for
                     rosette colony development. Briefly, 100 ug of pure RIF-1 was solubilized in 100
                     ul DMSO and this 1 g L<sup>-1</sup>stock was stored at -80 &#xb0;C. For each
                     experiment, serial dilutions ranging from 10<sup>-1</sup>g L<sup>-1</sup>down to
