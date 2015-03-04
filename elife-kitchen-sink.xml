@@ -1109,7 +1109,8 @@
                 </table-wrap>
             </p>
             <p>To determine which co-isolated bacterial species stimulate rosette colony development
-                in <italic>S. rosetta</italic>, the RCA cell line was supplemented with 64
+                in <italic>S. rosetta</italic>, see <xref ref-type="boxed-text" rid="box1">Box
+                    1</xref> the RCA cell line was supplemented with 64
                 independent bacterial isolates from ATCC50818 and monitored for the appearance of
                 rosette colonies. Only one bacterial species from ATCC50818, the previously
                 undescribed <italic>Algoriphagus machipongonensis</italic> (phylum Bacteroidetes)
@@ -1131,7 +1132,63 @@
                 development, as did six of 16 other closely related species tested in the
                 Bacteroidetes phylum (<xref ref-type="table" rid="tbl1">Table 1</xref>). Therefore,
                 the ability to induce rosette colony development is enriched in
-                    <italic>Algoriphagus</italic> bacteria and their relatives.<fig id="fig2"
+                    <italic>Algoriphagus</italic> bacteria and their relatives.
+                <boxed-text id="box1">
+                    <object-id pub-id-type="doi">10.7554/eLife.03952.014</object-id>
+                    <label>Box 1.</label>
+                    <caption>
+                        <title>Widespread connectivity is not dependent on meridian
+                            representations.</title>
+                        <p>Though we divided data into quadrants that represent distinct parts of
+                            visual space, monosynaptic connections have been observed between
+                            neurons in dorsal and ventral visual cortex with receptive fields
+                            overlapping at the horizontal meridian (<xref ref-type="bibr"
+                                rid="bib52">Jeffs et al., 2009</xref>; see also; <xref
+                                    ref-type="bibr" rid="bib96">Zeki, 1971</xref>; <xref ref-type="bibr"
+                                        rid="bib81">Stepniewska and Kaas, 1996</xref>; <xref ref-type="bibr"
+                                            rid="bib31">Felleman et al., 1997</xref>; <xref ref-type="bibr"
+                                                rid="bib37">Gattass et al., 1997</xref>) and between hemispheres at
+                            the vertical meridian (<xref ref-type="bibr" rid="bib30">Essen and Zeki,
+                                1978</xref>; <xref ref-type="bibr" rid="bib64">Newsome and Allman,
+                                    1980</xref>; <xref ref-type="bibr" rid="bib23">Cusick et al.,
+                                        1984</xref>; <xref ref-type="bibr" rid="bib55">Kennedy et al.,
+                                            1986</xref>; <xref ref-type="bibr" rid="bib2">Abel et al.,
+                                                2000</xref>). Despite constituting (at most) a minimal portion of
+                            the signal in our bin data, we tested whether the observed
+                            eccentricity-based correlations between dorsal and ventral cortex and
+                            between the hemispheres were driven by the inclusion of these
+                            overlapping representations at the horizontal and vertical meridians,
+                            respectively, by removing data from the meridians and re-running the
+                            binning analyses. For correlations between upper and lower visual fields
+                            (dorsal and ventral cortex), we cut out 60&#x00b0; of polar angle
+                            centered on the horizontal meridian, which spared 60&#x00b0; of polar
+                            angle in the upper and lower visual fields near the vertical meridians.
+                            For correlations between the right and left visual fields (right and
+                            left hemispheres), we cut out 90&#x00b0; of polar angle centered on each
+                            vertical meridian, which sparred 90&#x00b0; of polar angle centered on
+                            the horizontal meridian in each hemisphere. Consistent with the original
+                            analyses, average individual subject correlations between dorsal and
+                            ventral portions of V2 and V3 as well as between right and left
+                            hemispheres were strongest at the 0&#x2013;radial distances
+                            (iso-eccentricities), and linearly decreased at larger distances for all
+                            conditions (<xref ref-type="fig" rid="fig6s1">Figure 6&#x2014;figure
+                                supplement 1</xref>). In general, the slopes of correlations were
+                            marginally shallower, but did not significantly differ from the full
+                            data reported in <xref ref-type="fig" rid="fig5">Figure 5</xref>
+                            (<italic>p</italic>s &#x003e; 0.05, FDR corrected). If overlapping
+                            meridian representations facilitated the correlation patterns, removal
+                            of this data should have eliminated the correlation effects. These data
+                            further support the interpretation that the observed correlations with
+                            radial distance are not due to overlapping representations of visual
+                            space.</p>
+                        <p>
+                            <bold>DOI:</bold>
+                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.03952.014"
+                                >http://dx.doi.org/10.7554/eLife.03952.014</ext-link>
+                        </p>
+                    </caption>
+                </boxed-text>
+                <fig id="fig2"
                     position="float">
                     <object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
                     <label>Figure 2.</label>
