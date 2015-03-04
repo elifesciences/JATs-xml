@@ -579,10 +579,13 @@
                     ref-type="fig" rid="fig1">Figure 1B</xref>). This culture line is hereafter
                 referred to as RCA (for &#x2018;Rosette Colonies Absent&#x2019;). Supplementation of
                 RCA cultures with bacteria from ATCC50818 (<xref ref-type="table" rid="tbl1">Table
-                    1</xref>) restored rosette colony development, revealing that <italic>S.
+                    1</xref>) (also see <xref ref-type="supplementary-material" rid="SD3-data">Supplementary file 1</xref>
+                and <xref ref-type="supplementary-material" rid="SD5-data">Source code 1</xref>
+                restored rosette colony development, revealing that <italic>S.
                     rosetta</italic> cells in the RCA culture remained competent to form colonies
                 and would do so when stimulated by the original community of environmental bacteria
-                    (<xref ref-type="other" rid="video1">Video 1</xref>).</p><fig-group>
+                (<xref ref-type="other" rid="video1">Video 1</xref>).
+                <fig-group>
                     <fig id="fig1" position="float">
                         <object-id pub-id-type="doi">10.7554/eLife.00013.003</object-id>
                         <label>Figure 1.</label>
@@ -1120,6 +1123,7 @@
                         </fn>
                         </table-wrap-foot>
                     </table-wrap>
+            </p>
             <p>To determine which co-isolated bacterial species stimulate rosette colony development
                 in <italic>S. rosetta</italic>, see <xref ref-type="boxed-text" rid="box1">Box
                     1</xref> the RCA cell line was supplemented with 64
