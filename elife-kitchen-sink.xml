@@ -601,12 +601,9 @@
                                     machipongonensis</italic> to RCA cultures was sufficient to
                                 induce rosette development. Scale bar, 20 &#x3bc;m.</p>
                             <p>Here is an example of making text display in different colours:
-                                    <named-content content-type="author-callout-style1"
-                                    >red</named-content>, <named-content
-                                    content-type="author-callout-style2">blue</named-content>,
-                                    <named-content content-type="author-callout-style3"
-                                    >green</named-content>, and <named-content
-                                    content-type="author-callout-style4">yellow</named-content>.</p>
+                                <named-content content-type="author-callout-style1"
+                                    >red</named-content> and <named-content
+                                        content-type="author-callout-style2">blue</named-content>.</p>
                             <p> Here is an example of pulling in an inline graphic <inline-graphic
                                     xlink:href="elife00013inf001"/>.</p>
                             <p>
