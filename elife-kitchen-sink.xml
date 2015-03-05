@@ -13,7 +13,8 @@
             <issn publication-format="electronic">2050-084X</issn>
             <publisher>
                 <publisher-name>eLife Sciences Publications, Ltd</publisher-name>
-            </publisher></journal-meta>
+            </publisher>
+        </journal-meta>
         <article-meta>
             <article-id pub-id-type="publisher-id">00013</article-id>
             <article-id pub-id-type="doi">10.7554/eLife.00013</article-id>
@@ -157,18 +158,17 @@
                 </aff>
                 <aff id="aff2">
                     <label>2</label>
-                         <institution content-type="dept">Department of Biological Chemistry
-                            and Molecular Pharmacology</institution>
-                    , <institution>Harvard Medical School</institution>, 
+                         <institution content-type="dept">Department of Biological Chemistry and Molecular Pharmacology</institution>,
+                    <institution>Harvard Medical School</institution>, 
                     <addr-line>
-                        <named-content content-type="city">Boston</named-content></addr-line>
-                    , <country>United States</country>
+                        <named-content content-type="city">Boston</named-content>
+                    </addr-line>,
+                    <country>United States</country>
                 </aff>
                 <aff id="aff3">
                     <label>3</label>
-                   <institution content-type="dept">Department of
-                            Biochemistry</institution>
-                    , <institution>Stanford University School of Medicine</institution>, 
+                   <institution content-type="dept">Department of Biochemistry</institution>,
+                    <institution>Stanford University School of Medicine</institution>, 
                     <addr-line>
                         <named-content content-type="city">Stanford</named-content>
                     </addr-line>,
@@ -197,7 +197,9 @@
                     </name>
                     <aff>
                         <institution>Science Exchange, Palo Alto</institution>,
-                        <addr-line><named-content content-type="city">California</named-content></addr-line>
+                        <addr-line>
+                            <named-content content-type="city">California</named-content>
+                        </addr-line>
                     </aff>
                 </contrib>
                 <contrib contrib-type="author non-byline">
@@ -513,9 +515,7 @@
                     <funding-source><institution-wrap>
                         <institution content-type="university">Laura and John Arnold Foundation</institution>
                     </institution-wrap></funding-source>
-                    <principal-award-recipient>
-                        NISC Comparative Sequencing Program
-                    </principal-award-recipient>
+                    <principal-award-recipient>NISC Comparative Sequencing Program</principal-award-recipient>
                 </award-group>
                 <funding-statement>The funders had no role in study design; collection, analysis,
                     and interpretation of data; writing the article; and or the decision to submit
@@ -528,8 +528,7 @@
                 </custom-meta>
                 <custom-meta specific-use="meta-only">
                     <meta-name>Author impact statement</meta-name>
-                    <meta-value>The chemical nature of RIF-1 may reveal a new class of bacterial
-                        signaling molecules.</meta-value>
+                    <meta-value>The chemical nature of RIF-1 may reveal a new class of bacterial signaling molecules.</meta-value>
                 </custom-meta>
             </custom-meta-group>
         </article-meta>
@@ -583,8 +582,7 @@
                 and <xref ref-type="supplementary-material" rid="SD5-data">Source code 1</xref>
                 restored rosette colony development, revealing that <italic>S.
                     rosetta</italic> cells in the RCA culture remained competent to form colonies
-                and would do so when stimulated by the original community of environmental bacteria
-                (<xref ref-type="other" rid="video1">Video 1</xref>).
+                and would do so when stimulated by the original community of environmental bacteria (<xref ref-type="other" rid="video1">Video 1</xref>).
                 <fig-group>
                     <fig id="fig1" position="float">
                         <object-id pub-id-type="doi">10.7554/eLife.00013.003</object-id>
@@ -604,9 +602,8 @@
                                     machipongonensis</italic> to RCA cultures was sufficient to
                                 induce rosette development. Scale bar, 20 &#x3bc;m.</p>
                             <p>Here is an example of making text display in different colours:
-                                <named-content content-type="author-callout-style1"
-                                    >red</named-content> and <named-content
-                                        content-type="author-callout-style2">blue</named-content>.</p>
+                                <named-content content-type="author-callout-style1">red</named-content> and 
+                                <named-content content-type="author-callout-style2">blue</named-content>.</p>
                             <p> Here is an example of pulling in an inline graphic <inline-graphic
                                     xlink:href="elife00013inf001"/>.</p>
                             <p>
@@ -657,20 +654,7 @@
                                 <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.005"
                                     >http://dx.doi.org/10.7554/eLife.00013.005</ext-link>
                             </p>
-                            <p><supplementary-material id="SD2-data"><object-id pub-id-type="doi">10.7554/eLife.05075.003</object-id>
-                                <label>Table 1—source data 1.</label>
-                                <caption>
-                                    <title>Is the species name mentioned in the
-                                        title, impact statement, abstract and digest of eLife papers
-                                        (July–Sept 2014)?</title>
-                                    <p><bold>DOI:</bold>
-                                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.05075.003">http://dx.doi.org/10.7554/eLife.05075.003</ext-link>
-                                    </p>
-                                </caption>
-                                <media mime-subtype="docx" mimetype="application" xlink:href="elife05075s002.docx"/>
-                            </supplementary-material>
-                            </p>
-                        </caption>
+                            </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs001"/>
                     </fig>
@@ -731,7 +715,16 @@
                             <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.009"
                                 >http://dx.doi.org/10.7554/eLife.00013.009</ext-link>
                         </p>
-                       </caption>
+                        <p><supplementary-material id="SD2-data"><object-id pub-id-type="doi">10.7554/eLife.05075.003</object-id>
+                            <label>Table 1—source data 1.</label>
+                            <caption>
+                                <title>Is the species name mentioned in the
+                                    title, impact statement, abstract and digest of eLife papers
+                                    (July–Sept 2014)?</title>
+                                <p><bold>DOI:</bold>
+                                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.05075.003">http://dx.doi.org/10.7554/eLife.05075.003</ext-link>
+                                </p>
+                            </caption>
                     <table frame="hsides" rules="groups">
                         <thead>
                             <tr>
@@ -1160,16 +1153,16 @@
                             neurons in dorsal and ventral visual cortex with receptive fields
                             overlapping at the horizontal meridian (<xref ref-type="bibr"
                                 rid="bib52">Jeffs et al., 2009</xref>; see also; <xref
-                                    ref-type="bibr" rid="bib96">Zeki, 1971</xref>; <xref ref-type="bibr"
-                                        rid="bib81">Stepniewska and Kaas, 1996</xref>; <xref ref-type="bibr"
-                                            rid="bib31">Felleman et al., 1997</xref>; <xref ref-type="bibr"
-                                                rid="bib37">Gattass et al., 1997</xref>) and between hemispheres at
+                                ref-type="bibr" rid="bib96">Zeki, 1971</xref>; <xref ref-type="bibr"
+                                rid="bib81">Stepniewska and Kaas, 1996</xref>; <xref ref-type="bibr"
+                                rid="bib31">Felleman et al., 1997</xref>; <xref ref-type="bibr"
+                                rid="bib37">Gattass et al., 1997</xref>) and between hemispheres at
                             the vertical meridian (<xref ref-type="bibr" rid="bib30">Essen and Zeki,
                                 1978</xref>; <xref ref-type="bibr" rid="bib64">Newsome and Allman,
-                                    1980</xref>; <xref ref-type="bibr" rid="bib23">Cusick et al.,
-                                        1984</xref>; <xref ref-type="bibr" rid="bib55">Kennedy et al.,
-                                            1986</xref>; <xref ref-type="bibr" rid="bib2">Abel et al.,
-                                                2000</xref>). Despite constituting (at most) a minimal portion of
+                                1980</xref>; <xref ref-type="bibr" rid="bib23">Cusick et al.,
+                                1984</xref>; <xref ref-type="bibr" rid="bib55">Kennedy et al.,
+                                1986</xref>; <xref ref-type="bibr" rid="bib2">Abel et al.,
+                                2000</xref>). Despite constituting (at most) a minimal portion of
                             the signal in our bin data, we tested whether the observed
                             eccentricity-based correlations between dorsal and ventral cortex and
                             between the hemispheres were driven by the inclusion of these
@@ -1187,8 +1180,7 @@
                             ventral portions of V2 and V3 as well as between right and left
                             hemispheres were strongest at the 0&#x2013;radial distances
                             (iso-eccentricities), and linearly decreased at larger distances for all
-                            conditions. If overlapping
-                            meridian representations facilitated the correlation patterns, removal
+                            conditions. If overlapping meridian representations facilitated the correlation patterns, removal
                             of this data should have eliminated the correlation effects. These data
                             further support the interpretation that the observed correlations with
                             radial distance are not due to overlapping representations of visual
@@ -1200,8 +1192,7 @@
                         </p>
                     </caption>
                 </boxed-text>
-                <fig id="fig2"
-                    position="float">
+                <fig id="fig2" position="float">
                     <object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
                     <label>Figure 2.</label>
                     <caption>
@@ -1224,9 +1215,22 @@
                             <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.010"
                                 >http://dx.doi.org/10.7554/eLife.00013.010</ext-link>
                         </p>
+                        <permissions>
+                            <copyright-statement>© 1992, Nature Publishing Group</copyright-statement>
+                            <copyright-year>1992</copyright-year>
+                            <copyright-holder>Nature Publishing Group</copyright-holder>
+                            <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+                                <license-p>Part <bold>A</bold> is reproduced from Figure 4B–C and 6C, <xref ref-type="bibr"
+                                    rid="bib70">Small et al. (1992)</xref>, <italic>The EMBO
+                                        Journal</italic>; Nature Publishing Group has granted permission
+                                    to reproduce these images under the terms of the Creative Commons
+                                    Attribution 3.0 Unported License (<ext-link ext-link-type="uri"
+                                        xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY
+                                        3.0</ext-link>)</license-p>
+                            </license>
+                        </permissions>
                     </caption>
-                    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"
-                    />
+                    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"/>
                 </fig>
             </p>
             <p>Although Bacteroidetes bacteria regulate morphogenetic processes in such diverse
@@ -2120,7 +2124,7 @@
                 </sec>
         <sec sec-type="materials|methods"  id="s4">
             <title>Materials and methods</title>
-            <p>eLife research articles always contain a materials and methods section, generally with level 2 headings to break them up.</p>
+            <p>First level contents of the materials and methods section</p>
         </sec>
             <sec id="s4-1">
                 <title>Choanoflagellate husbandry and microscopy</title>
@@ -3337,13 +3341,124 @@
                 </element-citation>
             </ref>
             <ref id="bib20">
-                <element-citation publication-type="journal"><person-group
-                        person-group-type="author"
-                                ><name><surname>Cerdeno-Tarraga</surname><given-names>AM</given-names></name><name><surname>Patrick</surname><given-names>S</given-names></name><name><surname>Crossman</surname><given-names>L</given-names></name><name><surname>Blakely</surname><given-names>GW</given-names></name><name><surname>Abratt</surname><given-names>V</given-names></name><name><surname>Lennard</surname><given-names>N</given-names></name><name><surname>Poxton</surname><given-names>I</given-names></name><name><surname>Duerden</surname><given-names>B</given-names></name><name><surname>Harris</surname><given-names>B</given-names></name><name><surname>Quail</surname><given-names>MA</given-names></name><name><surname>Barron</surname><given-names>A</given-names></name><name><surname>Clark</surname><given-names>L</given-names></name><name><surname>Corton</surname><given-names>C</given-names></name><name><surname>Doggett</surname><given-names>J</given-names></name><name><surname>Holden</surname><given-names>MT</given-names></name><name><surname>Larke</surname><given-names>N</given-names></name><name><surname>Line</surname><given-names>A</given-names></name><name><surname>Lord</surname><given-names>A</given-names></name><name><surname>Norbertczak</surname><given-names>H</given-names></name><name><surname>Ormond</surname><given-names>D</given-names></name><name><surname>Price</surname><given-names>C</given-names></name><name><surname>Rabbinowitsch</surname><given-names>E</given-names></name><name><surname>Woodward</surname><given-names>J</given-names></name><name><surname>Barrell</surname><given-names>B</given-names></name><name><surname>Parkhill</surname><given-names>J</given-names></name></person-group><year>2005</year><article-title>Extensive
-                        DNA Inversions in the B. fragilis Genome Control Variable Gene
-                        Expression</article-title><person-group person-group-type="editor"><name><surname>Blakely</surname><given-names>GW</given-names></name></person-group>
-                   <source>Science</source><volume>307</volume><fpage>1463</fpage><lpage>1465</lpage><pub-id
-                        pub-id-type="doi">10.1126/science.1107008</pub-id></element-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Cerdeno-Tarraga</surname>
+                            <given-names>AM</given-names>
+                        </name>
+                        <name>
+                            <surname>Patrick</surname>
+                            <given-names>S</given-names>
+                        </name>
+                        <name>
+                            <surname>Crossman</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Blakely</surname>
+                            <given-names>GW</given-names>
+                        </name>
+                        <name>
+                            <surname>Abratt</surname>
+                            <given-names>V</given-names>
+                        </name>
+                        <name>
+                            <surname>Lennard</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Poxton</surname>
+                            <given-names>I</given-names>
+                        </name>
+                        <name>
+                            <surname>Duerden</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Harris</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Quail</surname>
+                            <given-names>MA</given-names>
+                        </name>
+                        <name>
+                            <surname>Barron</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Clark</surname>
+                            <given-names>L</given-names>
+                        </name>
+                        <name>
+                            <surname>Corton</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Doggett</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Holden</surname>
+                            <given-names>MT</given-names>
+                        </name>
+                        <name>
+                            <surname>Larke</surname>
+                            <given-names>N</given-names>
+                        </name>
+                        <name>
+                            <surname>Line</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Lord</surname>
+                            <given-names>A</given-names>
+                        </name>
+                        <name>
+                            <surname>Norbertczak</surname>
+                            <given-names>H</given-names>
+                        </name>
+                        <name>
+                            <surname>Ormond</surname>
+                            <given-names>D</given-names>
+                        </name>
+                        <name>
+                            <surname>Price</surname>
+                            <given-names>C</given-names>
+                        </name>
+                        <name>
+                            <surname>Rabbinowitsch</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Woodward</surname>
+                            <given-names>J</given-names>
+                        </name>
+                        <name>
+                            <surname>Barrell</surname>
+                            <given-names>B</given-names>
+                        </name>
+                        <name>
+                            <surname>Parkhill</surname>
+                            <given-names>J</given-names>
+                        </name>
+                    </person-group>
+                    <year>2005</year>
+                    <article-title>Extensive DNA Inversions in the B. fragilis Genome Control
+                        Variable Gene Expression</article-title>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Blakely</surname>
+                            <given-names>GW</given-names>
+                        </name>
+                    </person-group>
+                    <source>Science</source>
+                    <volume>307</volume>
+                    <fpage>1463</fpage>
+                    <lpage>1465</lpage>
+                    <pub-id pub-id-type="doi">10.1126/science.1107008</pub-id>
+                </element-citation>
             </ref>
             <ref id="bib21">
                 <element-citation publication-type="journal">
@@ -4577,15 +4692,26 @@
                 </element-citation>
             </ref>
             <ref id="bib59">
-                <element-citation publication-type="other"><person-group person-group-type="author"
-                                ><name><surname>Kreft</surname><given-names>JM</given-names></name></person-group><article-title>Effects
-                        of forming multicellular colonies or attaching to surfaces on feeding rates
-                        of the choanoflagellate Salpingoeca rosetta</article-title><person-group
-                        person-group-type="editor"
-                                ><name><surname>Koehl</surname><given-names>M</given-names></name></person-group>
-                   <source>Thesis (M.A.in Integrative
-                        Biology)</source><publisher-loc>Berkeley</publisher-loc><publisher-name>University
-                        of California</publisher-name></element-citation>
+                <element-citation publication-type="other">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Kreft</surname>
+                            <given-names>JM</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>Effects of forming multicellular colonies or attaching to
+                        surfaces on feeding rates of the choanoflagellate Salpingoeca
+                        rosetta</article-title>
+                    <person-group person-group-type="editor">
+                        <name>
+                            <surname>Koehl</surname>
+                            <given-names>M</given-names>
+                        </name>
+                    </person-group>
+                    <source>Thesis (M.A.in Integrative Biology)</source>
+                    <publisher-loc>Berkeley</publisher-loc>
+                    <publisher-name>University of California</publisher-name>
+                </element-citation>
             </ref>
             <ref id="bib60">
                 <element-citation publication-type="journal">
@@ -6384,21 +6510,7 @@
                                                 <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.013"
                                                     >http://dx.doi.org/10.7554/eLife.01574.013</ext-link></p></caption><graphic
                                                         xlink:href="elife01574f011"/>
-                            <permissions>
-                                <copyright-statement>© 1992, Nature Publishing Group</copyright-statement>
-                                <copyright-year>1992</copyright-year>
-                                <copyright-holder>Nature Publishing Group</copyright-holder>
-                                <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
-                                    <license-p>Part <bold>A</bold> is reproduced from Figure 4B–C and 6C, <xref ref-type="bibr"
-                                        rid="bib70">Small et al. (1992)</xref>, <italic>The EMBO
-                                            Journal</italic>; Nature Publishing Group has granted permission
-                                        to reproduce these images under the terms of the Creative Commons
-                                        Attribution 3.0 Unported License (<ext-link ext-link-type="uri"
-                                            xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY
-                                            3.0</ext-link>)</license-p>
-                                </license>
-                            </permissions>
-                        </fig>
+                            </fig>
                         <p>We analyzed the responses of 108 Purkinje cells whose CS responses remained
                             isolated through the full learning protocol. The CS responses occur in floccular
                             Purkinje cells in response to instructive target motions that are in the
