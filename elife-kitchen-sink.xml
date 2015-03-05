@@ -318,7 +318,7 @@
             </permissions>
             <self-uri content-type="pdf" xlink:href="elife00013.pdf"/>
             <related-article ext-link-type="doi" id="ra1" related-article-type="commentary"
-                xlink:href="10.7554/eLife.00107"/>
+                xlink:href="10.7554/eLife.00013"/>
             <abstract>
                 <object-id pub-id-type="doi">10.7554/eLife.00013.001</object-id>
                 <p>Bacterially-produced small molecules exert profound influences on animal health,
@@ -715,16 +715,20 @@
                             <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.009"
                                 >http://dx.doi.org/10.7554/eLife.00013.009</ext-link>
                         </p>
-                        <p><supplementary-material id="SD2-data"><object-id pub-id-type="doi">10.7554/eLife.05075.003</object-id>
+                        <p><supplementary-material id="SD2-data"><object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
                             <label>Table 1—source data 1.</label>
                             <caption>
                                 <title>Is the species name mentioned in the
                                     title, impact statement, abstract and digest of eLife papers
                                     (July–Sept 2014)?</title>
                                 <p><bold>DOI:</bold>
-                                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.05075.003">http://dx.doi.org/10.7554/eLife.05075.003</ext-link>
+                                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.010">http://dx.doi.org/10.7554/eLife.00013.010</ext-link>
                                 </p>
                             </caption>
+                            <media mime-subtype="xlsx" mimetype="application" xlink:href="elife00013s002.xlsx"/>
+                        </supplementary-material>
+                        </p>
+                    </caption>
                     <table frame="hsides" rules="groups">
                         <thead>
                             <tr>
@@ -1143,7 +1147,7 @@
                 the ability to induce rosette colony development is enriched in
                     <italic>Algoriphagus</italic> bacteria and their relatives.
                 <boxed-text id="box1">
-                    <object-id pub-id-type="doi">10.7554/eLife.03952.014</object-id>
+                    <object-id pub-id-type="doi">10.7554/eLife.00013.011</object-id>
                     <label>Box 1.</label>
                     <caption>
                         <title>Widespread connectivity is not dependent on meridian
@@ -1187,13 +1191,13 @@
                             space.</p>
                         <p>
                             <bold>DOI:</bold>
-                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.03952.014"
-                                >http://dx.doi.org/10.7554/eLife.03952.014</ext-link>
+                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.011"
+                                >http://dx.doi.org/10.7554/eLife.00013.011</ext-link>
                         </p>
                     </caption>
                 </boxed-text>
                 <fig id="fig2" position="float">
-                    <object-id pub-id-type="doi">10.7554/eLife.00013.010</object-id>
+                    <object-id pub-id-type="doi">10.7554/eLife.00013.012</object-id>
                     <label>Figure 2.</label>
                     <caption>
                         <title>Diverse members of the Bacteroidetes phylum induce rosette colony
@@ -1212,25 +1216,25 @@
                             bar, 0.1 substitutions per nucleotide position.</p>
                         <p>
                             <bold>DOI:</bold>
-                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.010"
-                                >http://dx.doi.org/10.7554/eLife.00013.010</ext-link>
+                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.012"
+                                >http://dx.doi.org/10.7554/eLife.00013.012</ext-link>
                         </p>
-                        <permissions>
-                            <copyright-statement>© 1992, Nature Publishing Group</copyright-statement>
-                            <copyright-year>1992</copyright-year>
-                            <copyright-holder>Nature Publishing Group</copyright-holder>
-                            <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
-                                <license-p>Part <bold>A</bold> is reproduced from Figure 4B–C and 6C, <xref ref-type="bibr"
-                                    rid="bib70">Small et al. (1992)</xref>, <italic>The EMBO
-                                        Journal</italic>; Nature Publishing Group has granted permission
-                                    to reproduce these images under the terms of the Creative Commons
-                                    Attribution 3.0 Unported License (<ext-link ext-link-type="uri"
-                                        xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY
-                                        3.0</ext-link>)</license-p>
-                            </license>
-                        </permissions>
-                    </caption>
+                       </caption>
                     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"/>
+                    <permissions>
+                        <copyright-statement>© 1992, Nature Publishing Group</copyright-statement>
+                        <copyright-year>1992</copyright-year>
+                        <copyright-holder>Nature Publishing Group</copyright-holder>
+                        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
+                            <license-p>Part <bold>A</bold> is reproduced from Figure 4B–C and 6C, <xref ref-type="bibr"
+                                rid="bib70">Small et al. (1992)</xref>, <italic>The EMBO
+                                    Journal</italic>; Nature Publishing Group has granted permission
+                                to reproduce these images under the terms of the Creative Commons
+                                Attribution 3.0 Unported License (<ext-link ext-link-type="uri"
+                                    xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY
+                                    3.0</ext-link>)</license-p>
+                        </license>
+                    </permissions>
                 </fig>
             </p>
             <p>Although Bacteroidetes bacteria regulate morphogenetic processes in such diverse
@@ -1251,15 +1255,15 @@
                 cell envelope and was heat, protease, and nuclease resistant, revealing that the
                 compound is not a protein, RNA, or DNA (<xref ref-type="table" rid="tbl2">Table
                     2</xref>).<table-wrap id="tbl2" position="float">
-                    <object-id pub-id-type="doi">10.7554/eLife.00013.011</object-id>
+                    <object-id pub-id-type="doi">10.7554/eLife.00013.013</object-id>
                     <label>Table 2.</label>
                     <caption>
                         <p>Responses of RCA<xref ref-type="table-fn" rid="tblfn2">&#x2a;</xref>
                             culture to various supplements</p>
                         <p>
                             <bold>DOI:</bold>
-                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.011"
-                                >http://dx.doi.org/10.7554/eLife.00013.011</ext-link>
+                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.013"
+                                >http://dx.doi.org/10.7554/eLife.00013.013</ext-link>
                         </p>
                     </caption>
                     <table frame="hsides" rules="groups">
@@ -1424,7 +1428,7 @@
                 functions are poorly understood (<xref ref-type="bibr" rid="bib4">An et al.,
                     2011</xref>; <xref ref-type="bibr" rid="bib78">Olsen and Jantzen, 2001</xref>).<fig-group>
                     <fig id="fig3" position="float">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.012</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.014</object-id>
                         <label>Figure 3.</label>
                         <caption>
                             <title>RIF-1, a sulfonolipid that induces rosette colony
@@ -1446,15 +1450,15 @@
                                 base (red).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.012"
-                                    >http://dx.doi.org/10.7554/eLife.00013.012</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.014"
+                                    >http://dx.doi.org/10.7554/eLife.00013.014</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013f003"/>
                     </fig>
                     <fig id="sfig2" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.013</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.015</object-id>
                         <label>Figure 3&#x2014;figure supplement 1.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1479,15 +1483,15 @@
                                 further purified.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.013"
-                                    >http://dx.doi.org/10.7554/eLife.00013.013</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.015"
+                                    >http://dx.doi.org/10.7554/eLife.00013.015</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs002"/>
                     </fig>
                     <fig id="sfig3" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.014</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.016</object-id>
                         <label>Figure 3&#x2014;figure supplement 2.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1500,15 +1504,15 @@
                                 Found: 366.2310 (M-H)<sup>-</sup>.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.014"
-                                    >http://dx.doi.org/10.7554/eLife.00013.014</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.016"
+                                    >http://dx.doi.org/10.7554/eLife.00013.016</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs003"/>
                     </fig>
                     <fig id="sfig4" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.015</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.017</object-id>
                         <label>Figure 3&#x2014;figure supplement 3.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1522,15 +1526,15 @@
                                 to 15&#x27;).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.015"
-                                    >http://dx.doi.org/10.7554/eLife.00013.015</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.017"
+                                    >http://dx.doi.org/10.7554/eLife.00013.017</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs004"/>
                     </fig>
                     <fig id="sfig5" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.016</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.018</object-id>
                         <label>Figure 3&#x2014;figure supplement 4.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1543,15 +1547,15 @@
                                 joined through an amide bond.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.016"
-                                    >http://dx.doi.org/10.7554/eLife.00013.016</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.018"
+                                    >http://dx.doi.org/10.7554/eLife.00013.018</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs005"/>
                     </fig>
                     <fig id="sfig6" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.017</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.019</object-id>
                         <label>Figure 3&#x2014;figure supplement 5.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1561,15 +1565,15 @@
                                 in the capnine base fragment.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.017"
-                                    >http://dx.doi.org/10.7554/eLife.00013.017</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.019"
+                                    >http://dx.doi.org/10.7554/eLife.00013.019</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs006"/>
                     </fig>
                     <fig id="sfig7" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.018</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.020</object-id>
                         <label>Figure 3&#x2014;figure supplement 6.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1584,15 +1588,15 @@
                                     (d<sub>H</sub>0.75-1.75 ppm).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.018"
-                                    >http://dx.doi.org/10.7554/eLife.00013.018</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.020"
+                                    >http://dx.doi.org/10.7554/eLife.00013.020</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs007"/>
                     </fig>
                     <fig id="sfig8" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.019</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.021</object-id>
                         <label>Figure 3&#x2014;figure supplement 7.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1608,15 +1612,15 @@
                                     (d<sub>H</sub>0.75-1.75/d<sub>C</sub>22.00-42.00).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.019"
-                                    >http://dx.doi.org/10.7554/eLife.00013.019</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.021"
+                                    >http://dx.doi.org/10.7554/eLife.00013.021</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs008"/>
                     </fig>
                     <fig id="sfig9" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.020</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.022</object-id>
                         <label>Figure 3&#x2014;figure supplement 8.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1625,15 +1629,15 @@
                                 and H-5.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.020"
-                                    >http://dx.doi.org/10.7554/eLife.00013.020</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.022"
+                                    >http://dx.doi.org/10.7554/eLife.00013.022</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs009"/>
                     </fig>
                     <fig id="sfig10" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.021</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.023</object-id>
                         <label>Figure 3&#x2014;figure supplement 9.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1642,15 +1646,15 @@
                                 (1-position to 6-position) in the capnoid base fragment.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.021"
-                                    >http://dx.doi.org/10.7554/eLife.00013.021</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.023"
+                                    >http://dx.doi.org/10.7554/eLife.00013.023</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs010"/>
                     </fig>
                     <fig id="sfig11" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.022</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.024</object-id>
                         <label>Figure 3&#x2014;figure supplement 10.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1668,15 +1672,15 @@
                                 other methylenes and methyl groups.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.022"
-                                    >http://dx.doi.org/10.7554/eLife.00013.022</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.024"
+                                    >http://dx.doi.org/10.7554/eLife.00013.024</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs011"/>
                     </fig>
                     <fig id="sfig12" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.023</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.025</object-id>
                         <label>Figure 3&#x2014;figure supplement 11.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1693,15 +1697,15 @@
                                 Supplementary Figure 5a-5c.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.023"
-                                    >http://dx.doi.org/10.7554/eLife.00013.023</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.025"
+                                    >http://dx.doi.org/10.7554/eLife.00013.025</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs012"/>
                     </fig>
                     <fig id="sfig13" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.024</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.026</object-id>
                         <label>Figure 3&#x2014;figure supplement 12.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1713,15 +1717,15 @@
                                     (d<sub>C</sub>70.20/71.51).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.024"
-                                    >http://dx.doi.org/10.7554/eLife.00013.024</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.026"
+                                    >http://dx.doi.org/10.7554/eLife.00013.026</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs013"/>
                     </fig>
                     <fig id="sfig14" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.025</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.027</object-id>
                         <label>Figure 3&#x2014;figure supplement 13.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1735,15 +1739,15 @@
                                 (d<sub>C</sub>38.91/27.79/22.09).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.025"
-                                    >http://dx.doi.org/10.7554/eLife.00013.025</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.027"
+                                    >http://dx.doi.org/10.7554/eLife.00013.027</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs014"/>
                     </fig>
                     <fig id="sfig15" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.026</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.028</object-id>
                         <label>Figure 3&#x2014;figure supplement 14.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1753,15 +1757,15 @@
                                 H-3 and H-2.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.026"
-                                    >http://dx.doi.org/10.7554/eLife.00013.026</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.028"
+                                    >http://dx.doi.org/10.7554/eLife.00013.028</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013fs015"/>
                     </fig>
                     <fig id="sfig16" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.027</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.029</object-id>
                         <label>Figure 3&#x2014;figure supplement 15.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -1772,8 +1776,8 @@
                                 expanded spectrum.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.027"
-                                    >http://dx.doi.org/10.7554/eLife.00013.027</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.029"
+                                    >http://dx.doi.org/10.7554/eLife.00013.029</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -1800,14 +1804,14 @@
                     3</xref>) spectra revealed the planar structure of RIF-1, an unusual
                 sulfonolipid shown in <xref ref-type="fig" rid="fig3">Figure 3B</xref>.<table-wrap
                     id="tbl3" position="float">
-                    <object-id pub-id-type="doi">10.7554/eLife.00013.028</object-id>
+                    <object-id pub-id-type="doi">10.7554/eLife.00013.030</object-id>
                     <label>Table 3.</label>
                     <caption>
                         <p>Table of NMR chemical shifts</p>
                         <p>
                             <bold>DOI:</bold>
-                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.028"
-                                >http://dx.doi.org/10.7554/eLife.00013.028</ext-link>
+                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.030"
+                                >http://dx.doi.org/10.7554/eLife.00013.030</ext-link>
                         </p>
                     </caption>
                     <table frame="hsides" rules="groups">
@@ -1969,7 +1973,7 @@
                 potency of RIF-1 as an inducer of colony development may require additional
                     <italic>A. machipongonensis</italic> molecules not identified in this study.<fig-group>
                     <fig id="fig4" position="float">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.029</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.031</object-id>
                         <label>Figure 4.</label>
                         <caption>
                             <title>Purified RIF-1 is active at plausible environmental
@@ -1982,15 +1986,15 @@
                                 non-linear regression of the RIF-1 activity profile.</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.029"
-                                    >http://dx.doi.org/10.7554/eLife.00013.029</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.031"
+                                    >http://dx.doi.org/10.7554/eLife.00013.031</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
                             xlink:href="elife00013f004"/>
                     </fig>
                     <fig id="sfig17" position="float" specific-use="child-fig">
-                        <object-id pub-id-type="doi">10.7554/eLife.00013.030</object-id>
+                        <object-id pub-id-type="doi">10.7554/eLife.00013.032</object-id>
                         <label>Figure 4&#x2014;figure supplement 1.</label>
                         <caption>
                             <title>The title of the child fig.</title>
@@ -2006,8 +2010,8 @@
                                 was spiked with purified RIF-1 (bottom panel).</p>
                             <p>
                                 <bold>DOI:</bold>
-                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.030"
-                                    >http://dx.doi.org/10.7554/eLife.00013.030</ext-link>
+                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.032"
+                                    >http://dx.doi.org/10.7554/eLife.00013.032</ext-link>
                             </p>
                         </caption>
                         <graphic xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -2625,47 +2629,47 @@
         <sec sec-type="supplementary-material" id="s6">
             <title>Additional files</title>
             <supplementary-material id="SD3-data">
-                <object-id pub-id-type="doi">10.7554/eLife.00013.031</object-id>
+                <object-id pub-id-type="doi">10.7554/eLife.00013.033</object-id>
                 <label>Supplementary file 1.</label>
                 <caption>
                     <title>This is the title of the supplementary file 1.</title>
                     <p>A file containing underlying data.</p>
                     <p>
                         <bold>DOI:</bold>
-                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.031"
-                            >http://dx.doi.org/10.7554/eLife.00013.031</ext-link>
+                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.033"
+                            >http://dx.doi.org/10.7554/eLife.00013.033</ext-link>
                     </p>
                 </caption>
-                <media mime-subtype="xlsx" mimetype="application" xlink:href="elife00013s002.xlsx"/>
+                <media mime-subtype="xlsx" mimetype="application" xlink:href="elife00013s003.xlsx"/>
             </supplementary-material>
             <supplementary-material id="SD4-data">
-                <object-id pub-id-type="doi">10.7554/eLife.00013.032</object-id>
-                <label>Reporting Standard.</label>
+                <object-id pub-id-type="doi">10.7554/eLife.00013.034</object-id>
+                <label>Reporting Standard</label>
                 <caption>
                     <title>The microarray (ChIP-chip) data were reported according to MIAME (Minimum
                         Information About a Microarray Experiment) guidelines. All GEO submission
                         procedures are designed to closely follow the MIAME checklist.</title>
                     <p>
                         <bold>DOI:</bold>
-                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.032"
-                            >http://dx.doi.org/10.7554/eLife.00013.032</ext-link>
+                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.034"
+                            >http://dx.doi.org/10.7554/eLife.00013.034</ext-link>
                     </p>
                 </caption>
-                <media mime-subtype="pdf" mimetype="application" xlink:href="elife00013s003.pdf"/>
+                <media mime-subtype="pdf" mimetype="application" xlink:href="elife00013s004.pdf"/>
             </supplementary-material>
             <supplementary-material id="SD5-data">
-                <object-id pub-id-type="doi">10.7554/eLife.00013.033</object-id>
-                <label>Source code 1.</label>
+                <object-id pub-id-type="doi">10.7554/eLife.00013.035</object-id>
+                <label>Source code 1</label>
                 <caption>
                     <title>This is the title of the Source code 1.</title>
                     <p>A piece of code that generated the video.</p>
                     <p>
                         <bold>DOI:</bold>
-                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.033"
-                            >http://dx.doi.org/10.7554/eLife.00013.033</ext-link>
+                        <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.035"
+                            >http://dx.doi.org/10.7554/eLife.00013.035</ext-link>
                     </p>
                 </caption>
-                <media mime-subtype="pdf" mimetype="application" xlink:href="elife00013s004.pdf"/>
+                <media mime-subtype="py" mimetype="application" xlink:href="elife00013s005.py"/>
             </supplementary-material>
             <sec sec-type="datasets" id="s7">
                 <title>Major datasets</title>
@@ -2716,8 +2720,7 @@
                 </p>
                 <p>The following previously published dataset was used</p>
                 <p>
-                    <related-object content-type="existing-dataset"
-                        id="dataro3"> 
+                    <related-object content-type="existing-dataset" id="dataro3"> 
                         <name>
                             <surname>Fowler-Finn</surname>
                             <given-names>KD</given-names>
@@ -6270,7 +6273,7 @@
                     target motion. The magnitude of learned eye movements was small and did not
                     affect the chances of reward in either a positive or a negative way.</p><fig id="fig9"
                         position="float"><object-id pub-id-type="doi"
-                            >10.7554/eLife.01574.011</object-id><label>Appendix 1 Figure 1
+                            >10.7554/eLife.00013.036</object-id><label>Appendix 1 Figure 1
                                 8.</label><caption><title>Schematic diagrams showing mechanisms of
                                     cerebellar learning suggested by our data.</title><p>Each panel shows
                                         the spiking activity of the elements in the proposed cerebellar circuit
@@ -6280,9 +6283,9 @@
                                         of trial-over-trial depression and longer-term learning. Abbreviations
                                         are: PC, Purkinje cell; GrC, granule cell; DCN, deep cerebellar nucleus;
                                         IO, inferior olive; CS, complex-spike.</p><p><bold>DOI:</bold>
-                                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.011"
-                                                >http://dx.doi.org/10.7554/eLife.01574.011</ext-link></p></caption><graphic
-                                                    xlink:href="elife01574f009"/></fig>
+                                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.036"
+                                                >http://dx.doi.org/10.7554/eLife.00013.036</ext-link></p></caption><graphic
+                                                    xlink:href="elife00013f005"/></fig>
             </sec>
             <sec id="s8-2">
                 <title>Data acquisition and analysis</title>
@@ -6457,8 +6460,8 @@
                             target motion. The magnitude of learned eye movements was small and did not
                             affect the chances of reward in either a positive or a negative way.</p><fig id="fig10"
                                 position="float"><object-id pub-id-type="doi"
-                                    >10.7554/eLife.01574.012</object-id><label>Appendix 2 Figure 1
-                                        8.</label><caption><title>Schematic diagrams showing mechanisms of
+                                    >10.7554/eLife.00013.037</object-id><label>Appendix 2 Figure 1
+                                       </label><caption><title>Schematic diagrams showing mechanisms of
                                             cerebellar learning suggested by our data.</title><p>Each panel shows
                                                 the spiking activity of the elements in the proposed cerebellar circuit
                                                 during the course of a learning experiment. Trial ‘3’ contains two
@@ -6467,9 +6470,9 @@
                                                 of trial-over-trial depression and longer-term learning. Abbreviations
                                                 are: PC, Purkinje cell; GrC, granule cell; DCN, deep cerebellar nucleus;
                                                 IO, inferior olive; CS, complex-spike.</p><p><bold>DOI:</bold>
-                                                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.012"
-                                                        >http://dx.doi.org/10.7554/eLife.01574.012</ext-link></p></caption><graphic
-                                                            xlink:href="elife01574f010"/></fig>
+                                                    <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.037"
+                                                        >http://dx.doi.org/10.7554/eLife.00013.037</ext-link></p></caption><graphic
+                                                            xlink:href="elife00013f006"/></fig>
                     </sec>
                     <sec id="s9-2">
                         <title>Data acquisition and analysis</title>
@@ -6498,7 +6501,7 @@
                         <fig id="fig11"
                             position="float"><object-id pub-id-type="doi"
                                 >10.7554/eLife.01574.013</object-id><label>Appendix 2 Figure 2
-                                    8.</label><caption><title>Schematic diagrams showing mechanisms of
+                                   </label><caption><title>Schematic diagrams showing mechanisms of
                                         cerebellar learning suggested by our data.</title><p>Each panel shows
                                             the spiking activity of the elements in the proposed cerebellar circuit
                                             during the course of a learning experiment. Trial ‘3’ contains two
@@ -6507,9 +6510,9 @@
                                             of trial-over-trial depression and longer-term learning. Abbreviations
                                             are: PC, Purkinje cell; GrC, granule cell; DCN, deep cerebellar nucleus;
                                             IO, inferior olive; CS, complex-spike.</p><p><bold>DOI:</bold>
-                                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.01574.013"
+                                                <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.038"
                                                     >http://dx.doi.org/10.7554/eLife.01574.013</ext-link></p></caption><graphic
-                                                        xlink:href="elife01574f011"/>
+                                                        xlink:href="elife00013f007"/>
                             </fig>
                         <p>We analyzed the responses of 108 Purkinje cells whose CS responses remained
                             isolated through the full learning protocol. The CS responses occur in floccular
@@ -6557,7 +6560,7 @@
             </back>
     <sub-article article-type="article-commentary" id="SA1">
         <front-stub>
-            <article-id pub-id-type="doi">10.7554/eLife.00013.034</article-id>
+            <article-id pub-id-type="doi">10.7554/eLife.00013.039</article-id>
             <title-group>
                 <article-title>Decision letter</article-title>
             </title-group>
@@ -6654,7 +6657,7 @@
     </sub-article>
     <sub-article article-type="reply" id="SA2">
         <front-stub>
-            <article-id pub-id-type="doi">10.7554/eLife.00013.035</article-id>
+            <article-id pub-id-type="doi">10.7554/eLife.00013.040</article-id>
             <title-group>
                 <article-title>Author response</article-title>
             </title-group>
