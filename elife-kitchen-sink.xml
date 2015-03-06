@@ -2676,58 +2676,59 @@
                 <p>The following datasets were generated:</p>
                 <p>
                     <related-object content-type="generated-dataset"
-                         id="dataro1">
-                        <name>
-                            <surname>Alegado</surname>
-                            <given-names>Rosanna A</given-names>
-                        </name>, <name>
-                            <surname>Peterson</surname>
-                            <given-names>William Gunn P</given-names>
-                        </name>, <year>2012</year>
+                        source-id="http://www.rcsb.org/pdb/explore/explore.do?structureId=3ANW"
+                        source-id-type="uri" id="dataro1">
+                        <collab>Oyama T</collab>, 
+                        <collab>Ishino S</collab>, 
+                        <collab>Fujino S</collab>, 
+                        <collab>Oyama H</collab>, 
+                        <collab>Shirai T</collab>, 
+                        <collab>Mayanagi K</collab>, 
+                        <collab>Saito M</collab>, 
+                        <collab>Nagasawa N</collab>,
+                        <collab>Ishino Y</collab>, 
+                        <collab>Morikawa K</collab>,
+                        <year>2011</year>
                         <x>, </x>
-                        <source>The awesome dataset</source>
+                        <source>A protein complex essential initiation of DNA replication</source>
                         <x>, </x>
-                        <object-id pub-id-type="art-access-id">f615</object-id>
-                        <x>; </x>
                         <ext-link ext-link-type="uri"
-                            xlink:href="http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615"
-                            >http://dx.doi.org/10.5061/dryad.mh2qsadfdsf615</ext-link>
+                            xlink:href="http://www.rcsb.org/pdb/explore/explore.do?structureId=3ANW"
+                            >http://www.rcsb.org/pdb/explore/explore.do?structureId=3ANW</ext-link>
                         <x>, </x>
-                        <comment>Available at Dryad Digital Repository under a CC0 Public Domain Dedication.</comment>
+                        <comment>Publicly available at RCSB Protein Data Bank.</comment>
                     </related-object>
                 </p>
                 <p>
                     <related-object content-type="generated-dataset"
-                        id="dataro2">
-                        <name>
-                            <surname>Alegado</surname>
-                            <given-names>Rosanna A</given-names>
-                        </name>, <name>
-                            <surname>Peterson</surname>
-                            <given-names>William Gunn P</given-names>
-                        </name>, <year>2012</year>
+                        source-id="http://www.ncbi.nlm.nih.gov/sra/SRX528181"
+                        source-id-type="uri" id="dataro2">
+                        <collab>Zhao Y</collab>, 
+                        <collab>Lin J</collab>, 
+                        <collab>Xu B</collab>, 
+                        <collab>Hu S</collab>, 
+                        <collab>Zhang X</collab>, 
+                        <collab>Wu L</collab>,
+                        <year>2014</year>
                         <x>, </x>
-                        <source>The title of the dataset</source>
+                        <source>Data from: MicroRNAmediated repression of nonsense mRNAs</source>
                         <x>, </x>
                         <object-id pub-id-type="art-access-id">f615</object-id>
                         <x>; </x>
                         <ext-link ext-link-type="uri"
-                            xlink:href="http://dx.doi.org/10.5061/dryad.mh2qf615"
-                            >http://dx.doi.org/10.5061/dryad.mh2qf615</ext-link>
+                            xlink:href="http://www.ncbi.nlm.nih.gov/sra/SRX528181"
+                            >http://www.ncbi.nlm.nih.gov/sra/SRX528181</ext-link>
                         <x>, </x>
-                        <comment>Database, license, and accessibility information.</comment>
+                        <comment>Publicly available at NCBI Short Read Archive.</comment>
                     </related-object>
                 </p>
                 <p>The following previously published dataset was used</p>
                 <p>
-                    <related-object content-type="existing-dataset" id="dataro3"> 
-                        <name>
-                            <surname>Fowler-Finn</surname>
-                            <given-names>KD</given-names>
-                        </name>, <name>
-                            <surname>Rodriguez</surname>
-                            <given-names>RL</given-names>
-                        </name>, <year>2012</year>
+                    <related-object content-type="existing-dataset" source-id="http://dx.doi.org/10.5061/dryad.mh2qf615" 
+                        source-id-type="uri" id="dataro3"> 
+                        <collab>KD Fowler-Finn</collab>, 
+                        <collab>RL Rodriguez</collab>, 
+                        <year>2012</year>
                         <x>, </x>
                         <source>The evolution of experience-mediated plasticity in mate
                             preference</source>
