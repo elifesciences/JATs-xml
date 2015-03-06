@@ -2678,16 +2678,16 @@
                     <related-object content-type="generated-dataset"
                         source-id="http://www.rcsb.org/pdb/explore/explore.do?structureId=3ANW"
                         source-id-type="uri" id="dataro1">
-                        <collab>Oyama T</collab>, 
-                        <collab>Ishino S</collab>, 
-                        <collab>Fujino S</collab>, 
-                        <collab>Oyama H</collab>, 
-                        <collab>Shirai T</collab>, 
-                        <collab>Mayanagi K</collab>, 
-                        <collab>Saito M</collab>, 
-                        <collab>Nagasawa N</collab>,
-                        <collab>Ishino Y</collab>, 
-                        <collab>Morikawa K</collab>,
+                        <collab collab-type="author">Oyama T</collab>, 
+                        <collab collab-type="author">Ishino S</collab>, 
+                        <collab collab-type="author">Fujino S</collab>, 
+                        <collab collab-type="author">Oyama H</collab>, 
+                        <collab collab-type="author">Shirai T</collab>, 
+                        <collab collab-type="author">Mayanagi K</collab>, 
+                        <collab collab-type="author">Saito M</collab>, 
+                        <collab collab-type="author">Nagasawa N</collab>,
+                        <collab collab-type="author">Ishino Y</collab>, 
+                        <collab collab-type="author">Morikawa K</collab>,
                         <year>2011</year>
                         <x>, </x>
                         <source>A protein complex essential initiation of DNA replication</source>
@@ -2703,12 +2703,12 @@
                     <related-object content-type="generated-dataset"
                         source-id="http://www.ncbi.nlm.nih.gov/sra/SRX528181"
                         source-id-type="uri" id="dataro2">
-                        <collab>Zhao Y</collab>, 
-                        <collab>Lin J</collab>, 
-                        <collab>Xu B</collab>, 
-                        <collab>Hu S</collab>, 
-                        <collab>Zhang X</collab>, 
-                        <collab>Wu L</collab>,
+                        <collab collab-type="author">Zhao Y</collab>, 
+                        <collab collab-type="author">Lin J</collab>, 
+                        <collab collab-type="author">Xu B</collab>, 
+                        <collab collab-type="author">Hu S</collab>, 
+                        <collab collab-type="author">Zhang X</collab>, 
+                        <collab collab-type="author">Wu L</collab>,
                         <year>2014</year>
                         <x>, </x>
                         <source>Data from: MicroRNAmediated repression of nonsense mRNAs</source>
@@ -2726,8 +2726,8 @@
                 <p>
                     <related-object content-type="existing-dataset" source-id="http://dx.doi.org/10.5061/dryad.mh2qf615" 
                         source-id-type="uri" id="dataro3"> 
-                        <collab>KD Fowler-Finn</collab>, 
-                        <collab>RL Rodriguez</collab>, 
+                        <collab collab-type="author">KD Fowler-Finn</collab>, 
+                        <collab collab-type="author">RL Rodriguez</collab>, 
                         <year>2012</year>
                         <x>, </x>
                         <source>The evolution of experience-mediated plasticity in mate
