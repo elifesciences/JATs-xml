@@ -1222,17 +1222,20 @@
                        </caption>
                     <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="elife00013f002"/>
                     <permissions>
-                        <copyright-statement>© 1992, Nature Publishing Group</copyright-statement>
-                        <copyright-year>1992</copyright-year>
-                        <copyright-holder>Nature Publishing Group</copyright-holder>
-                        <license xlink:href="http://creativecommons.org/licenses/by/3.0/">
-                            <license-p>Part <bold>A</bold> is reproduced from Figure 4B–C and 6C, <xref ref-type="bibr"
-                                rid="bib70">Small et al. (1992)</xref>, <italic>The EMBO
-                                    Journal</italic>; Nature Publishing Group has granted permission
-                                to reproduce these images under the terms of the Creative Commons
-                                Attribution 3.0 Unported License (<ext-link ext-link-type="uri"
-                                    xlink:href="http://creativecommons.org/licenses/by/3.0/">CC BY
-                                    3.0</ext-link>)</license-p>
+                        <copyright-statement>© 1977 Thieme Medical Publishers. All Rights Reserved.</copyright-statement>
+                        <copyright-year>1977</copyright-year>
+                        <copyright-holder>Thieme Medical Publishers</copyright-holder>
+                        <license>
+                            <license-p>Figure 1, lower panel, is reproduced from <xref ref-type="bibr" rid="bib45">Hughes and Sperandio, 2008</xref> with permission.</license-p>
+                        </license>
+                    </permissions>
+                    <permissions>
+                        <copyright-statement>© 2007 Elsevier Masson SAS. All rights reserved</copyright-statement>
+                        <copyright-year>2007</copyright-year>
+                        <copyright-holder>Elsevier Masson SAS</copyright-holder>
+                        <license>
+                            <license-p>The patient figure in Figure 6, part <bold>A</bold> is reproduced from 
+                                <xref ref-type="bibr" rid="bib58">Koropatnick et al., 2004</xref>, <italic>European Journal of Medical Genetics</italic> with permission.</license-p>
                         </license>
                     </permissions>
                 </fig>
