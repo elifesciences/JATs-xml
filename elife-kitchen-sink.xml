@@ -674,34 +674,39 @@
                     </caption>
                 </media>
                 <chem-struct-wrap id="M1">
-                    <object-id pub-id-type="doi">10.7554/eLife.00013.007</object-id>
+                    <object-id pub-id-type="doi">10.1371/journal.pone.0118223</object-id>
                     <label>Molecule 1.</label>
                     <caption>
-                        <p>This is an example of a payload containing a molecule</p>
+                        <p>This is an example of an externally hosted molecule. As it is hosted on Figshare it will not have an eLife DOI and so the DOI should not be 
+                            deposited with CrossRef. Also, should be cited properly as: Serratos, Iris N.; Castellanos, Pilar; Pastor, Nina; Millán-Pacheco, César; Rembao, 
+                            Daniel; Pérez-Montfort, Ruy; Cabrera, Nallely; Reyes-Espinosa, Francisco; Díaz-Garrido, Paulina; López-Macay, Ambar; Martínez-Flores, Karina; López-Reyes, 
+                            Alberto; Sánchez-García, Aurora; Cuevas, Elvis; Santamaria, Abel (2015): Molecular structure of quinolinic acid (QUIN). Fig_1.tif. PLOS ONE. 10.1371/journal.pone.0120221.g001.</p>
                         <p>
                             <bold>DOI:</bold>
-                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.007"
-                                >http://dx.doi.org/10.7554/eLife.00013.007</ext-link>
+                            <ext-link ext-link-type="doi" xlink:href="10.1371/journal.pone.0118223"
+                                >http://dx.doi.org/10.1371/journal.pone.0118223</ext-link>
                         </p>
                     </caption>
-                    <chem-struct content-type="pdb" specific-use="remotely-hosted-data"
-                        xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol"/>
+                    <chem-struct content-type="figshare" specific-use="remotely-hosted-data"
+                        xlink:href="http://wl.figshare.com/articles/1345292/embed?show_title=1"/>
                 </chem-struct-wrap>
                 <chem-struct-wrap id="M2">
-                    <object-id pub-id-type="doi">10.7554/eLife.00013.008</object-id>
+                    <object-id pub-id-type="doi">10.6084/m9.figshare.1263506
+                    </object-id>
                     <label>Molecule 2.</label>
                     <caption>
-                        <p>This is an example of a payload containing a molecule and a fallback
-                            image</p>
+                        <p>This is an example of an externally hosted molecular structure in JMOl. Shoudl be cited as: Hanson, Bob (2014): Sample Jmol figure. figshare.
+                            http://dx.doi.org/10.6084/m9.figshare.1263506</p>
                         <p>
                             <bold>DOI:</bold>
-                            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.00013.008"
-                                >http://dx.doi.org/10.7554/eLife.00013.008</ext-link>
+                            <ext-link ext-link-type="doi" xlink:href="10.6084/m9.figshare.1263506
+                                "
+                                >http://dx.doi.org/10.6084/m9.figshare.1263506</ext-link>
                         </p>
                     </caption>
                     <alternatives>
-                        <chem-struct content-type="pdb" specific-use="remotely-hosted-data"
-                            xlink:href="https://www.dropbox.com/s/yqgeotanxf81t8r/thing%20S1.jmol"/>
+                        <chem-struct content-type="figshare" specific-use="remotely-hosted-data"
+                            xlink:href="http://wl.figshare.com/articles/1263506/embed?show_title=1"/>
                         <graphic specific-use="fallback-image" xlink:href="m2.tif"/>
                     </alternatives>
                 </chem-struct-wrap>
