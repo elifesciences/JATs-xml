@@ -84,7 +84,7 @@
                     <xref ref-type="fn" rid="equal-contrib2">&#x2021;</xref>
                     <xref ref-type="fn" rid="con4"/>
                     <xref ref-type="fn" rid="conf2"/>
-                    <xref ref-type="other" rid="pa3">&#x2016;</xref>
+                    <xref ref-type="other" rid="pa3">&#x2a;&#x2a;</xref>
                 </contrib>
                 <contrib contrib-type="author" deceased="yes" id="author-5">
                     <name>
@@ -95,7 +95,7 @@
                     <xref ref-type="fn" rid="con5"/>
                     <xref ref-type="fn" rid="conf2"/>
                     <xref ref-type="other" rid="pa3"/>
-                    <xref ref-type="fn" rid="fn1">&#x2a;&#x2a;</xref>
+                    <xref ref-type="fn" rid="fn1">&#x2020;&#x2020;</xref>
                 </contrib>
                 <contrib contrib-type="author" id="author-6">
                     <name>
@@ -273,12 +273,12 @@
                         Medical School, Boston, United States</p>
                 </fn>
                 <fn fn-type="present-address" id="pa3">
-                    <label>&#x2016;</label>
+                    <label>&#x2a;&#x2a;</label>
                     <p>eLife Sciences editorial Office, eLife Sciences, Cambridge, United
                         Kingdom</p>
                 </fn>
                 <fn fn-type="deceased" id="fn1">
-                    <label>&#x2a;&#x2a;</label>
+                    <label>&#x2020;&#x2020;</label>
                     <p>Deceased</p>
                 </fn>
             </author-notes>
