@@ -47,7 +47,7 @@
                     <xref ref-type="other" rid="par-2"/>
                     <xref ref-type="fn" rid="con1"/>
                     <xref ref-type="fn" rid="conf2"/>
-                    <xref ref-type="fn" rid="pa1">&#xb6;</xref>
+                    <xref ref-type="fn" rid="pa1">&#167;</xref>
                     <xref ref-type="other" rid="dataro1"/>
                     <xref ref-type="other" rid="dataro2"/>
                 </contrib>
@@ -63,7 +63,7 @@
                     <xref ref-type="other" rid="par-3"/>
                     <xref ref-type="fn" rid="con2"/>
                     <xref ref-type="fn" rid="conf2"/>
-                    <xref ref-type="fn" rid="pa2">&#x2016;</xref>
+                    <xref ref-type="fn" rid="pa2">&#xb6;</xref>
                 </contrib>
                 <contrib contrib-type="author" id="author-3">
                     <name>
@@ -84,7 +84,7 @@
                     <xref ref-type="fn" rid="equal-contrib2">&#x2021;</xref>
                     <xref ref-type="fn" rid="con4"/>
                     <xref ref-type="fn" rid="conf2"/>
-                    <xref ref-type="other" rid="pa3"/>
+                    <xref ref-type="other" rid="pa3">&#x2016;</xref>
                 </contrib>
                 <contrib contrib-type="author" deceased="yes" id="author-5">
                     <name>
@@ -264,15 +264,16 @@
                     <p>These authors contributed equally to this work</p>
                 </fn>
                 <fn fn-type="present-address" id="pa1">
-                    <label>&#xb6;</label>
+                    <label>&#167;</label>
                     <p>Department of Wellcome Trust, Sanger Institute, London, United Kingdom</p>
                 </fn>
                 <fn fn-type="present-address" id="pa2">
-                    <label>&#x2016;</label>
+                    <label>&#xb6;</label>
                     <p>Department of Biological Chemistry and Molecular Pharmacology, Harvard
                         Medical School, Boston, United States</p>
                 </fn>
                 <fn fn-type="present-address" id="pa3">
+                    <label>&#x2016;</label>
                     <p>eLife Sciences editorial Office, eLife Sciences, Cambridge, United
                         Kingdom</p>
                 </fn>
