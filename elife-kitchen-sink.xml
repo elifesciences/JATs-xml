@@ -4260,7 +4260,7 @@
                             <given-names>K</given-names>
                         </name>
                     </person-group>
-                    <year>1995</year>
+                    <year iso-8601-date="1995">1995a</year>
                     <article-title>Sulfobacins A and B, novel von Willebrand factor receptor
                         antagonists. II. Structural elucidation</article-title>
                     <source>The Journal of antibiotics</source>
@@ -4302,7 +4302,7 @@
                             <given-names>K</given-names>
                         </name>
                     </person-group>
-                    <year>1995</year>
+                    <year iso-8601-date="1995">1995b</year>
                     <article-title>Sulfobacins A and B, novel von Willebrand factor receptor
                         antagonists. I. Production, isolation, characterization and biological
                         activities</article-title>
@@ -6140,7 +6140,7 @@
                             <given-names>TK</given-names>
                         </name>
                     </person-group>
-                    <year>2005</year>
+                    <year iso-8601-date="2005">2005a</year>
                     <article-title>Algoriphagus yeomjeoni sp. nov., isolated from a marine solar
                         saltern in the Yellow Sea, Korea</article-title>
                     <source>International journal of systematic and evolutionary
@@ -6167,7 +6167,7 @@
                             <given-names>TK</given-names>
                         </name>
                     </person-group>
-                    <year>2005</year>
+                    <year iso-8601-date="2005">2005b</year>
                     <article-title>Algoriphagus locisalis sp. nov., isolated from a marine solar
                         saltern</article-title>
                     <source>International journal of systematic and evolutionary
