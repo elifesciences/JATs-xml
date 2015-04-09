@@ -250,11 +250,11 @@
             <author-notes>
                 <corresp id="cor1">
                     <label>&#x2a;</label>For
-                        correspondence: <email>jon_clardy@hms.harvard.edu</email>(JC);</corresp>
+                        correspondence: <email>jon_clardy@hms.harvard.edu</email> (JC);</corresp>
                 <corresp id="cor2">
-                    <email>nking@berkeley.edu</email>(NK)</corresp>
+                    <email>nking@berkeley.edu</email> (NK)</corresp>
                 <corresp id="cor3">
-                    <email>mharrison@elifesciences.org</email>(MH)</corresp>
+                    <email>mharrison@elifesciences.org</email> (MH)</corresp>
                 <fn fn-type="con" id="equal-contrib">
                     <label>&#x2020;</label>
                     <p>These authors contributed equally to this work</p>
@@ -5096,13 +5096,38 @@
                 </element-citation>
             </ref>
             <ref id="bib71">
-                <element-citation publication-type="journal"><person-group
-                        person-group-type="author"
-                                ><name><surname>Merrill</surname><given-names>AH</given-names></name><name><surname>Sullards</surname><given-names>MC</given-names></name><name><surname>Wang</surname><given-names>E</given-names></name><name><surname>Voss</surname><given-names>KA</given-names></name><name><surname>Riley</surname><given-names>RT</given-names></name></person-group><year>2001</year><article-title>Sphingolipid
-                        metabolism: roles in signal transduction and disruption by
-                        fumonisins</article-title><source>Environmental health
-                        perspectives</source><volume>109</volume><supplement>Suppl
-                        2</supplement><fpage>283</fpage><lpage>289</lpage></element-citation>
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Merrill</surname>
+                            <given-names>AH</given-names>
+                        </name>
+                        <name>
+                            <surname>Sullards</surname>
+                            <given-names>MC</given-names>
+                        </name>
+                        <name>
+                            <surname>Wang</surname>
+                            <given-names>E</given-names>
+                        </name>
+                        <name>
+                            <surname>Voss</surname>
+                            <given-names>KA</given-names>
+                        </name>
+                        <name>
+                            <surname>Riley</surname>
+                            <given-names>RT</given-names>
+                        </name>
+                    </person-group>
+                    <year>2001</year>
+                    <article-title>Sphingolipid metabolism: roles in signal transduction and
+                        disruption by fumonisins</article-title>
+                    <source>Environmental health perspectives</source>
+                    <volume>109</volume>
+                    <supplement>Suppl 2</supplement>
+                    <fpage>283</fpage>
+                    <lpage>289</lpage>
+                </element-citation>
             </ref>
             <ref id="bib72">
                 <element-citation publication-type="journal">
